@@ -1,0 +1,1444 @@
+{
+ "questions": [
+  {
+   "question": "What does \"Abode\" mean?",
+   "choices": [
+    "obstruct progress",
+    "dwelling or residence",
+    "offensive or harmful",
+    "suppress or put down"
+   ],
+   "answer": 1,
+   "explanation": "Abode — dwelling or residence",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"dwelling or residence\"?",
+   "choices": [
+    "Tussle",
+    "Abode",
+    "Aloof",
+    "Disgruntled"
+   ],
+   "answer": 1,
+   "explanation": "Abode — dwelling or residence",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Aloof\" mean?",
+   "choices": [
+    "impose something unwanted",
+    "emotionally or physically distant",
+    "sharpen or stimulate",
+    "extremely astonished"
+   ],
+   "answer": 1,
+   "explanation": "Aloof — emotionally or physically distant",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"emotionally or physically distant\"?",
+   "choices": [
+    "Appalled",
+    "Dregs",
+    "Aloof",
+    "Pesky"
+   ],
+   "answer": 2,
+   "explanation": "Aloof — emotionally or physically distant",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Appalled\" mean?",
+   "choices": [
+    "push roughly against",
+    "emotionally or physically distant",
+    "unpleasant or morally objectionable",
+    "shocked or horrified"
+   ],
+   "answer": 3,
+   "explanation": "Appalled — shocked or horrified",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"shocked or horrified\"?",
+   "choices": [
+    "Whet",
+    "Appalled",
+    "Untoward",
+    "Dregs"
+   ],
+   "answer": 1,
+   "explanation": "Appalled — shocked or horrified",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Artless\" mean?",
+   "choices": [
+    "dwelling or residence",
+    "shocked or horrified",
+    "offensive or harmful",
+    "without deception or sophistication"
+   ],
+   "answer": 3,
+   "explanation": "Artless — without deception or sophistication",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"without deception or sophistication\"?",
+   "choices": [
+    "Dregs",
+    "Noisome",
+    "Cumbersome",
+    "Artless"
+   ],
+   "answer": 3,
+   "explanation": "Artless — without deception or sophistication",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Badger\" mean?",
+   "choices": [
+    "impose something unwanted",
+    "extremely astonished",
+    "persistently harass",
+    "direct or lacking sharpness"
+   ],
+   "answer": 2,
+   "explanation": "Badger — persistently harass",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"persistently harass\"?",
+   "choices": [
+    "Deem",
+    "Wrest",
+    "Bereft",
+    "Badger"
+   ],
+   "answer": 3,
+   "explanation": "Badger — persistently harass",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Belittle\" mean?",
+   "choices": [
+    "deprived of something valued",
+    "distressed or persistently uneasy",
+    "without deception or sophistication",
+    "make seem less important"
+   ],
+   "answer": 3,
+   "explanation": "Belittle — make seem less important",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"make seem less important\"?",
+   "choices": [
+    "Callow",
+    "Rue",
+    "Lackluster",
+    "Belittle"
+   ],
+   "answer": 3,
+   "explanation": "Belittle — make seem less important",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Bereft\" mean?",
+   "choices": [
+    "become stiff or react defensively",
+    "tightly stretched",
+    "deprived of something valued",
+    "shocked or horrified"
+   ],
+   "answer": 2,
+   "explanation": "Bereft — deprived of something valued",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"deprived of something valued\"?",
+   "choices": [
+    "Callow",
+    "Bereft",
+    "Bristle",
+    "Stymie"
+   ],
+   "answer": 1,
+   "explanation": "Bereft — deprived of something valued",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Besmirch\" mean?",
+   "choices": [
+    "direct or lacking sharpness",
+    "scarcity or severe lack",
+    "damage reputation",
+    "openly disregard"
+   ],
+   "answer": 2,
+   "explanation": "Besmirch — damage reputation",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"damage reputation\"?",
+   "choices": [
+    "Bristle",
+    "Flay",
+    "Dregs",
+    "Besmirch"
+   ],
+   "answer": 3,
+   "explanation": "Besmirch — damage reputation",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Bliss\" mean?",
+   "choices": [
+    "difficult to handle",
+    "make seem less important",
+    "strip off skin",
+    "profound happiness"
+   ],
+   "answer": 3,
+   "explanation": "Bliss — profound happiness",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"profound happiness\"?",
+   "choices": [
+    "Bliss",
+    "Noisome",
+    "Disgruntled",
+    "Crave"
+   ],
+   "answer": 0,
+   "explanation": "Bliss — profound happiness",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Blunt\" mean?",
+   "choices": [
+    "direct or lacking sharpness",
+    "openly disregard",
+    "deprived of something valued",
+    "lowest or remaining residue"
+   ],
+   "answer": 0,
+   "explanation": "Blunt — direct or lacking sharpness",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"direct or lacking sharpness\"?",
+   "choices": [
+    "Abode",
+    "Blunt",
+    "Plight",
+    "Rebuke"
+   ],
+   "answer": 1,
+   "explanation": "Blunt — direct or lacking sharpness",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Bogus\" mean?",
+   "choices": [
+    "feel intense aversion",
+    "forcibly pull or take",
+    "false or fraudulent",
+    "offensive or harmful"
+   ],
+   "answer": 2,
+   "explanation": "Bogus — false or fraudulent",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"false or fraudulent\"?",
+   "choices": [
+    "Pesky",
+    "Rebuke",
+    "Bogus",
+    "Unkempt"
+   ],
+   "answer": 2,
+   "explanation": "Bogus — false or fraudulent",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Bristle\" mean?",
+   "choices": [
+    "tightly stretched",
+    "strongly desire",
+    "become stiff or react defensively",
+    "extremely astonished"
+   ],
+   "answer": 2,
+   "explanation": "Bristle — become stiff or react defensively",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"become stiff or react defensively\"?",
+   "choices": [
+    "Abode",
+    "Bristle",
+    "Aloof",
+    "Foist"
+   ],
+   "answer": 1,
+   "explanation": "Bristle — become stiff or react defensively",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Callow\" mean?",
+   "choices": [
+    "deprived of something valued",
+    "lacking vitality or brilliance",
+    "improper or unfavorable",
+    "immature or inexperienced"
+   ],
+   "answer": 3,
+   "explanation": "Callow — immature or inexperienced",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"immature or inexperienced\"?",
+   "choices": [
+    "Fledgling",
+    "Site",
+    "Quandary",
+    "Callow"
+   ],
+   "answer": 3,
+   "explanation": "Callow — immature or inexperienced",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Comely\" mean?",
+   "choices": [
+    "emotionally or physically distant",
+    "pleasing in appearance",
+    "lowest or remaining residue",
+    "impose something unwanted"
+   ],
+   "answer": 1,
+   "explanation": "Comely — pleasing in appearance",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"pleasing in appearance\"?",
+   "choices": [
+    "Noisome",
+    "Comely",
+    "Artless",
+    "Lackluster"
+   ],
+   "answer": 1,
+   "explanation": "Comely — pleasing in appearance",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Crave\" mean?",
+   "choices": [
+    "persistently harass",
+    "emotionally or physically distant",
+    "difficult to handle",
+    "strongly desire"
+   ],
+   "answer": 3,
+   "explanation": "Crave — strongly desire",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"strongly desire\"?",
+   "choices": [
+    "Artless",
+    "Quandary",
+    "Crave",
+    "Gaunt"
+   ],
+   "answer": 2,
+   "explanation": "Crave — strongly desire",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Cumbersome\" mean?",
+   "choices": [
+    "difficult to manage",
+    "without deception or sophistication",
+    "inexperienced beginner",
+    "extremely thin or haggard"
+   ],
+   "answer": 0,
+   "explanation": "Cumbersome — difficult to manage",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"difficult to manage\"?",
+   "choices": [
+    "Cumbersome",
+    "Quandary",
+    "Loathe",
+    "Lackluster"
+   ],
+   "answer": 0,
+   "explanation": "Cumbersome — difficult to manage",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Dearth\" mean?",
+   "choices": [
+    "extremely astonished",
+    "distressed or persistently uneasy",
+    "difficult to handle",
+    "scarcity or severe lack"
+   ],
+   "answer": 3,
+   "explanation": "Dearth — scarcity or severe lack",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"scarcity or severe lack\"?",
+   "choices": [
+    "Rebuke",
+    "Pesky",
+    "Dearth",
+    "Qualm"
+   ],
+   "answer": 2,
+   "explanation": "Dearth — scarcity or severe lack",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Deem\" mean?",
+   "choices": [
+    "dissatisfied or resentful",
+    "judge or consider",
+    "condition or difficult situation",
+    "dwelling or residence"
+   ],
+   "answer": 1,
+   "explanation": "Deem — judge or consider",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"judge or consider\"?",
+   "choices": [
+    "Deem",
+    "Disgruntled",
+    "Site",
+    "Lithe"
+   ],
+   "answer": 0,
+   "explanation": "Deem — judge or consider",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Disgruntled\" mean?",
+   "choices": [
+    "openly disregard",
+    "dissatisfied or resentful",
+    "difficult to manage",
+    "feel intense aversion"
+   ],
+   "answer": 1,
+   "explanation": "Disgruntled — dissatisfied or resentful",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"dissatisfied or resentful\"?",
+   "choices": [
+    "Cumbersome",
+    "Blunt",
+    "Disgruntled",
+    "Forlorn"
+   ],
+   "answer": 2,
+   "explanation": "Disgruntled — dissatisfied or resentful",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Dregs\" mean?",
+   "choices": [
+    "physical location",
+    "lowest or remaining residue",
+    "openly disregard",
+    "immature or inexperienced"
+   ],
+   "answer": 1,
+   "explanation": "Dregs — lowest or remaining residue",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"lowest or remaining residue\"?",
+   "choices": [
+    "Flabbergasted",
+    "Dregs",
+    "Foist",
+    "Tussle"
+   ],
+   "answer": 1,
+   "explanation": "Dregs — lowest or remaining residue",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Drudgery\" mean?",
+   "choices": [
+    "feel intense aversion",
+    "tedious repetitive labor",
+    "improper or unfavorable",
+    "temporary stay"
+   ],
+   "answer": 1,
+   "explanation": "Drudgery — tedious repetitive labor",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"tedious repetitive labor\"?",
+   "choices": [
+    "Untoward",
+    "Drudgery",
+    "Badger",
+    "Belittle"
+   ],
+   "answer": 1,
+   "explanation": "Drudgery — tedious repetitive labor",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Falter\" mean?",
+   "choices": [
+    "persistently harass",
+    "abandoned or hopeless",
+    "lose steadiness or momentum",
+    "feel intense aversion"
+   ],
+   "answer": 2,
+   "explanation": "Falter — lose steadiness or momentum",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"lose steadiness or momentum\"?",
+   "choices": [
+    "Bereft",
+    "Quell",
+    "Falter",
+    "Roster"
+   ],
+   "answer": 2,
+   "explanation": "Falter — lose steadiness or momentum",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Flabbergasted\" mean?",
+   "choices": [
+    "tedious repetitive labor",
+    "extremely astonished",
+    "excessively flattering or abundant",
+    "difficult to manage"
+   ],
+   "answer": 1,
+   "explanation": "Flabbergasted — extremely astonished",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"extremely astonished\"?",
+   "choices": [
+    "Badger",
+    "Flabbergasted",
+    "Callow",
+    "Jostle"
+   ],
+   "answer": 1,
+   "explanation": "Flabbergasted — extremely astonished",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Flay\" mean?",
+   "choices": [
+    "immature or inexperienced",
+    "make seem less important",
+    "direct or lacking sharpness",
+    "strip off skin"
+   ],
+   "answer": 3,
+   "explanation": "Flay — strip off skin",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"strip off skin\"?",
+   "choices": [
+    "Abode",
+    "Site",
+    "Flay",
+    "Bogus"
+   ],
+   "answer": 2,
+   "explanation": "Flay — strip off skin",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Fledgling\" mean?",
+   "choices": [
+    "openly disregard",
+    "excessively flattering or abundant",
+    "inexperienced beginner",
+    "feel intense aversion"
+   ],
+   "answer": 2,
+   "explanation": "Fledgling — inexperienced beginner",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"inexperienced beginner\"?",
+   "choices": [
+    "Dearth",
+    "Comely",
+    "Fledgling",
+    "Unwieldy"
+   ],
+   "answer": 2,
+   "explanation": "Fledgling — inexperienced beginner",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Flout\" mean?",
+   "choices": [
+    "openly disregard",
+    "sharpen or stimulate",
+    "condition or difficult situation",
+    "prevent successful action"
+   ],
+   "answer": 0,
+   "explanation": "Flout — openly disregard",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"openly disregard\"?",
+   "choices": [
+    "Flout",
+    "Lush",
+    "Jostle",
+    "Scoff"
+   ],
+   "answer": 0,
+   "explanation": "Flout — openly disregard",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Foist\" mean?",
+   "choices": [
+    "push roughly against",
+    "strip off skin",
+    "become stiff or react defensively",
+    "impose something unwanted"
+   ],
+   "answer": 3,
+   "explanation": "Foist — impose something unwanted",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"impose something unwanted\"?",
+   "choices": [
+    "Crave",
+    "Unsavory",
+    "Lush",
+    "Foist"
+   ],
+   "answer": 3,
+   "explanation": "Foist — impose something unwanted",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Forlorn\" mean?",
+   "choices": [
+    "strongly desire",
+    "abandoned or hopeless",
+    "flexible and graceful",
+    "deeply regret"
+   ],
+   "answer": 1,
+   "explanation": "Forlorn — abandoned or hopeless",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"abandoned or hopeless\"?",
+   "choices": [
+    "Bogus",
+    "Lush",
+    "Forlorn",
+    "Noisome"
+   ],
+   "answer": 2,
+   "explanation": "Forlorn — abandoned or hopeless",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Fretful\" mean?",
+   "choices": [
+    "lose steadiness or momentum",
+    "forcibly pull or take",
+    "distressed or persistently uneasy",
+    "become stiff or react defensively"
+   ],
+   "answer": 2,
+   "explanation": "Fretful — distressed or persistently uneasy",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"distressed or persistently uneasy\"?",
+   "choices": [
+    "Veneer",
+    "Fretful",
+    "Bristle",
+    "Noisome"
+   ],
+   "answer": 1,
+   "explanation": "Fretful — distressed or persistently uneasy",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Fulsome\" mean?",
+   "choices": [
+    "feel intense aversion",
+    "excessively flattering or abundant",
+    "pleasing in appearance",
+    "judge or consider"
+   ],
+   "answer": 1,
+   "explanation": "Fulsome — excessively flattering or abundant",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"excessively flattering or abundant\"?",
+   "choices": [
+    "Stymie",
+    "Artless",
+    "Fulsome",
+    "Thwart"
+   ],
+   "answer": 2,
+   "explanation": "Fulsome — excessively flattering or abundant",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Gaunt\" mean?",
+   "choices": [
+    "distressed or persistently uneasy",
+    "extremely thin or haggard",
+    "forcibly pull or take",
+    "dwelling or residence"
+   ],
+   "answer": 1,
+   "explanation": "Gaunt — extremely thin or haggard",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"extremely thin or haggard\"?",
+   "choices": [
+    "Crave",
+    "Fledgling",
+    "Rebuke",
+    "Gaunt"
+   ],
+   "answer": 3,
+   "explanation": "Gaunt — extremely thin or haggard",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Glib\" mean?",
+   "choices": [
+    "fluent but superficially persuasive",
+    "impose something unwanted",
+    "sharply reprimand",
+    "rich, abundant, or luxuriant"
+   ],
+   "answer": 0,
+   "explanation": "Glib — fluent but superficially persuasive",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"fluent but superficially persuasive\"?",
+   "choices": [
+    "Glib",
+    "Stymie",
+    "Roster",
+    "Tussle"
+   ],
+   "answer": 0,
+   "explanation": "Glib — fluent but superficially persuasive",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Jostle\" mean?",
+   "choices": [
+    "lacking vitality or brilliance",
+    "organized list",
+    "push roughly against",
+    "flexible and graceful"
+   ],
+   "answer": 2,
+   "explanation": "Jostle — push roughly against",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"push roughly against\"?",
+   "choices": [
+    "Drudgery",
+    "Sojourn",
+    "Jostle",
+    "Bereft"
+   ],
+   "answer": 2,
+   "explanation": "Jostle — push roughly against",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Lackluster\" mean?",
+   "choices": [
+    "push roughly against",
+    "tightly stretched",
+    "lacking vitality or brilliance",
+    "impose something unwanted"
+   ],
+   "answer": 2,
+   "explanation": "Lackluster — lacking vitality or brilliance",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"lacking vitality or brilliance\"?",
+   "choices": [
+    "Drudgery",
+    "Abode",
+    "Scoff",
+    "Lackluster"
+   ],
+   "answer": 3,
+   "explanation": "Lackluster — lacking vitality or brilliance",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Lithe\" mean?",
+   "choices": [
+    "flexible and graceful",
+    "uneasy doubt or misgiving",
+    "shocked or horrified",
+    "unpleasant or morally objectionable"
+   ],
+   "answer": 0,
+   "explanation": "Lithe — flexible and graceful",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"flexible and graceful\"?",
+   "choices": [
+    "Comely",
+    "Qualm",
+    "Lithe",
+    "Disgruntled"
+   ],
+   "answer": 2,
+   "explanation": "Lithe — flexible and graceful",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Loathe\" mean?",
+   "choices": [
+    "without deception or sophistication",
+    "pleasing in appearance",
+    "shocked or horrified",
+    "feel intense aversion"
+   ],
+   "answer": 3,
+   "explanation": "Loathe — feel intense aversion",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"feel intense aversion\"?",
+   "choices": [
+    "Loathe",
+    "Lackluster",
+    "Fulsome",
+    "Plight"
+   ],
+   "answer": 0,
+   "explanation": "Loathe — feel intense aversion",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Lush\" mean?",
+   "choices": [
+    "extremely thin or haggard",
+    "extremely astonished",
+    "rich, abundant, or luxuriant",
+    "improper or unfavorable"
+   ],
+   "answer": 2,
+   "explanation": "Lush — rich, abundant, or luxuriant",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"rich, abundant, or luxuriant\"?",
+   "choices": [
+    "Flabbergasted",
+    "Qualm",
+    "Lush",
+    "Taut"
+   ],
+   "answer": 2,
+   "explanation": "Lush — rich, abundant, or luxuriant",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Noisome\" mean?",
+   "choices": [
+    "untidy or poorly maintained",
+    "direct or lacking sharpness",
+    "emotionally or physically distant",
+    "offensive or harmful"
+   ],
+   "answer": 3,
+   "explanation": "Noisome — offensive or harmful",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"offensive or harmful\"?",
+   "choices": [
+    "Falter",
+    "Deem",
+    "Noisome",
+    "Cumbersome"
+   ],
+   "answer": 2,
+   "explanation": "Noisome — offensive or harmful",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Pesky\" mean?",
+   "choices": [
+    "deeply regret",
+    "persistently troublesome",
+    "lacking vitality or brilliance",
+    "uneasy doubt or misgiving"
+   ],
+   "answer": 1,
+   "explanation": "Pesky — persistently troublesome",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"persistently troublesome\"?",
+   "choices": [
+    "Pesky",
+    "Rue",
+    "Deem",
+    "Unsavory"
+   ],
+   "answer": 0,
+   "explanation": "Pesky — persistently troublesome",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Plight\" mean?",
+   "choices": [
+    "pleasing in appearance",
+    "obstruct progress",
+    "condition or difficult situation",
+    "tedious repetitive labor"
+   ],
+   "answer": 2,
+   "explanation": "Plight — condition or difficult situation",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"condition or difficult situation\"?",
+   "choices": [
+    "Foist",
+    "Besmirch",
+    "Plight",
+    "Fulsome"
+   ],
+   "answer": 2,
+   "explanation": "Plight — condition or difficult situation",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Qualm\" mean?",
+   "choices": [
+    "uneasy doubt or misgiving",
+    "false or fraudulent",
+    "physical location",
+    "emotionally or physically distant"
+   ],
+   "answer": 0,
+   "explanation": "Qualm — uneasy doubt or misgiving",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"uneasy doubt or misgiving\"?",
+   "choices": [
+    "Dearth",
+    "Comely",
+    "Deem",
+    "Qualm"
+   ],
+   "answer": 3,
+   "explanation": "Qualm — uneasy doubt or misgiving",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Quandary\" mean?",
+   "choices": [
+    "excessively flattering or abundant",
+    "unpleasant or morally objectionable",
+    "temporary stay",
+    "state of uncertainty"
+   ],
+   "answer": 3,
+   "explanation": "Quandary — state of uncertainty",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"state of uncertainty\"?",
+   "choices": [
+    "Abode",
+    "Drudgery",
+    "Quandary",
+    "Lush"
+   ],
+   "answer": 2,
+   "explanation": "Quandary — state of uncertainty",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Quell\" mean?",
+   "choices": [
+    "lacking vitality or brilliance",
+    "deprived of something valued",
+    "suppress or put down",
+    "forcibly pull or take"
+   ],
+   "answer": 2,
+   "explanation": "Quell — suppress or put down",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"suppress or put down\"?",
+   "choices": [
+    "Gaunt",
+    "Qualm",
+    "Quell",
+    "Disgruntled"
+   ],
+   "answer": 2,
+   "explanation": "Quell — suppress or put down",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Rebuke\" mean?",
+   "choices": [
+    "strongly desire",
+    "without deception or sophistication",
+    "sharply reprimand",
+    "deeply regret"
+   ],
+   "answer": 2,
+   "explanation": "Rebuke — sharply reprimand",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"sharply reprimand\"?",
+   "choices": [
+    "Rebuke",
+    "Sojourn",
+    "Plight",
+    "Fulsome"
+   ],
+   "answer": 0,
+   "explanation": "Rebuke — sharply reprimand",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Roster\" mean?",
+   "choices": [
+    "organized list",
+    "emotionally or physically distant",
+    "extremely astonished",
+    "become stiff or react defensively"
+   ],
+   "answer": 0,
+   "explanation": "Roster — organized list",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"organized list\"?",
+   "choices": [
+    "Roster",
+    "Glib",
+    "Flout",
+    "Crave"
+   ],
+   "answer": 0,
+   "explanation": "Roster — organized list",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Rue\" mean?",
+   "choices": [
+    "state of uncertainty",
+    "tightly stretched",
+    "improper or unfavorable",
+    "deeply regret"
+   ],
+   "answer": 3,
+   "explanation": "Rue — deeply regret",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"deeply regret\"?",
+   "choices": [
+    "Drudgery",
+    "Dregs",
+    "Roster",
+    "Rue"
+   ],
+   "answer": 3,
+   "explanation": "Rue — deeply regret",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Scoff\" mean?",
+   "choices": [
+    "mock contemptuously",
+    "rich, abundant, or luxuriant",
+    "inexperienced beginner",
+    "strongly desire"
+   ],
+   "answer": 0,
+   "explanation": "Scoff — mock contemptuously",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"mock contemptuously\"?",
+   "choices": [
+    "Scoff",
+    "Foist",
+    "Appalled",
+    "Belittle"
+   ],
+   "answer": 0,
+   "explanation": "Scoff — mock contemptuously",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Site\" mean?",
+   "choices": [
+    "lacking vitality or brilliance",
+    "distressed or persistently uneasy",
+    "physical location",
+    "persistently troublesome"
+   ],
+   "answer": 2,
+   "explanation": "Site — physical location",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"physical location\"?",
+   "choices": [
+    "Aloof",
+    "Thwart",
+    "Bereft",
+    "Site"
+   ],
+   "answer": 3,
+   "explanation": "Site — physical location",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Sojourn\" mean?",
+   "choices": [
+    "temporary stay",
+    "pleasing in appearance",
+    "lowest or remaining residue",
+    "strip off skin"
+   ],
+   "answer": 0,
+   "explanation": "Sojourn — temporary stay",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"temporary stay\"?",
+   "choices": [
+    "Sojourn",
+    "Flabbergasted",
+    "Foist",
+    "Loathe"
+   ],
+   "answer": 0,
+   "explanation": "Sojourn — temporary stay",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Stymie\" mean?",
+   "choices": [
+    "obstruct progress",
+    "state of uncertainty",
+    "damage reputation",
+    "direct or lacking sharpness"
+   ],
+   "answer": 0,
+   "explanation": "Stymie — obstruct progress",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"obstruct progress\"?",
+   "choices": [
+    "Deem",
+    "Stymie",
+    "Qualm",
+    "Bliss"
+   ],
+   "answer": 1,
+   "explanation": "Stymie — obstruct progress",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Taut\" mean?",
+   "choices": [
+    "emotionally or physically distant",
+    "offensive or harmful",
+    "tightly stretched",
+    "make seem less important"
+   ],
+   "answer": 2,
+   "explanation": "Taut — tightly stretched",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"tightly stretched\"?",
+   "choices": [
+    "Glib",
+    "Taut",
+    "Noisome",
+    "Fledgling"
+   ],
+   "answer": 1,
+   "explanation": "Taut — tightly stretched",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Thwart\" mean?",
+   "choices": [
+    "prevent successful action",
+    "excessively flattering or abundant",
+    "without deception or sophistication",
+    "temporary stay"
+   ],
+   "answer": 0,
+   "explanation": "Thwart — prevent successful action",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"prevent successful action\"?",
+   "choices": [
+    "Thwart",
+    "Lithe",
+    "Unsavory",
+    "Blunt"
+   ],
+   "answer": 0,
+   "explanation": "Thwart — prevent successful action",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Tussle\" mean?",
+   "choices": [
+    "struggle physically",
+    "prevent successful action",
+    "immature or inexperienced",
+    "sharpen or stimulate"
+   ],
+   "answer": 0,
+   "explanation": "Tussle — struggle physically",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"struggle physically\"?",
+   "choices": [
+    "Unkempt",
+    "Quandary",
+    "Unsavory",
+    "Tussle"
+   ],
+   "answer": 3,
+   "explanation": "Tussle — struggle physically",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Unkempt\" mean?",
+   "choices": [
+    "untidy or poorly maintained",
+    "without deception or sophistication",
+    "temporary stay",
+    "rich, abundant, or luxuriant"
+   ],
+   "answer": 0,
+   "explanation": "Unkempt — untidy or poorly maintained",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"untidy or poorly maintained\"?",
+   "choices": [
+    "Unkempt",
+    "Plight",
+    "Bereft",
+    "Flabbergasted"
+   ],
+   "answer": 0,
+   "explanation": "Unkempt — untidy or poorly maintained",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Unsavory\" mean?",
+   "choices": [
+    "persistently troublesome",
+    "unpleasant or morally objectionable",
+    "organized list",
+    "physical location"
+   ],
+   "answer": 1,
+   "explanation": "Unsavory — unpleasant or morally objectionable",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"unpleasant or morally objectionable\"?",
+   "choices": [
+    "Badger",
+    "Flout",
+    "Unsavory",
+    "Fulsome"
+   ],
+   "answer": 2,
+   "explanation": "Unsavory — unpleasant or morally objectionable",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Untoward\" mean?",
+   "choices": [
+    "sharpen or stimulate",
+    "improper or unfavorable",
+    "tightly stretched",
+    "make seem less important"
+   ],
+   "answer": 1,
+   "explanation": "Untoward — improper or unfavorable",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"improper or unfavorable\"?",
+   "choices": [
+    "Crave",
+    "Bliss",
+    "Untoward",
+    "Pesky"
+   ],
+   "answer": 2,
+   "explanation": "Untoward — improper or unfavorable",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Unwieldy\" mean?",
+   "choices": [
+    "difficult to handle",
+    "temporary stay",
+    "feel intense aversion",
+    "mock contemptuously"
+   ],
+   "answer": 0,
+   "explanation": "Unwieldy — difficult to handle",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"difficult to handle\"?",
+   "choices": [
+    "Noisome",
+    "Disgruntled",
+    "Unwieldy",
+    "Fulsome"
+   ],
+   "answer": 2,
+   "explanation": "Unwieldy — difficult to handle",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Veneer\" mean?",
+   "choices": [
+    "condition or difficult situation",
+    "shocked or horrified",
+    "uneasy doubt or misgiving",
+    "thin surface covering; superficial appearance"
+   ],
+   "answer": 3,
+   "explanation": "Veneer — thin surface covering; superficial appearance",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"thin surface covering; superficial appearance\"?",
+   "choices": [
+    "Foist",
+    "Noisome",
+    "Veneer",
+    "Crave"
+   ],
+   "answer": 2,
+   "explanation": "Veneer — thin surface covering; superficial appearance",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Whet\" mean?",
+   "choices": [
+    "inexperienced beginner",
+    "extremely thin or haggard",
+    "excessively flattering or abundant",
+    "sharpen or stimulate"
+   ],
+   "answer": 3,
+   "explanation": "Whet — sharpen or stimulate",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"sharpen or stimulate\"?",
+   "choices": [
+    "Rebuke",
+    "Bliss",
+    "Dregs",
+    "Whet"
+   ],
+   "answer": 3,
+   "explanation": "Whet — sharpen or stimulate",
+   "source": "Germanic"
+  },
+  {
+   "question": "What does \"Wrest\" mean?",
+   "choices": [
+    "push roughly against",
+    "forcibly pull or take",
+    "extremely astonished",
+    "fluent but superficially persuasive"
+   ],
+   "answer": 1,
+   "explanation": "Wrest — forcibly pull or take",
+   "source": "Germanic"
+  },
+  {
+   "question": "Which word means \"forcibly pull or take\"?",
+   "choices": [
+    "Unkempt",
+    "Fledgling",
+    "Wrest",
+    "Aloof"
+   ],
+   "answer": 2,
+   "explanation": "Wrest — forcibly pull or take",
+   "source": "Germanic"
+  }
+ ]
+}

@@ -1,0 +1,676 @@
+{
+ "questions": [
+  {
+   "question": "What does \"Cacophony\" mean?",
+   "choices": [
+    "harsh mixture of sounds",
+    "disgraceful",
+    "skill and adroitness",
+    "widespread or abundant"
+   ],
+   "answer": 0,
+   "explanation": "Cacophony — harsh mixture of sounds",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"harsh mixture of sounds\"?",
+   "choices": [
+    "Gesticulate",
+    "Flagrant",
+    "Cacophony",
+    "Octogenarian"
+   ],
+   "answer": 2,
+   "explanation": "Cacophony — harsh mixture of sounds",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Conducive\" mean?",
+   "choices": [
+    "conspicuously offensive",
+    "shameless boldness",
+    "tending to produce a particular result",
+    "widespread or abundant"
+   ],
+   "answer": 2,
+   "explanation": "Conducive — tending to produce a particular result",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"tending to produce a particular result\"?",
+   "choices": [
+    "Unabated",
+    "Conducive",
+    "Gamut",
+    "Dexterity"
+   ],
+   "answer": 1,
+   "explanation": "Conducive — tending to produce a particular result",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Contemptuous\" mean?",
+   "choices": [
+    "shameless boldness",
+    "small and weak",
+    "expressing scorn",
+    "harsh mixture of sounds"
+   ],
+   "answer": 2,
+   "explanation": "Contemptuous — expressing scorn",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"expressing scorn\"?",
+   "choices": [
+    "Contemptuous",
+    "Prodigy",
+    "Puny",
+    "Flagrant"
+   ],
+   "answer": 0,
+   "explanation": "Contemptuous — expressing scorn",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Decadence\" mean?",
+   "choices": [
+    "widespread or abundant",
+    "complete range",
+    "decline associated with excess or deterioration",
+    "play or move boisterously"
+   ],
+   "answer": 2,
+   "explanation": "Decadence — decline associated with excess or deterioration",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"decline associated with excess or deterioration\"?",
+   "choices": [
+    "Decadence",
+    "Pugnacious",
+    "Flagrant",
+    "Prodigy"
+   ],
+   "answer": 0,
+   "explanation": "Decadence — decline associated with excess or deterioration",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Dexterity\" mean?",
+   "choices": [
+    "skill and adroitness",
+    "lively and animated",
+    "possessing extensive learned knowledge",
+    "peaceful, prosperous, or idyllic"
+   ],
+   "answer": 0,
+   "explanation": "Dexterity — skill and adroitness",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"skill and adroitness\"?",
+   "choices": [
+    "Effrontery",
+    "Unabated",
+    "Contemptuous",
+    "Dexterity"
+   ],
+   "answer": 3,
+   "explanation": "Dexterity — skill and adroitness",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Effrontery\" mean?",
+   "choices": [
+    "lively and animated",
+    "subjected to abusive condemnation",
+    "extremely difficult to disturb emotionally",
+    "shameless boldness"
+   ],
+   "answer": 3,
+   "explanation": "Effrontery — shameless boldness",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"shameless boldness\"?",
+   "choices": [
+    "Gesticulate",
+    "Effrontery",
+    "Erudite",
+    "Prodigy"
+   ],
+   "answer": 1,
+   "explanation": "Effrontery — shameless boldness",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Erudite\" mean?",
+   "choices": [
+    "belief in supernatural causation outside accepted rational or religious standards",
+    "expressing scorn",
+    "widespread or abundant",
+    "possessing extensive learned knowledge"
+   ],
+   "answer": 3,
+   "explanation": "Erudite — possessing extensive learned knowledge",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"possessing extensive learned knowledge\"?",
+   "choices": [
+    "Gesticulate",
+    "Pugnacious",
+    "Erudite",
+    "Contemptuous"
+   ],
+   "answer": 2,
+   "explanation": "Erudite — possessing extensive learned knowledge",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Flagrant\" mean?",
+   "choices": [
+    "complete range",
+    "conspicuously offensive",
+    "hidden or concealed",
+    "expressing scorn"
+   ],
+   "answer": 1,
+   "explanation": "Flagrant — conspicuously offensive",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"conspicuously offensive\"?",
+   "choices": [
+    "Occult",
+    "Puny",
+    "Halcyon",
+    "Flagrant"
+   ],
+   "answer": 3,
+   "explanation": "Flagrant — conspicuously offensive",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Gamut\" mean?",
+   "choices": [
+    "exceptionally talented young person",
+    "complete range",
+    "skill and adroitness",
+    "harsh mixture of sounds"
+   ],
+   "answer": 1,
+   "explanation": "Gamut — complete range",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"complete range\"?",
+   "choices": [
+    "Vivacious",
+    "Gamut",
+    "Erudite",
+    "Parsimonious"
+   ],
+   "answer": 1,
+   "explanation": "Gamut — complete range",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Gesticulate\" mean?",
+   "choices": [
+    "communicate with animated gestures",
+    "small and weak",
+    "continuing without reduction",
+    "peaceful, prosperous, or idyllic"
+   ],
+   "answer": 0,
+   "explanation": "Gesticulate — communicate with animated gestures",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"communicate with animated gestures\"?",
+   "choices": [
+    "Malleable",
+    "Occult",
+    "Romp",
+    "Gesticulate"
+   ],
+   "answer": 3,
+   "explanation": "Gesticulate — communicate with animated gestures",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Halcyon\" mean?",
+   "choices": [
+    "excessively frugal",
+    "capable of being shaped or influenced",
+    "peaceful, prosperous, or idyllic",
+    "subjected to abusive condemnation"
+   ],
+   "answer": 2,
+   "explanation": "Halcyon — peaceful, prosperous, or idyllic",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"peaceful, prosperous, or idyllic\"?",
+   "choices": [
+    "Halcyon",
+    "Cacophony",
+    "Conducive",
+    "Reviled"
+   ],
+   "answer": 0,
+   "explanation": "Halcyon — peaceful, prosperous, or idyllic",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Ignominious\" mean?",
+   "choices": [
+    "belief in supernatural causation outside accepted rational or religious standards",
+    "disgraceful",
+    "widespread or abundant",
+    "excessively sentimental"
+   ],
+   "answer": 1,
+   "explanation": "Ignominious — disgraceful",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"disgraceful\"?",
+   "choices": [
+    "Octogenarian",
+    "Prodigy",
+    "Ignominious",
+    "Reviled"
+   ],
+   "answer": 2,
+   "explanation": "Ignominious — disgraceful",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Imperturbable\" mean?",
+   "choices": [
+    "extremely difficult to disturb emotionally",
+    "lively and animated",
+    "harsh mixture of sounds",
+    "excessively frugal"
+   ],
+   "answer": 0,
+   "explanation": "Imperturbable — extremely difficult to disturb emotionally",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"extremely difficult to disturb emotionally\"?",
+   "choices": [
+    "Prodigy",
+    "Imperturbable",
+    "Cacophony",
+    "Gesticulate"
+   ],
+   "answer": 1,
+   "explanation": "Imperturbable — extremely difficult to disturb emotionally",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Lax\" mean?",
+   "choices": [
+    "harsh mixture of sounds",
+    "insufficiently strict",
+    "inclined to fight",
+    "continuing without reduction"
+   ],
+   "answer": 1,
+   "explanation": "Lax — insufficiently strict",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"insufficiently strict\"?",
+   "choices": [
+    "Octogenarian",
+    "Occult",
+    "Lax",
+    "Reviled"
+   ],
+   "answer": 2,
+   "explanation": "Lax — insufficiently strict",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Malleable\" mean?",
+   "choices": [
+    "capable of being shaped or influenced",
+    "conspicuously offensive",
+    "excessively frugal",
+    "expressing scorn"
+   ],
+   "answer": 0,
+   "explanation": "Malleable — capable of being shaped or influenced",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"capable of being shaped or influenced\"?",
+   "choices": [
+    "Erudite",
+    "Rife",
+    "Malleable",
+    "Reviled"
+   ],
+   "answer": 2,
+   "explanation": "Malleable — capable of being shaped or influenced",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Maudlin\" mean?",
+   "choices": [
+    "continuing without reduction",
+    "excessively sentimental",
+    "harsh mixture of sounds",
+    "peaceful, prosperous, or idyllic"
+   ],
+   "answer": 1,
+   "explanation": "Maudlin — excessively sentimental",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"excessively sentimental\"?",
+   "choices": [
+    "Parsimonious",
+    "Halcyon",
+    "Malleable",
+    "Maudlin"
+   ],
+   "answer": 3,
+   "explanation": "Maudlin — excessively sentimental",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Occult\" mean?",
+   "choices": [
+    "exceptionally talented young person",
+    "disgraceful",
+    "hidden or concealed",
+    "small and weak"
+   ],
+   "answer": 2,
+   "explanation": "Occult — hidden or concealed",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"hidden or concealed\"?",
+   "choices": [
+    "Malleable",
+    "Cacophony",
+    "Decadence",
+    "Occult"
+   ],
+   "answer": 3,
+   "explanation": "Occult — hidden or concealed",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Octogenarian\" mean?",
+   "choices": [
+    "belief in supernatural causation outside accepted rational or religious standards",
+    "shameless boldness",
+    "disgraceful",
+    "person in their eighties"
+   ],
+   "answer": 3,
+   "explanation": "Octogenarian — person in their eighties",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"person in their eighties\"?",
+   "choices": [
+    "Vivacious",
+    "Erudite",
+    "Romp",
+    "Octogenarian"
+   ],
+   "answer": 3,
+   "explanation": "Octogenarian — person in their eighties",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Parsimonious\" mean?",
+   "choices": [
+    "harsh mixture of sounds",
+    "play or move boisterously",
+    "excessively frugal",
+    "lively and animated"
+   ],
+   "answer": 2,
+   "explanation": "Parsimonious — excessively frugal",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"excessively frugal\"?",
+   "choices": [
+    "Contemptuous",
+    "Parsimonious",
+    "Pugnacious",
+    "Lax"
+   ],
+   "answer": 1,
+   "explanation": "Parsimonious — excessively frugal",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Prodigy\" mean?",
+   "choices": [
+    "disgraceful",
+    "complete range",
+    "exceptionally talented young person",
+    "shameless boldness"
+   ],
+   "answer": 2,
+   "explanation": "Prodigy — exceptionally talented young person",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"exceptionally talented young person\"?",
+   "choices": [
+    "Vivacious",
+    "Superstition",
+    "Unabated",
+    "Prodigy"
+   ],
+   "answer": 3,
+   "explanation": "Prodigy — exceptionally talented young person",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Pugnacious\" mean?",
+   "choices": [
+    "decline associated with excess or deterioration",
+    "inclined to fight",
+    "lively and animated",
+    "skill and adroitness"
+   ],
+   "answer": 1,
+   "explanation": "Pugnacious — inclined to fight",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"inclined to fight\"?",
+   "choices": [
+    "Halcyon",
+    "Gesticulate",
+    "Pugnacious",
+    "Imperturbable"
+   ],
+   "answer": 2,
+   "explanation": "Pugnacious — inclined to fight",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Puny\" mean?",
+   "choices": [
+    "tending to produce a particular result",
+    "hidden or concealed",
+    "excessively sentimental",
+    "small and weak"
+   ],
+   "answer": 3,
+   "explanation": "Puny — small and weak",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"small and weak\"?",
+   "choices": [
+    "Octogenarian",
+    "Halcyon",
+    "Lax",
+    "Puny"
+   ],
+   "answer": 3,
+   "explanation": "Puny — small and weak",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Reviled\" mean?",
+   "choices": [
+    "subjected to abusive condemnation",
+    "widespread or abundant",
+    "belief in supernatural causation outside accepted rational or religious standards",
+    "skill and adroitness"
+   ],
+   "answer": 0,
+   "explanation": "Reviled — subjected to abusive condemnation",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"subjected to abusive condemnation\"?",
+   "choices": [
+    "Ignominious",
+    "Parsimonious",
+    "Dexterity",
+    "Reviled"
+   ],
+   "answer": 3,
+   "explanation": "Reviled — subjected to abusive condemnation",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Rife\" mean?",
+   "choices": [
+    "decline associated with excess or deterioration",
+    "exceptionally talented young person",
+    "widespread or abundant",
+    "hidden or concealed"
+   ],
+   "answer": 2,
+   "explanation": "Rife — widespread or abundant",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"widespread or abundant\"?",
+   "choices": [
+    "Pugnacious",
+    "Rife",
+    "Flagrant",
+    "Reviled"
+   ],
+   "answer": 1,
+   "explanation": "Rife — widespread or abundant",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Romp\" mean?",
+   "choices": [
+    "inclined to fight",
+    "possessing extensive learned knowledge",
+    "capable of being shaped or influenced",
+    "play or move boisterously"
+   ],
+   "answer": 3,
+   "explanation": "Romp — play or move boisterously",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"play or move boisterously\"?",
+   "choices": [
+    "Gamut",
+    "Romp",
+    "Dexterity",
+    "Imperturbable"
+   ],
+   "answer": 1,
+   "explanation": "Romp — play or move boisterously",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Superstition\" mean?",
+   "choices": [
+    "belief in supernatural causation outside accepted rational or religious standards",
+    "lively and animated",
+    "complete range",
+    "excessively sentimental"
+   ],
+   "answer": 0,
+   "explanation": "Superstition — belief in supernatural causation outside accepted rational or religious standards",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"belief in supernatural causation outside accepted rational or religious standards\"?",
+   "choices": [
+    "Superstition",
+    "Malleable",
+    "Halcyon",
+    "Lax"
+   ],
+   "answer": 0,
+   "explanation": "Superstition — belief in supernatural causation outside accepted rational or religious standards",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Unabated\" mean?",
+   "choices": [
+    "belief in supernatural causation outside accepted rational or religious standards",
+    "continuing without reduction",
+    "exceptionally talented young person",
+    "subjected to abusive condemnation"
+   ],
+   "answer": 1,
+   "explanation": "Unabated — continuing without reduction",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"continuing without reduction\"?",
+   "choices": [
+    "Cacophony",
+    "Halcyon",
+    "Effrontery",
+    "Unabated"
+   ],
+   "answer": 3,
+   "explanation": "Unabated — continuing without reduction",
+   "source": "18th-Century"
+  },
+  {
+   "question": "What does \"Vivacious\" mean?",
+   "choices": [
+    "lively and animated",
+    "play or move boisterously",
+    "continuing without reduction",
+    "subjected to abusive condemnation"
+   ],
+   "answer": 0,
+   "explanation": "Vivacious — lively and animated",
+   "source": "18th-Century"
+  },
+  {
+   "question": "Which word means \"lively and animated\"?",
+   "choices": [
+    "Vivacious",
+    "Unabated",
+    "Parsimonious",
+    "Effrontery"
+   ],
+   "answer": 0,
+   "explanation": "Vivacious — lively and animated",
+   "source": "18th-Century"
+  }
+ ]
+}

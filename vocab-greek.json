@@ -1,0 +1,1756 @@
+{
+ "questions": [
+  {
+   "question": "What does \"Aegis\" mean?",
+   "choices": [
+    "belief contrary to established doctrine",
+    "sudden violent recurrence",
+    "protection or sponsorship",
+    "compelling personal influence; originally spiritual gift"
+   ],
+   "answer": 2,
+   "explanation": "Aegis — protection or sponsorship",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"protection or sponsorship\"?",
+   "choices": [
+    "Aegis",
+    "Apathy",
+    "Utopia",
+    "Synthesis"
+   ],
+   "answer": 0,
+   "explanation": "Aegis — protection or sponsorship",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Aesthetic\" mean?",
+   "choices": [
+    "occurring irregularly or scattered",
+    "compelling personal influence; originally spiritual gift",
+    "concerned with beauty or artistic judgment",
+    "fundamental or exemplary pattern"
+   ],
+   "answer": 2,
+   "explanation": "Aesthetic — concerned with beauty or artistic judgment",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"concerned with beauty or artistic judgment\"?",
+   "choices": [
+    "Sarcasm",
+    "Trauma",
+    "Sophistry",
+    "Aesthetic"
+   ],
+   "answer": 3,
+   "explanation": "Aesthetic — concerned with beauty or artistic judgment",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Analysis\" mean?",
+   "choices": [
+    "model or conceptual pattern",
+    "expression whose apparent sense contrasts with its meaning",
+    "separation into constituent parts",
+    "identification of a condition"
+   ],
+   "answer": 2,
+   "explanation": "Analysis — separation into constituent parts",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"separation into constituent parts\"?",
+   "choices": [
+    "Analysis",
+    "Charisma",
+    "Chimerical",
+    "Materialism"
+   ],
+   "answer": 0,
+   "explanation": "Analysis — separation into constituent parts",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Anthropologist\" mean?",
+   "choices": [
+    "specialist in the study of humanity",
+    "persisting for a long period",
+    "predicted course of a condition",
+    "serious disastrous event or dramatic form"
+   ],
+   "answer": 0,
+   "explanation": "Anthropologist — specialist in the study of humanity",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"specialist in the study of humanity\"?",
+   "choices": [
+    "Hyperbole",
+    "Anthropologist",
+    "Neurotic",
+    "Dogma"
+   ],
+   "answer": 1,
+   "explanation": "Anthropologist — specialist in the study of humanity",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Apathy\" mean?",
+   "choices": [
+    "lack of feeling or interest",
+    "challenger of established beliefs or institutions",
+    "abandonment of a faith",
+    "distrustful of human motives"
+   ],
+   "answer": 0,
+   "explanation": "Apathy — lack of feeling or interest",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"lack of feeling or interest\"?",
+   "choices": [
+    "Monolithic",
+    "Catharsis",
+    "Apathy",
+    "Irony"
+   ],
+   "answer": 2,
+   "explanation": "Apathy — lack of feeling or interest",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Apostasy\" mean?",
+   "choices": [
+    "original model for later forms",
+    "challenger of established beliefs or institutions",
+    "abandonment of a faith",
+    "ordering according to time"
+   ],
+   "answer": 2,
+   "explanation": "Apostasy — abandonment of a faith",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"abandonment of a faith\"?",
+   "choices": [
+    "Apostasy",
+    "Aegis",
+    "Archetype",
+    "Catastrophic"
+   ],
+   "answer": 0,
+   "explanation": "Apostasy — abandonment of a faith",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Archaic\" mean?",
+   "choices": [
+    "distrustful of human motives",
+    "organized system of methods",
+    "extreme enthusiasm or pathological excitement",
+    "belonging to an earlier form or period"
+   ],
+   "answer": 3,
+   "explanation": "Archaic — belonging to an earlier form or period",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"belonging to an earlier form or period\"?",
+   "choices": [
+    "Phobia",
+    "Phenomenon",
+    "Archaic",
+    "Prognosis"
+   ],
+   "answer": 2,
+   "explanation": "Archaic — belonging to an earlier form or period",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Archetype\" mean?",
+   "choices": [
+    "distrustful of human motives",
+    "practicing severe self-discipline",
+    "fundamental or exemplary pattern",
+    "sudden violent recurrence"
+   ],
+   "answer": 2,
+   "explanation": "Archetype — fundamental or exemplary pattern",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"fundamental or exemplary pattern\"?",
+   "choices": [
+    "Chimerical",
+    "Idyllic",
+    "Archetype",
+    "Drama"
+   ],
+   "answer": 2,
+   "explanation": "Archetype — fundamental or exemplary pattern",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Ascetic\" mean?",
+   "choices": [
+    "aggressive argumentative attack",
+    "system of interacting parts",
+    "practicing severe self-discipline",
+    "characterized by psychological disturbance"
+   ],
+   "answer": 2,
+   "explanation": "Ascetic — practicing severe self-discipline",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"practicing severe self-discipline\"?",
+   "choices": [
+    "Chronology",
+    "Ascetic",
+    "Mania",
+    "Prognosis"
+   ],
+   "answer": 1,
+   "explanation": "Ascetic — practicing severe self-discipline",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Atypical\" mean?",
+   "choices": [
+    "apparently contradictory proposition",
+    "treatment intended to relieve disorder",
+    "departing from a normal type",
+    "deep or persistent sadness"
+   ],
+   "answer": 2,
+   "explanation": "Atypical — departing from a normal type",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"departing from a normal type\"?",
+   "choices": [
+    "Phobia",
+    "Atypical",
+    "Zealous",
+    "Sporadic"
+   ],
+   "answer": 1,
+   "explanation": "Atypical — departing from a normal type",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Automaton\" mean?",
+   "choices": [
+    "physical or psychological injury",
+    "self-operating mechanism",
+    "longing associated with the past",
+    "fundamental or exemplary pattern"
+   ],
+   "answer": 1,
+   "explanation": "Automaton — self-operating mechanism",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"self-operating mechanism\"?",
+   "choices": [
+    "Sarcasm",
+    "Neurotic",
+    "Tragedy",
+    "Automaton"
+   ],
+   "answer": 3,
+   "explanation": "Automaton — self-operating mechanism",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Axiom\" mean?",
+   "choices": [
+    "fundamental or exemplary pattern",
+    "predicted course of a condition",
+    "imagined ideal society",
+    "accepted foundational proposition"
+   ],
+   "answer": 3,
+   "explanation": "Axiom — accepted foundational proposition",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"accepted foundational proposition\"?",
+   "choices": [
+    "Axiom",
+    "Archaic",
+    "Paroxysm",
+    "Cynic"
+   ],
+   "answer": 0,
+   "explanation": "Axiom — accepted foundational proposition",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Catalyze\" mean?",
+   "choices": [
+    "involving disastrous breakdown",
+    "cause or accelerate change",
+    "aggressive argumentative attack",
+    "accepted foundational proposition"
+   ],
+   "answer": 1,
+   "explanation": "Catalyze — cause or accelerate change",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"cause or accelerate change\"?",
+   "choices": [
+    "Catalyze",
+    "Irony",
+    "Skeptic",
+    "Frenzy"
+   ],
+   "answer": 0,
+   "explanation": "Catalyze — cause or accelerate change",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Catastrophic\" mean?",
+   "choices": [
+    "model or conceptual pattern",
+    "predicted course of a condition",
+    "emphasis on material reality or interests",
+    "involving disastrous breakdown"
+   ],
+   "answer": 3,
+   "explanation": "Catastrophic — involving disastrous breakdown",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"involving disastrous breakdown\"?",
+   "choices": [
+    "Sophistry",
+    "Colossal",
+    "Catastrophic",
+    "Plethora"
+   ],
+   "answer": 2,
+   "explanation": "Catastrophic — involving disastrous breakdown",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Catharsis\" mean?",
+   "choices": [
+    "emotional release or purification",
+    "departing from a normal type",
+    "characterized by psychological disturbance",
+    "system of interacting parts"
+   ],
+   "answer": 0,
+   "explanation": "Catharsis — emotional release or purification",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"emotional release or purification\"?",
+   "choices": [
+    "Materialism",
+    "Hypothesis",
+    "Charisma",
+    "Catharsis"
+   ],
+   "answer": 3,
+   "explanation": "Catharsis — emotional release or purification",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Charisma\" mean?",
+   "choices": [
+    "compelling personal influence; originally spiritual gift",
+    "serious disastrous event or dramatic form",
+    "treatment intended to relieve disorder",
+    "involving disastrous breakdown"
+   ],
+   "answer": 0,
+   "explanation": "Charisma — compelling personal influence; originally spiritual gift",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"compelling personal influence; originally spiritual gift\"?",
+   "choices": [
+    "Trauma",
+    "Chronology",
+    "Charisma",
+    "Phenomenon"
+   ],
+   "answer": 2,
+   "explanation": "Charisma — compelling personal influence; originally spiritual gift",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Chimerical\" mean?",
+   "choices": [
+    "departing from a normal type",
+    "wildly imaginary or unrealistic",
+    "practicing severe self-discipline",
+    "physical or psychological injury"
+   ],
+   "answer": 1,
+   "explanation": "Chimerical — wildly imaginary or unrealistic",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"wildly imaginary or unrealistic\"?",
+   "choices": [
+    "Chimerical",
+    "Therapy",
+    "Tragedy",
+    "Prototype"
+   ],
+   "answer": 0,
+   "explanation": "Chimerical — wildly imaginary or unrealistic",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Chronic\" mean?",
+   "choices": [
+    "peacefully picturesque or idealized",
+    "persisting for a long period",
+    "serious disastrous event or dramatic form",
+    "sudden violent recurrence"
+   ],
+   "answer": 1,
+   "explanation": "Chronic — persisting for a long period",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"persisting for a long period\"?",
+   "choices": [
+    "Idyllic",
+    "Chronic",
+    "Diagnosis",
+    "Euphoria"
+   ],
+   "answer": 1,
+   "explanation": "Chronic — persisting for a long period",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Chronology\" mean?",
+   "choices": [
+    "identification of a condition",
+    "proposed explanation",
+    "ordering according to time",
+    "characterized by psychological disturbance"
+   ],
+   "answer": 2,
+   "explanation": "Chronology — ordering according to time",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"ordering according to time\"?",
+   "choices": [
+    "Frenzy",
+    "Chronology",
+    "Heresy",
+    "Genocide"
+   ],
+   "answer": 1,
+   "explanation": "Chronology — ordering according to time",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Colossal\" mean?",
+   "choices": [
+    "extraordinarily large",
+    "experienced adviser or guide",
+    "intensely devoted",
+    "original model for later forms"
+   ],
+   "answer": 0,
+   "explanation": "Colossal — extraordinarily large",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"extraordinarily large\"?",
+   "choices": [
+    "Aesthetic",
+    "Diagnosis",
+    "Colossal",
+    "Melancholy"
+   ],
+   "answer": 2,
+   "explanation": "Colossal — extraordinarily large",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Cynic\" mean?",
+   "choices": [
+    "distrustful of human motives",
+    "wildly imaginary or unrealistic",
+    "expression whose apparent sense contrasts with its meaning",
+    "deliberate exaggeration"
+   ],
+   "answer": 0,
+   "explanation": "Cynic — distrustful of human motives",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"distrustful of human motives\"?",
+   "choices": [
+    "Materialism",
+    "Diagnosis",
+    "Cynic",
+    "Aegis"
+   ],
+   "answer": 2,
+   "explanation": "Cynic — distrustful of human motives",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Diagnosis\" mean?",
+   "choices": [
+    "treatment intended to relieve disorder",
+    "system of interacting parts",
+    "observable occurrence",
+    "identification of a condition"
+   ],
+   "answer": 3,
+   "explanation": "Diagnosis — identification of a condition",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"identification of a condition\"?",
+   "choices": [
+    "Diagnosis",
+    "Megalomania",
+    "Paroxysm",
+    "Idyllic"
+   ],
+   "answer": 0,
+   "explanation": "Diagnosis — identification of a condition",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Dialectic\" mean?",
+   "choices": [
+    "intensely devoted",
+    "self-operating mechanism",
+    "person suffering for a belief",
+    "reasoning through opposed positions"
+   ],
+   "answer": 3,
+   "explanation": "Dialectic — reasoning through opposed positions",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"reasoning through opposed positions\"?",
+   "choices": [
+    "Axiom",
+    "Mentor",
+    "Dialectic",
+    "Atypical"
+   ],
+   "answer": 2,
+   "explanation": "Dialectic — reasoning through opposed positions",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Dogma\" mean?",
+   "choices": [
+    "treatment intended to relieve disorder",
+    "authoritative doctrine",
+    "systematic application of technical knowledge",
+    "emotional release or purification"
+   ],
+   "answer": 1,
+   "explanation": "Dogma — authoritative doctrine",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"authoritative doctrine\"?",
+   "choices": [
+    "Dogma",
+    "Phenomenon",
+    "Prototype",
+    "Dialectic"
+   ],
+   "answer": 0,
+   "explanation": "Dogma — authoritative doctrine",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Drama\" mean?",
+   "choices": [
+    "compelling personal influence; originally spiritual gift",
+    "original model for later forms",
+    "predicted course of a condition",
+    "enacted or highly emotional action"
+   ],
+   "answer": 3,
+   "explanation": "Drama — enacted or highly emotional action",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"enacted or highly emotional action\"?",
+   "choices": [
+    "Analysis",
+    "Epithet",
+    "Megalomania",
+    "Drama"
+   ],
+   "answer": 3,
+   "explanation": "Drama — enacted or highly emotional action",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Epigram\" mean?",
+   "choices": [
+    "model or conceptual pattern",
+    "systematic application of technical knowledge",
+    "persisting for a long period",
+    "concise memorable saying"
+   ],
+   "answer": 3,
+   "explanation": "Epigram — concise memorable saying",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"concise memorable saying\"?",
+   "choices": [
+    "Melancholy",
+    "Apostasy",
+    "Epigram",
+    "Prognosis"
+   ],
+   "answer": 2,
+   "explanation": "Epigram — concise memorable saying",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Epithet\" mean?",
+   "choices": [
+    "system of interacting parts",
+    "cause or accelerate change",
+    "descriptive name or characterization",
+    "concise memorable saying"
+   ],
+   "answer": 2,
+   "explanation": "Epithet — descriptive name or characterization",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"descriptive name or characterization\"?",
+   "choices": [
+    "Epithet",
+    "Zealous",
+    "Catalyze",
+    "Dialectic"
+   ],
+   "answer": 0,
+   "explanation": "Epithet — descriptive name or characterization",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Euphoria\" mean?",
+   "choices": [
+    "original model for later forms",
+    "belief contrary to established doctrine",
+    "compelling personal influence; originally spiritual gift",
+    "intense feeling of well-being"
+   ],
+   "answer": 3,
+   "explanation": "Euphoria — intense feeling of well-being",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"intense feeling of well-being\"?",
+   "choices": [
+    "Euphoria",
+    "Analysis",
+    "Phenomenon",
+    "Zealous"
+   ],
+   "answer": 0,
+   "explanation": "Euphoria — intense feeling of well-being",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Frenzy\" mean?",
+   "choices": [
+    "systematic application of technical knowledge",
+    "state of wild agitation",
+    "observable occurrence",
+    "abandonment of a faith"
+   ],
+   "answer": 1,
+   "explanation": "Frenzy — state of wild agitation",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"state of wild agitation\"?",
+   "choices": [
+    "Methodology",
+    "Frenzy",
+    "Catharsis",
+    "Dogma"
+   ],
+   "answer": 1,
+   "explanation": "Frenzy — state of wild agitation",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Genocide\" mean?",
+   "choices": [
+    "extremely great number",
+    "deliberate destruction of a people",
+    "deep or persistent sadness",
+    "experienced adviser or guide"
+   ],
+   "answer": 1,
+   "explanation": "Genocide — deliberate destruction of a people",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"deliberate destruction of a people\"?",
+   "choices": [
+    "Synthesis",
+    "Histrionics",
+    "Genocide",
+    "Diagnosis"
+   ],
+   "answer": 2,
+   "explanation": "Genocide — deliberate destruction of a people",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Heresy\" mean?",
+   "choices": [
+    "belief contrary to established doctrine",
+    "concise memorable saying",
+    "exaggerated dramatic behavior",
+    "wildly imaginary or unrealistic"
+   ],
+   "answer": 0,
+   "explanation": "Heresy — belief contrary to established doctrine",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"belief contrary to established doctrine\"?",
+   "choices": [
+    "Analysis",
+    "Hyperbole",
+    "Trauma",
+    "Heresy"
+   ],
+   "answer": 3,
+   "explanation": "Heresy — belief contrary to established doctrine",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Histrionics\" mean?",
+   "choices": [
+    "exaggerated dramatic behavior",
+    "study or condition of disease",
+    "identification of a condition",
+    "person inclined to doubt claims"
+   ],
+   "answer": 0,
+   "explanation": "Histrionics — exaggerated dramatic behavior",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"exaggerated dramatic behavior\"?",
+   "choices": [
+    "Heresy",
+    "Megalomania",
+    "Axiom",
+    "Histrionics"
+   ],
+   "answer": 3,
+   "explanation": "Histrionics — exaggerated dramatic behavior",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Hyperbole\" mean?",
+   "choices": [
+    "deliberate exaggeration",
+    "longing associated with the past",
+    "persisting for a long period",
+    "forming one massive uniform whole"
+   ],
+   "answer": 0,
+   "explanation": "Hyperbole — deliberate exaggeration",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"deliberate exaggeration\"?",
+   "choices": [
+    "Automaton",
+    "Charisma",
+    "Megalomania",
+    "Hyperbole"
+   ],
+   "answer": 3,
+   "explanation": "Hyperbole — deliberate exaggeration",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Hypothesis\" mean?",
+   "choices": [
+    "treatment intended to relieve disorder",
+    "deliberate destruction of a people",
+    "persistent or intense fear",
+    "proposed explanation"
+   ],
+   "answer": 3,
+   "explanation": "Hypothesis — proposed explanation",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"proposed explanation\"?",
+   "choices": [
+    "Catharsis",
+    "Hypothesis",
+    "Archetype",
+    "Epithet"
+   ],
+   "answer": 1,
+   "explanation": "Hypothesis — proposed explanation",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Iconoclast\" mean?",
+   "choices": [
+    "combination into a unified whole",
+    "involving disastrous breakdown",
+    "specialist in the study of humanity",
+    "challenger of established beliefs or institutions"
+   ],
+   "answer": 3,
+   "explanation": "Iconoclast — challenger of established beliefs or institutions",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"challenger of established beliefs or institutions\"?",
+   "choices": [
+    "Mechanism",
+    "Archetype",
+    "Iconoclast",
+    "Heresy"
+   ],
+   "answer": 2,
+   "explanation": "Iconoclast — challenger of established beliefs or institutions",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Idyllic\" mean?",
+   "choices": [
+    "combination into a unified whole",
+    "peacefully picturesque or idealized",
+    "intensely devoted",
+    "persisting for a long period"
+   ],
+   "answer": 1,
+   "explanation": "Idyllic — peacefully picturesque or idealized",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"peacefully picturesque or idealized\"?",
+   "choices": [
+    "Megalomania",
+    "Myriad",
+    "Idyllic",
+    "Prognosis"
+   ],
+   "answer": 2,
+   "explanation": "Idyllic — peacefully picturesque or idealized",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Irony\" mean?",
+   "choices": [
+    "persistent or intense fear",
+    "expression whose apparent sense contrasts with its meaning",
+    "extremely great number",
+    "challenger of established beliefs or institutions"
+   ],
+   "answer": 1,
+   "explanation": "Irony — expression whose apparent sense contrasts with its meaning",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"expression whose apparent sense contrasts with its meaning\"?",
+   "choices": [
+    "Catastrophic",
+    "Apostasy",
+    "Irony",
+    "Dialectic"
+   ],
+   "answer": 2,
+   "explanation": "Irony — expression whose apparent sense contrasts with its meaning",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Mania\" mean?",
+   "choices": [
+    "forming one massive uniform whole",
+    "extreme enthusiasm or pathological excitement",
+    "persistent or intense fear",
+    "lack of feeling or interest"
+   ],
+   "answer": 1,
+   "explanation": "Mania — extreme enthusiasm or pathological excitement",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"extreme enthusiasm or pathological excitement\"?",
+   "choices": [
+    "Archetype",
+    "Panacea",
+    "Catalyze",
+    "Mania"
+   ],
+   "answer": 3,
+   "explanation": "Mania — extreme enthusiasm or pathological excitement",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Martyr\" mean?",
+   "choices": [
+    "apparently contradictory proposition",
+    "emotional release or purification",
+    "person suffering for a belief",
+    "aggressive argumentative attack"
+   ],
+   "answer": 2,
+   "explanation": "Martyr — person suffering for a belief",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"person suffering for a belief\"?",
+   "choices": [
+    "Polemic",
+    "Apathy",
+    "Martyr",
+    "Materialism"
+   ],
+   "answer": 2,
+   "explanation": "Martyr — person suffering for a belief",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Materialism\" mean?",
+   "choices": [
+    "emphasis on material reality or interests",
+    "combination into a unified whole",
+    "fundamental or exemplary pattern",
+    "reasoning through opposed positions"
+   ],
+   "answer": 0,
+   "explanation": "Materialism — emphasis on material reality or interests",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"emphasis on material reality or interests\"?",
+   "choices": [
+    "Materialism",
+    "Colossal",
+    "Myriad",
+    "Mania"
+   ],
+   "answer": 0,
+   "explanation": "Materialism — emphasis on material reality or interests",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Mechanism\" mean?",
+   "choices": [
+    "distrustful of human motives",
+    "systematic classification",
+    "system of interacting parts",
+    "extreme enthusiasm or pathological excitement"
+   ],
+   "answer": 2,
+   "explanation": "Mechanism — system of interacting parts",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"system of interacting parts\"?",
+   "choices": [
+    "Polemic",
+    "Catharsis",
+    "Ascetic",
+    "Mechanism"
+   ],
+   "answer": 3,
+   "explanation": "Mechanism — system of interacting parts",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Megalomania\" mean?",
+   "choices": [
+    "practicing severe self-discipline",
+    "predicted course of a condition",
+    "delusion or obsession with greatness",
+    "combination into a unified whole"
+   ],
+   "answer": 2,
+   "explanation": "Megalomania — delusion or obsession with greatness",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"delusion or obsession with greatness\"?",
+   "choices": [
+    "Megalomania",
+    "Catalyze",
+    "Charisma",
+    "Mentor"
+   ],
+   "answer": 0,
+   "explanation": "Megalomania — delusion or obsession with greatness",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Melancholy\" mean?",
+   "choices": [
+    "separation into constituent parts",
+    "forming one massive uniform whole",
+    "persisting for a long period",
+    "deep or persistent sadness"
+   ],
+   "answer": 3,
+   "explanation": "Melancholy — deep or persistent sadness",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"deep or persistent sadness\"?",
+   "choices": [
+    "Dogma",
+    "Melancholy",
+    "Dialectic",
+    "Megalomania"
+   ],
+   "answer": 1,
+   "explanation": "Melancholy — deep or persistent sadness",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Mentor\" mean?",
+   "choices": [
+    "experienced adviser or guide",
+    "expression whose apparent sense contrasts with its meaning",
+    "peacefully picturesque or idealized",
+    "forming one massive uniform whole"
+   ],
+   "answer": 0,
+   "explanation": "Mentor — experienced adviser or guide",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"experienced adviser or guide\"?",
+   "choices": [
+    "Polemic",
+    "Mentor",
+    "Catharsis",
+    "Diagnosis"
+   ],
+   "answer": 1,
+   "explanation": "Mentor — experienced adviser or guide",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Methodology\" mean?",
+   "choices": [
+    "organized system of methods",
+    "systematic application of technical knowledge",
+    "protection or sponsorship",
+    "challenger of established beliefs or institutions"
+   ],
+   "answer": 0,
+   "explanation": "Methodology — organized system of methods",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"organized system of methods\"?",
+   "choices": [
+    "Skeptic",
+    "Methodology",
+    "Polemic",
+    "Plethora"
+   ],
+   "answer": 1,
+   "explanation": "Methodology — organized system of methods",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Monolithic\" mean?",
+   "choices": [
+    "forming one massive uniform whole",
+    "observable occurrence",
+    "emphasis on material reality or interests",
+    "physical or psychological injury"
+   ],
+   "answer": 0,
+   "explanation": "Monolithic — forming one massive uniform whole",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"forming one massive uniform whole\"?",
+   "choices": [
+    "Monolithic",
+    "Methodology",
+    "Prognosis",
+    "Spasm"
+   ],
+   "answer": 0,
+   "explanation": "Monolithic — forming one massive uniform whole",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Myriad\" mean?",
+   "choices": [
+    "imagined ideal society",
+    "abandonment of a faith",
+    "concerned with beauty or artistic judgment",
+    "extremely great number"
+   ],
+   "answer": 3,
+   "explanation": "Myriad — extremely great number",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"extremely great number\"?",
+   "choices": [
+    "Catalyze",
+    "Myriad",
+    "Synthesis",
+    "Sarcasm"
+   ],
+   "answer": 1,
+   "explanation": "Myriad — extremely great number",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Neurotic\" mean?",
+   "choices": [
+    "ordering according to time",
+    "characterized by psychological disturbance",
+    "emotional release or purification",
+    "extremely great number"
+   ],
+   "answer": 1,
+   "explanation": "Neurotic — characterized by psychological disturbance",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"characterized by psychological disturbance\"?",
+   "choices": [
+    "Technology",
+    "Anthropologist",
+    "Archaic",
+    "Neurotic"
+   ],
+   "answer": 3,
+   "explanation": "Neurotic — characterized by psychological disturbance",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Nostalgia\" mean?",
+   "choices": [
+    "apparently contradictory proposition",
+    "longing associated with the past",
+    "belonging to an earlier form or period",
+    "treatment intended to relieve disorder"
+   ],
+   "answer": 1,
+   "explanation": "Nostalgia — longing associated with the past",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"longing associated with the past\"?",
+   "choices": [
+    "Chronic",
+    "Charisma",
+    "Apathy",
+    "Nostalgia"
+   ],
+   "answer": 3,
+   "explanation": "Nostalgia — longing associated with the past",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Panacea\" mean?",
+   "choices": [
+    "authoritative doctrine",
+    "delusion or obsession with greatness",
+    "aggressive argumentative attack",
+    "supposed remedy for every problem"
+   ],
+   "answer": 3,
+   "explanation": "Panacea — supposed remedy for every problem",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"supposed remedy for every problem\"?",
+   "choices": [
+    "Nostalgia",
+    "Panacea",
+    "Mania",
+    "Mechanism"
+   ],
+   "answer": 1,
+   "explanation": "Panacea — supposed remedy for every problem",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Paradigm\" mean?",
+   "choices": [
+    "model or conceptual pattern",
+    "cutting or mocking expression",
+    "belonging to an earlier form or period",
+    "excessive abundance"
+   ],
+   "answer": 0,
+   "explanation": "Paradigm — model or conceptual pattern",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"model or conceptual pattern\"?",
+   "choices": [
+    "Synthesis",
+    "Technology",
+    "Spasm",
+    "Paradigm"
+   ],
+   "answer": 3,
+   "explanation": "Paradigm — model or conceptual pattern",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Paradox\" mean?",
+   "choices": [
+    "apparently contradictory proposition",
+    "original model for later forms",
+    "abandonment of a faith",
+    "cause or accelerate change"
+   ],
+   "answer": 0,
+   "explanation": "Paradox — apparently contradictory proposition",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"apparently contradictory proposition\"?",
+   "choices": [
+    "Paradox",
+    "Ascetic",
+    "Chimerical",
+    "Apathy"
+   ],
+   "answer": 0,
+   "explanation": "Paradox — apparently contradictory proposition",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Paroxysm\" mean?",
+   "choices": [
+    "excessive abundance",
+    "sudden violent recurrence",
+    "model or conceptual pattern",
+    "emotional release or purification"
+   ],
+   "answer": 1,
+   "explanation": "Paroxysm — sudden violent recurrence",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"sudden violent recurrence\"?",
+   "choices": [
+    "Epithet",
+    "Mentor",
+    "Paroxysm",
+    "Chronology"
+   ],
+   "answer": 2,
+   "explanation": "Paroxysm — sudden violent recurrence",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Pathology\" mean?",
+   "choices": [
+    "study or condition of disease",
+    "person suffering for a belief",
+    "intense feeling of well-being",
+    "intensely devoted"
+   ],
+   "answer": 0,
+   "explanation": "Pathology — study or condition of disease",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"study or condition of disease\"?",
+   "choices": [
+    "Synthesis",
+    "Hyperbole",
+    "Paradigm",
+    "Pathology"
+   ],
+   "answer": 3,
+   "explanation": "Pathology — study or condition of disease",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Phenomenon\" mean?",
+   "choices": [
+    "expression whose apparent sense contrasts with its meaning",
+    "observable occurrence",
+    "original model for later forms",
+    "extraordinarily large"
+   ],
+   "answer": 1,
+   "explanation": "Phenomenon — observable occurrence",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"observable occurrence\"?",
+   "choices": [
+    "Phenomenon",
+    "Histrionics",
+    "Sporadic",
+    "Chronology"
+   ],
+   "answer": 0,
+   "explanation": "Phenomenon — observable occurrence",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Phobia\" mean?",
+   "choices": [
+    "concerned with beauty or artistic judgment",
+    "persistent or intense fear",
+    "occurring irregularly or scattered",
+    "fundamental or exemplary pattern"
+   ],
+   "answer": 1,
+   "explanation": "Phobia — persistent or intense fear",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"persistent or intense fear\"?",
+   "choices": [
+    "Aegis",
+    "Phobia",
+    "Utopia",
+    "Nostalgia"
+   ],
+   "answer": 1,
+   "explanation": "Phobia — persistent or intense fear",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Plethora\" mean?",
+   "choices": [
+    "excessive abundance",
+    "intensely devoted",
+    "descriptive name or characterization",
+    "treatment intended to relieve disorder"
+   ],
+   "answer": 0,
+   "explanation": "Plethora — excessive abundance",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"excessive abundance\"?",
+   "choices": [
+    "Plethora",
+    "Phobia",
+    "Therapy",
+    "Hypothesis"
+   ],
+   "answer": 0,
+   "explanation": "Plethora — excessive abundance",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Polemic\" mean?",
+   "choices": [
+    "longing associated with the past",
+    "apparently contradictory proposition",
+    "departing from a normal type",
+    "aggressive argumentative attack"
+   ],
+   "answer": 3,
+   "explanation": "Polemic — aggressive argumentative attack",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"aggressive argumentative attack\"?",
+   "choices": [
+    "Polemic",
+    "Histrionics",
+    "Myriad",
+    "Analysis"
+   ],
+   "answer": 0,
+   "explanation": "Polemic — aggressive argumentative attack",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Prognosis\" mean?",
+   "choices": [
+    "intensely devoted",
+    "fundamental or exemplary pattern",
+    "person inclined to doubt claims",
+    "predicted course of a condition"
+   ],
+   "answer": 3,
+   "explanation": "Prognosis — predicted course of a condition",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"predicted course of a condition\"?",
+   "choices": [
+    "Cynic",
+    "Paroxysm",
+    "Histrionics",
+    "Prognosis"
+   ],
+   "answer": 3,
+   "explanation": "Prognosis — predicted course of a condition",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Prototype\" mean?",
+   "choices": [
+    "deep or persistent sadness",
+    "original model for later forms",
+    "systematic classification",
+    "persistent or intense fear"
+   ],
+   "answer": 1,
+   "explanation": "Prototype — original model for later forms",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"original model for later forms\"?",
+   "choices": [
+    "Prototype",
+    "Chimerical",
+    "Technology",
+    "Materialism"
+   ],
+   "answer": 0,
+   "explanation": "Prototype — original model for later forms",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Sarcasm\" mean?",
+   "choices": [
+    "intensely devoted",
+    "cutting or mocking expression",
+    "experienced adviser or guide",
+    "study or condition of disease"
+   ],
+   "answer": 1,
+   "explanation": "Sarcasm — cutting or mocking expression",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"cutting or mocking expression\"?",
+   "choices": [
+    "Axiom",
+    "Phobia",
+    "Martyr",
+    "Sarcasm"
+   ],
+   "answer": 3,
+   "explanation": "Sarcasm — cutting or mocking expression",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Skeptic\" mean?",
+   "choices": [
+    "abandonment of a faith",
+    "treatment intended to relieve disorder",
+    "belonging to an earlier form or period",
+    "person inclined to doubt claims"
+   ],
+   "answer": 3,
+   "explanation": "Skeptic — person inclined to doubt claims",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"person inclined to doubt claims\"?",
+   "choices": [
+    "Tragedy",
+    "Prototype",
+    "Materialism",
+    "Skeptic"
+   ],
+   "answer": 3,
+   "explanation": "Skeptic — person inclined to doubt claims",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Sophistry\" mean?",
+   "choices": [
+    "treatment intended to relieve disorder",
+    "physical or psychological injury",
+    "deceptive or specious reasoning",
+    "supposed remedy for every problem"
+   ],
+   "answer": 2,
+   "explanation": "Sophistry — deceptive or specious reasoning",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"deceptive or specious reasoning\"?",
+   "choices": [
+    "Technology",
+    "Archetype",
+    "Trauma",
+    "Sophistry"
+   ],
+   "answer": 3,
+   "explanation": "Sophistry — deceptive or specious reasoning",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Spasm\" mean?",
+   "choices": [
+    "involuntary muscular contraction",
+    "accepted foundational proposition",
+    "concerned with beauty or artistic judgment",
+    "forming one massive uniform whole"
+   ],
+   "answer": 0,
+   "explanation": "Spasm — involuntary muscular contraction",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"involuntary muscular contraction\"?",
+   "choices": [
+    "Apathy",
+    "Prototype",
+    "Spasm",
+    "Neurotic"
+   ],
+   "answer": 2,
+   "explanation": "Spasm — involuntary muscular contraction",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Sporadic\" mean?",
+   "choices": [
+    "occurring irregularly or scattered",
+    "study or condition of disease",
+    "separation into constituent parts",
+    "characterized by psychological disturbance"
+   ],
+   "answer": 0,
+   "explanation": "Sporadic — occurring irregularly or scattered",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"occurring irregularly or scattered\"?",
+   "choices": [
+    "Trauma",
+    "Cynic",
+    "Sporadic",
+    "Iconoclast"
+   ],
+   "answer": 2,
+   "explanation": "Sporadic — occurring irregularly or scattered",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Synthesis\" mean?",
+   "choices": [
+    "self-operating mechanism",
+    "combination into a unified whole",
+    "proposed explanation",
+    "specialist in the study of humanity"
+   ],
+   "answer": 1,
+   "explanation": "Synthesis — combination into a unified whole",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"combination into a unified whole\"?",
+   "choices": [
+    "Synthesis",
+    "Genocide",
+    "Trauma",
+    "Colossal"
+   ],
+   "answer": 0,
+   "explanation": "Synthesis — combination into a unified whole",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Taxonomy\" mean?",
+   "choices": [
+    "cause or accelerate change",
+    "involving disastrous breakdown",
+    "systematic classification",
+    "enacted or highly emotional action"
+   ],
+   "answer": 2,
+   "explanation": "Taxonomy — systematic classification",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"systematic classification\"?",
+   "choices": [
+    "Taxonomy",
+    "Apathy",
+    "Paradigm",
+    "Methodology"
+   ],
+   "answer": 0,
+   "explanation": "Taxonomy — systematic classification",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Technology\" mean?",
+   "choices": [
+    "person suffering for a belief",
+    "persistent or intense fear",
+    "involving disastrous breakdown",
+    "systematic application of technical knowledge"
+   ],
+   "answer": 3,
+   "explanation": "Technology — systematic application of technical knowledge",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"systematic application of technical knowledge\"?",
+   "choices": [
+    "Technology",
+    "Paradox",
+    "Taxonomy",
+    "Paroxysm"
+   ],
+   "answer": 0,
+   "explanation": "Technology — systematic application of technical knowledge",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Therapy\" mean?",
+   "choices": [
+    "apparently contradictory proposition",
+    "expression whose apparent sense contrasts with its meaning",
+    "treatment intended to relieve disorder",
+    "deep or persistent sadness"
+   ],
+   "answer": 2,
+   "explanation": "Therapy — treatment intended to relieve disorder",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"treatment intended to relieve disorder\"?",
+   "choices": [
+    "Catalyze",
+    "Therapy",
+    "Hypothesis",
+    "Archaic"
+   ],
+   "answer": 1,
+   "explanation": "Therapy — treatment intended to relieve disorder",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Tragedy\" mean?",
+   "choices": [
+    "study or condition of disease",
+    "systematic application of technical knowledge",
+    "cause or accelerate change",
+    "serious disastrous event or dramatic form"
+   ],
+   "answer": 3,
+   "explanation": "Tragedy — serious disastrous event or dramatic form",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"serious disastrous event or dramatic form\"?",
+   "choices": [
+    "Frenzy",
+    "Aesthetic",
+    "Tragedy",
+    "Diagnosis"
+   ],
+   "answer": 2,
+   "explanation": "Tragedy — serious disastrous event or dramatic form",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Trauma\" mean?",
+   "choices": [
+    "characterized by psychological disturbance",
+    "physical or psychological injury",
+    "observable occurrence",
+    "excessive abundance"
+   ],
+   "answer": 1,
+   "explanation": "Trauma — physical or psychological injury",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"physical or psychological injury\"?",
+   "choices": [
+    "Euphoria",
+    "Trauma",
+    "Mania",
+    "Melancholy"
+   ],
+   "answer": 1,
+   "explanation": "Trauma — physical or psychological injury",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Utopia\" mean?",
+   "choices": [
+    "reasoning through opposed positions",
+    "original model for later forms",
+    "imagined ideal society",
+    "cutting or mocking expression"
+   ],
+   "answer": 2,
+   "explanation": "Utopia — imagined ideal society",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"imagined ideal society\"?",
+   "choices": [
+    "Nostalgia",
+    "Chronic",
+    "Martyr",
+    "Utopia"
+   ],
+   "answer": 3,
+   "explanation": "Utopia — imagined ideal society",
+   "source": "Greek"
+  },
+  {
+   "question": "What does \"Zealous\" mean?",
+   "choices": [
+    "departing from a normal type",
+    "intensely devoted",
+    "descriptive name or characterization",
+    "cause or accelerate change"
+   ],
+   "answer": 1,
+   "explanation": "Zealous — intensely devoted",
+   "source": "Greek"
+  },
+  {
+   "question": "Which word means \"intensely devoted\"?",
+   "choices": [
+    "Dogma",
+    "Archetype",
+    "Dialectic",
+    "Zealous"
+   ],
+   "answer": 3,
+   "explanation": "Zealous — intensely devoted",
+   "source": "Greek"
+  }
+ ]
+}

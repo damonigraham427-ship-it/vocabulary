@@ -1,0 +1,988 @@
+{
+ "questions": [
+  {
+   "question": "What does \"Abundant\" mean?",
+   "choices": [
+    "make more prominent",
+    "clearly and directly stated",
+    "existing plentifully",
+    "remove a need"
+   ],
+   "answer": 2,
+   "explanation": "Abundant — existing plentifully",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"existing plentifully\"?",
+   "choices": [
+    "Obscure",
+    "Preclude",
+    "Abundant",
+    "Undermine"
+   ],
+   "answer": 2,
+   "explanation": "Abundant — existing plentifully",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Accentuate\" mean?",
+   "choices": [
+    "make more prominent",
+    "unclear, hidden, or difficult to understand",
+    "consider carefully",
+    "face directly"
+   ],
+   "answer": 0,
+   "explanation": "Accentuate — make more prominent",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"make more prominent\"?",
+   "choices": [
+    "Nascent",
+    "Accentuate",
+    "Replete",
+    "Induce"
+   ],
+   "answer": 1,
+   "explanation": "Accentuate — make more prominent",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Advocate\" mean?",
+   "choices": [
+    "face directly",
+    "publicly support a position",
+    "examine or read carefully",
+    "organize resources for action"
+   ],
+   "answer": 1,
+   "explanation": "Advocate — publicly support a position",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"publicly support a position\"?",
+   "choices": [
+    "Deter",
+    "Obviate",
+    "Interrogate",
+    "Advocate"
+   ],
+   "answer": 3,
+   "explanation": "Advocate — publicly support a position",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Ardent\" mean?",
+   "choices": [
+    "make more prominent",
+    "intensely passionate or devoted",
+    "identify or acknowledge as known",
+    "cause to arise"
+   ],
+   "answer": 1,
+   "explanation": "Ardent — intensely passionate or devoted",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"intensely passionate or devoted\"?",
+   "choices": [
+    "Ardent",
+    "Relevant",
+    "Meticulous",
+    "Confront"
+   ],
+   "answer": 0,
+   "explanation": "Ardent — intensely passionate or devoted",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Avarice\" mean?",
+   "choices": [
+    "develop in different directions",
+    "strengthen or support",
+    "present seemingly everywhere",
+    "excessive desire for wealth or possessions"
+   ],
+   "answer": 3,
+   "explanation": "Avarice — excessive desire for wealth or possessions",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"excessive desire for wealth or possessions\"?",
+   "choices": [
+    "Exacerbate",
+    "Avarice",
+    "Comprehensive",
+    "Recognize"
+   ],
+   "answer": 1,
+   "explanation": "Avarice — excessive desire for wealth or possessions",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Bolster\" mean?",
+   "choices": [
+    "working jointly with others",
+    "question systematically",
+    "present seemingly everywhere",
+    "strengthen or support"
+   ],
+   "answer": 3,
+   "explanation": "Bolster — strengthen or support",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"strengthen or support\"?",
+   "choices": [
+    "Ardent",
+    "Bolster",
+    "Introspective",
+    "Deter"
+   ],
+   "answer": 1,
+   "explanation": "Bolster — strengthen or support",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Cognizant\" mean?",
+   "choices": [
+    "aware or knowledgeable",
+    "cause or persuade",
+    "remove a need",
+    "fully supplied"
+   ],
+   "answer": 0,
+   "explanation": "Cognizant — aware or knowledgeable",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"aware or knowledgeable\"?",
+   "choices": [
+    "Induce",
+    "Cognizant",
+    "Preclude",
+    "Meticulous"
+   ],
+   "answer": 1,
+   "explanation": "Cognizant — aware or knowledgeable",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Collaboration\" mean?",
+   "choices": [
+    "consider carefully",
+    "working jointly with others",
+    "examining one's own thoughts",
+    "existing plentifully"
+   ],
+   "answer": 1,
+   "explanation": "Collaboration — working jointly with others",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"working jointly with others\"?",
+   "choices": [
+    "Accentuate",
+    "Advocate",
+    "Nascent",
+    "Collaboration"
+   ],
+   "answer": 3,
+   "explanation": "Collaboration — working jointly with others",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Comprehensive\" mean?",
+   "choices": [
+    "covering all relevant elements",
+    "intensely passionate or devoted",
+    "remove a need",
+    "stimulate conflict or unrest"
+   ],
+   "answer": 0,
+   "explanation": "Comprehensive — covering all relevant elements",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"covering all relevant elements\"?",
+   "choices": [
+    "Confront",
+    "Bolster",
+    "Comprehensive",
+    "Meticulous"
+   ],
+   "answer": 2,
+   "explanation": "Comprehensive — covering all relevant elements",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Confront\" mean?",
+   "choices": [
+    "keenly perceptive",
+    "make more prominent",
+    "seemingly without end",
+    "face directly"
+   ],
+   "answer": 3,
+   "explanation": "Confront — face directly",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"face directly\"?",
+   "choices": [
+    "Relevant",
+    "Ponder",
+    "Avarice",
+    "Confront"
+   ],
+   "answer": 3,
+   "explanation": "Confront — face directly",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Construe\" mean?",
+   "choices": [
+    "interpret meaning",
+    "reduce severity",
+    "existing plentifully",
+    "present seemingly everywhere"
+   ],
+   "answer": 0,
+   "explanation": "Construe — interpret meaning",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"interpret meaning\"?",
+   "choices": [
+    "Deter",
+    "Foment",
+    "Perspicacious",
+    "Construe"
+   ],
+   "answer": 3,
+   "explanation": "Construe — interpret meaning",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Deter\" mean?",
+   "choices": [
+    "examine or read carefully",
+    "cause to arise",
+    "derive a conclusion from evidence",
+    "discourage action"
+   ],
+   "answer": 3,
+   "explanation": "Deter — discourage action",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"discourage action\"?",
+   "choices": [
+    "Interrogate",
+    "Deter",
+    "Induce",
+    "Collaboration"
+   ],
+   "answer": 1,
+   "explanation": "Deter — discourage action",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Diverge\" mean?",
+   "choices": [
+    "strengthen or support",
+    "cause or persuade",
+    "develop in different directions",
+    "question systematically"
+   ],
+   "answer": 2,
+   "explanation": "Diverge — develop in different directions",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"develop in different directions\"?",
+   "choices": [
+    "Induce",
+    "Relevant",
+    "Diverge",
+    "Advocate"
+   ],
+   "answer": 2,
+   "explanation": "Diverge — develop in different directions",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Dubious\" mean?",
+   "choices": [
+    "question systematically",
+    "support growth or development",
+    "working jointly with others",
+    "uncertain or doubtful"
+   ],
+   "answer": 3,
+   "explanation": "Dubious — uncertain or doubtful",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"uncertain or doubtful\"?",
+   "choices": [
+    "Cognizant",
+    "Dubious",
+    "Introspective",
+    "Infer"
+   ],
+   "answer": 1,
+   "explanation": "Dubious — uncertain or doubtful",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Engender\" mean?",
+   "choices": [
+    "derive a conclusion from evidence",
+    "consider carefully",
+    "face directly",
+    "cause to arise"
+   ],
+   "answer": 3,
+   "explanation": "Engender — cause to arise",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"cause to arise\"?",
+   "choices": [
+    "Deter",
+    "Engender",
+    "Replete",
+    "Undermine"
+   ],
+   "answer": 1,
+   "explanation": "Engender — cause to arise",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Exacerbate\" mean?",
+   "choices": [
+    "publicly support a position",
+    "clearly and directly stated",
+    "working jointly with others",
+    "make worse"
+   ],
+   "answer": 3,
+   "explanation": "Exacerbate — make worse",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"make worse\"?",
+   "choices": [
+    "Construe",
+    "Interminable",
+    "Exacerbate",
+    "Ubiquitous"
+   ],
+   "answer": 2,
+   "explanation": "Exacerbate — make worse",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Explicit\" mean?",
+   "choices": [
+    "face directly",
+    "organize resources for action",
+    "unclear, hidden, or difficult to understand",
+    "clearly and directly stated"
+   ],
+   "answer": 3,
+   "explanation": "Explicit — clearly and directly stated",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"clearly and directly stated\"?",
+   "choices": [
+    "Explicit",
+    "Interminable",
+    "Obviate",
+    "Foment"
+   ],
+   "answer": 0,
+   "explanation": "Explicit — clearly and directly stated",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Foment\" mean?",
+   "choices": [
+    "discourage action",
+    "support growth or development",
+    "examining one's own thoughts",
+    "stimulate conflict or unrest"
+   ],
+   "answer": 3,
+   "explanation": "Foment — stimulate conflict or unrest",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"stimulate conflict or unrest\"?",
+   "choices": [
+    "Ardent",
+    "Ubiquitous",
+    "Cognizant",
+    "Foment"
+   ],
+   "answer": 3,
+   "explanation": "Foment — stimulate conflict or unrest",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Induce\" mean?",
+   "choices": [
+    "cause or persuade",
+    "examining one's own thoughts",
+    "question systematically",
+    "support growth or development"
+   ],
+   "answer": 0,
+   "explanation": "Induce — cause or persuade",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"cause or persuade\"?",
+   "choices": [
+    "Preclude",
+    "Ubiquitous",
+    "Induce",
+    "Bolster"
+   ],
+   "answer": 2,
+   "explanation": "Induce — cause or persuade",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Infer\" mean?",
+   "choices": [
+    "aware or knowledgeable",
+    "question systematically",
+    "examining one's own thoughts",
+    "derive a conclusion from evidence"
+   ],
+   "answer": 3,
+   "explanation": "Infer — derive a conclusion from evidence",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"derive a conclusion from evidence\"?",
+   "choices": [
+    "Cognizant",
+    "Collaboration",
+    "Confront",
+    "Infer"
+   ],
+   "answer": 3,
+   "explanation": "Infer — derive a conclusion from evidence",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Interminable\" mean?",
+   "choices": [
+    "examine or read carefully",
+    "uncertain or doubtful",
+    "existing plentifully",
+    "seemingly without end"
+   ],
+   "answer": 3,
+   "explanation": "Interminable — seemingly without end",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"seemingly without end\"?",
+   "choices": [
+    "Interminable",
+    "Deter",
+    "Preclude",
+    "Foment"
+   ],
+   "answer": 0,
+   "explanation": "Interminable — seemingly without end",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Interrogate\" mean?",
+   "choices": [
+    "excessive desire for wealth or possessions",
+    "organize resources for action",
+    "uncertain or doubtful",
+    "question systematically"
+   ],
+   "answer": 3,
+   "explanation": "Interrogate — question systematically",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"question systematically\"?",
+   "choices": [
+    "Ponder",
+    "Interrogate",
+    "Bolster",
+    "Support"
+   ],
+   "answer": 1,
+   "explanation": "Interrogate — question systematically",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Introspective\" mean?",
+   "choices": [
+    "derive a conclusion from evidence",
+    "develop in different directions",
+    "consider carefully",
+    "examining one's own thoughts"
+   ],
+   "answer": 3,
+   "explanation": "Introspective — examining one's own thoughts",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"examining one's own thoughts\"?",
+   "choices": [
+    "Explicit",
+    "Interminable",
+    "Infer",
+    "Introspective"
+   ],
+   "answer": 3,
+   "explanation": "Introspective — examining one's own thoughts",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Meticulous\" mean?",
+   "choices": [
+    "beginning to develop",
+    "support growth or development",
+    "extremely attentive to detail",
+    "make worse"
+   ],
+   "answer": 2,
+   "explanation": "Meticulous — extremely attentive to detail",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"extremely attentive to detail\"?",
+   "choices": [
+    "Mitigate",
+    "Meticulous",
+    "Interrogate",
+    "Induce"
+   ],
+   "answer": 1,
+   "explanation": "Meticulous — extremely attentive to detail",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Mitigate\" mean?",
+   "choices": [
+    "discourage action",
+    "reduce severity",
+    "prevent beforehand",
+    "cause to arise"
+   ],
+   "answer": 1,
+   "explanation": "Mitigate — reduce severity",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"reduce severity\"?",
+   "choices": [
+    "Mitigate",
+    "Preclude",
+    "Reverberating",
+    "Interrogate"
+   ],
+   "answer": 0,
+   "explanation": "Mitigate — reduce severity",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Mobilize\" mean?",
+   "choices": [
+    "unclear, hidden, or difficult to understand",
+    "identify or acknowledge as known",
+    "organize resources for action",
+    "discourage action"
+   ],
+   "answer": 2,
+   "explanation": "Mobilize — organize resources for action",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"organize resources for action\"?",
+   "choices": [
+    "Support",
+    "Mobilize",
+    "Relevant",
+    "Reverberating"
+   ],
+   "answer": 1,
+   "explanation": "Mobilize — organize resources for action",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Nascent\" mean?",
+   "choices": [
+    "prevent beforehand",
+    "beginning to develop",
+    "directly connected to the matter",
+    "clearly and directly stated"
+   ],
+   "answer": 1,
+   "explanation": "Nascent — beginning to develop",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"beginning to develop\"?",
+   "choices": [
+    "Nascent",
+    "Ubiquitous",
+    "Meticulous",
+    "Peruse"
+   ],
+   "answer": 0,
+   "explanation": "Nascent — beginning to develop",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Nurture\" mean?",
+   "choices": [
+    "derive a conclusion from evidence",
+    "make worse",
+    "unclear, hidden, or difficult to understand",
+    "support growth or development"
+   ],
+   "answer": 3,
+   "explanation": "Nurture — support growth or development",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"support growth or development\"?",
+   "choices": [
+    "Undermine",
+    "Deter",
+    "Nurture",
+    "Relevant"
+   ],
+   "answer": 2,
+   "explanation": "Nurture — support growth or development",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Obscure\" mean?",
+   "choices": [
+    "unclear, hidden, or difficult to understand",
+    "prevent beforehand",
+    "develop in different directions",
+    "organize resources for action"
+   ],
+   "answer": 0,
+   "explanation": "Obscure — unclear, hidden, or difficult to understand",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"unclear, hidden, or difficult to understand\"?",
+   "choices": [
+    "Comprehensive",
+    "Interminable",
+    "Obscure",
+    "Recognize"
+   ],
+   "answer": 2,
+   "explanation": "Obscure — unclear, hidden, or difficult to understand",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Obviate\" mean?",
+   "choices": [
+    "prevent beforehand",
+    "directly connected to the matter",
+    "weaken gradually",
+    "remove a need"
+   ],
+   "answer": 3,
+   "explanation": "Obviate — remove a need",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"remove a need\"?",
+   "choices": [
+    "Accentuate",
+    "Perspicacious",
+    "Obviate",
+    "Interrogate"
+   ],
+   "answer": 2,
+   "explanation": "Obviate — remove a need",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Perspicacious\" mean?",
+   "choices": [
+    "interpret meaning",
+    "derive a conclusion from evidence",
+    "keenly perceptive",
+    "weaken gradually"
+   ],
+   "answer": 2,
+   "explanation": "Perspicacious — keenly perceptive",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"keenly perceptive\"?",
+   "choices": [
+    "Perspicacious",
+    "Interminable",
+    "Deter",
+    "Preclude"
+   ],
+   "answer": 0,
+   "explanation": "Perspicacious — keenly perceptive",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Peruse\" mean?",
+   "choices": [
+    "examine or read carefully",
+    "working jointly with others",
+    "directly connected to the matter",
+    "keenly perceptive"
+   ],
+   "answer": 0,
+   "explanation": "Peruse — examine or read carefully",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"examine or read carefully\"?",
+   "choices": [
+    "Foment",
+    "Undermine",
+    "Introspective",
+    "Peruse"
+   ],
+   "answer": 3,
+   "explanation": "Peruse — examine or read carefully",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Ponder\" mean?",
+   "choices": [
+    "consider carefully",
+    "stimulate conflict or unrest",
+    "sustain or assist",
+    "directly connected to the matter"
+   ],
+   "answer": 0,
+   "explanation": "Ponder — consider carefully",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"consider carefully\"?",
+   "choices": [
+    "Replete",
+    "Advocate",
+    "Ponder",
+    "Nurture"
+   ],
+   "answer": 2,
+   "explanation": "Ponder — consider carefully",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Preclude\" mean?",
+   "choices": [
+    "prevent beforehand",
+    "fully supplied",
+    "clearly and directly stated",
+    "identify or acknowledge as known"
+   ],
+   "answer": 0,
+   "explanation": "Preclude — prevent beforehand",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"prevent beforehand\"?",
+   "choices": [
+    "Obscure",
+    "Preclude",
+    "Foment",
+    "Exacerbate"
+   ],
+   "answer": 1,
+   "explanation": "Preclude — prevent beforehand",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Recognize\" mean?",
+   "choices": [
+    "identify or acknowledge as known",
+    "derive a conclusion from evidence",
+    "consider carefully",
+    "uncertain or doubtful"
+   ],
+   "answer": 0,
+   "explanation": "Recognize — identify or acknowledge as known",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"identify or acknowledge as known\"?",
+   "choices": [
+    "Avarice",
+    "Ardent",
+    "Recognize",
+    "Nascent"
+   ],
+   "answer": 2,
+   "explanation": "Recognize — identify or acknowledge as known",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Relevant\" mean?",
+   "choices": [
+    "present seemingly everywhere",
+    "make worse",
+    "extremely attentive to detail",
+    "directly connected to the matter"
+   ],
+   "answer": 3,
+   "explanation": "Relevant — directly connected to the matter",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"directly connected to the matter\"?",
+   "choices": [
+    "Mitigate",
+    "Infer",
+    "Relevant",
+    "Deter"
+   ],
+   "answer": 2,
+   "explanation": "Relevant — directly connected to the matter",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Replete\" mean?",
+   "choices": [
+    "prevent beforehand",
+    "fully supplied",
+    "aware or knowledgeable",
+    "clearly and directly stated"
+   ],
+   "answer": 1,
+   "explanation": "Replete — fully supplied",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"fully supplied\"?",
+   "choices": [
+    "Meticulous",
+    "Avarice",
+    "Replete",
+    "Foment"
+   ],
+   "answer": 2,
+   "explanation": "Replete — fully supplied",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Reverberating\" mean?",
+   "choices": [
+    "repeatedly reflecting or resounding",
+    "support growth or development",
+    "extremely attentive to detail",
+    "question systematically"
+   ],
+   "answer": 0,
+   "explanation": "Reverberating — repeatedly reflecting or resounding",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"repeatedly reflecting or resounding\"?",
+   "choices": [
+    "Confront",
+    "Ubiquitous",
+    "Mitigate",
+    "Reverberating"
+   ],
+   "answer": 3,
+   "explanation": "Reverberating — repeatedly reflecting or resounding",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Support\" mean?",
+   "choices": [
+    "publicly support a position",
+    "examine or read carefully",
+    "sustain or assist",
+    "face directly"
+   ],
+   "answer": 2,
+   "explanation": "Support — sustain or assist",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"sustain or assist\"?",
+   "choices": [
+    "Construe",
+    "Infer",
+    "Support",
+    "Dubious"
+   ],
+   "answer": 2,
+   "explanation": "Support — sustain or assist",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Ubiquitous\" mean?",
+   "choices": [
+    "present seemingly everywhere",
+    "strengthen or support",
+    "develop in different directions",
+    "beginning to develop"
+   ],
+   "answer": 0,
+   "explanation": "Ubiquitous — present seemingly everywhere",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"present seemingly everywhere\"?",
+   "choices": [
+    "Nurture",
+    "Confront",
+    "Cognizant",
+    "Ubiquitous"
+   ],
+   "answer": 3,
+   "explanation": "Ubiquitous — present seemingly everywhere",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "What does \"Undermine\" mean?",
+   "choices": [
+    "remove a need",
+    "stimulate conflict or unrest",
+    "publicly support a position",
+    "weaken gradually"
+   ],
+   "answer": 3,
+   "explanation": "Undermine — weaken gradually",
+   "source": "Early-Modern"
+  },
+  {
+   "question": "Which word means \"weaken gradually\"?",
+   "choices": [
+    "Dubious",
+    "Undermine",
+    "Interrogate",
+    "Nascent"
+   ],
+   "answer": 1,
+   "explanation": "Undermine — weaken gradually",
+   "source": "Early-Modern"
+  }
+ ]
+}

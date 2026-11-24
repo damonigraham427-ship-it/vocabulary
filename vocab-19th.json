@@ -1,0 +1,2356 @@
+{
+ "questions": [
+  {
+   "question": "What does \"Abound\" mean?",
+   "choices": [
+    "clothing or garments",
+    "frank openness",
+    "exist in great quantity",
+    "decisive dividing point"
+   ],
+   "answer": 2,
+   "explanation": "Abound — exist in great quantity",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"exist in great quantity\"?",
+   "choices": [
+    "Pertinent",
+    "Amnesty",
+    "Abound",
+    "Bagatelle"
+   ],
+   "answer": 2,
+   "explanation": "Abound — exist in great quantity",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Acme\" mean?",
+   "choices": [
+    "directly relevant to the matter",
+    "arrange according to importance",
+    "highest point of achievement",
+    "not attracting unnecessary attention"
+   ],
+   "answer": 2,
+   "explanation": "Acme — highest point of achievement",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"highest point of achievement\"?",
+   "choices": [
+    "Insight",
+    "Acme",
+    "Resurgence",
+    "Omnivorous"
+   ],
+   "answer": 1,
+   "explanation": "Acme — highest point of achievement",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Adverse\" mean?",
+   "choices": [
+    "motivated primarily by financial gain",
+    "cause severe suffering",
+    "unfavorable or opposed",
+    "excite desire while withholding satisfaction"
+   ],
+   "answer": 2,
+   "explanation": "Adverse — unfavorable or opposed",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"unfavorable or opposed\"?",
+   "choices": [
+    "Adverse",
+    "Juxtaposition",
+    "Nondescript",
+    "Burgeoned"
+   ],
+   "answer": 0,
+   "explanation": "Adverse — unfavorable or opposed",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Afflict\" mean?",
+   "choices": [
+    "make seem less important by comparison",
+    "convert into a source or form of monetary value",
+    "cause severe suffering",
+    "expression of sympathy after loss"
+   ],
+   "answer": 2,
+   "explanation": "Afflict — cause severe suffering",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"cause severe suffering\"?",
+   "choices": [
+    "Afflict",
+    "Unobtrusive",
+    "Multifaceted",
+    "Awesome"
+   ],
+   "answer": 0,
+   "explanation": "Afflict — cause severe suffering",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Amicable\" mean?",
+   "choices": [
+    "harshly loud",
+    "exclusive social group",
+    "able to recover after difficulty",
+    "friendly and nonhostile"
+   ],
+   "answer": 3,
+   "explanation": "Amicable — friendly and nonhostile",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"friendly and nonhostile\"?",
+   "choices": [
+    "Begrudge",
+    "Amicable",
+    "Grimace",
+    "Pertinent"
+   ],
+   "answer": 1,
+   "explanation": "Amicable — friendly and nonhostile",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Amnesty\" mean?",
+   "choices": [
+    "thing of little importance",
+    "traveling from place to place",
+    "friendly and nonhostile",
+    "official pardon"
+   ],
+   "answer": 3,
+   "explanation": "Amnesty — official pardon",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"official pardon\"?",
+   "choices": [
+    "Monetize",
+    "Wince",
+    "Malady",
+    "Amnesty"
+   ],
+   "answer": 3,
+   "explanation": "Amnesty — official pardon",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Anathema\" mean?",
+   "choices": [
+    "traveling from place to place",
+    "object of extreme condemnation",
+    "convert into a source or form of monetary value",
+    "lacking distinctive characteristics"
+   ],
+   "answer": 1,
+   "explanation": "Anathema — object of extreme condemnation",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"object of extreme condemnation\"?",
+   "choices": [
+    "Installation",
+    "Anathema",
+    "Mundane",
+    "Ineluctable"
+   ],
+   "answer": 1,
+   "explanation": "Anathema — object of extreme condemnation",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Array\" mean?",
+   "choices": [
+    "arrange in ordered formation",
+    "struggle to understand or manage",
+    "cause severe suffering",
+    "overwhelm with a great quantity"
+   ],
+   "answer": 0,
+   "explanation": "Array — arrange in ordered formation",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"arrange in ordered formation\"?",
+   "choices": [
+    "Unresolvable",
+    "Malady",
+    "Array",
+    "Interject"
+   ],
+   "answer": 2,
+   "explanation": "Array — arrange in ordered formation",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Awesome\" mean?",
+   "choices": [
+    "involuntarily react to pain or embarrassment",
+    "inspiring awe; later, extremely impressive",
+    "renewed growth after decline",
+    "having many distinct aspects"
+   ],
+   "answer": 1,
+   "explanation": "Awesome — inspiring awe; later, extremely impressive",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"inspiring awe; later, extremely impressive\"?",
+   "choices": [
+    "Resurgence",
+    "Grapple with",
+    "Awesome",
+    "Domicile"
+   ],
+   "answer": 2,
+   "explanation": "Awesome — inspiring awe; later, extremely impressive",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Bagatelle\" mean?",
+   "choices": [
+    "sudden disastrous failure",
+    "thing of little importance",
+    "large and strongly built",
+    "directly relevant to the matter"
+   ],
+   "answer": 1,
+   "explanation": "Bagatelle — thing of little importance",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"thing of little importance\"?",
+   "choices": [
+    "Itinerant",
+    "Juxtaposition",
+    "Bagatelle",
+    "Fracas"
+   ],
+   "answer": 2,
+   "explanation": "Bagatelle — thing of little importance",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Begrudge\" mean?",
+   "choices": [
+    "inspiring awe; later, extremely impressive",
+    "earlier case guiding later action",
+    "person or thing regarded as insignificant",
+    "resent another's possession or advantage"
+   ],
+   "answer": 3,
+   "explanation": "Begrudge — resent another's possession or advantage",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"resent another's possession or advantage\"?",
+   "choices": [
+    "Awesome",
+    "Begrudge",
+    "Potpourri",
+    "Covert"
+   ],
+   "answer": 1,
+   "explanation": "Begrudge — resent another's possession or advantage",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Burgeoned\" mean?",
+   "choices": [
+    "excite desire while withholding satisfaction",
+    "extremely wicked",
+    "renewed growth after decline",
+    "grew or expanded rapidly"
+   ],
+   "answer": 3,
+   "explanation": "Burgeoned — grew or expanded rapidly",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"grew or expanded rapidly\"?",
+   "choices": [
+    "Burgeoned",
+    "Pertinent",
+    "Raucous",
+    "Fractious"
+   ],
+   "answer": 0,
+   "explanation": "Burgeoned — grew or expanded rapidly",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Burly\" mean?",
+   "choices": [
+    "large and strongly built",
+    "thing of little importance",
+    "decisive dividing point",
+    "introducing new methods or ideas"
+   ],
+   "answer": 0,
+   "explanation": "Burly — large and strongly built",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"large and strongly built\"?",
+   "choices": [
+    "Burly",
+    "Delve",
+    "Amnesty",
+    "Bagatelle"
+   ],
+   "answer": 0,
+   "explanation": "Burly — large and strongly built",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Callous\" mean?",
+   "choices": [
+    "substantial building",
+    "emotionally insensitive",
+    "firm and loyal",
+    "large and strongly built"
+   ],
+   "answer": 1,
+   "explanation": "Callous — emotionally insensitive",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"emotionally insensitive\"?",
+   "choices": [
+    "Unobtrusive",
+    "Nefarious",
+    "Callous",
+    "Multifaceted"
+   ],
+   "answer": 2,
+   "explanation": "Callous — emotionally insensitive",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Candor\" mean?",
+   "choices": [
+    "able to recover after difficulty",
+    "frank openness",
+    "involuntarily react to pain or embarrassment",
+    "incapable of being defended or maintained"
+   ],
+   "answer": 1,
+   "explanation": "Candor — frank openness",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"frank openness\"?",
+   "choices": [
+    "Candor",
+    "Insight",
+    "Bagatelle",
+    "Desist"
+   ],
+   "answer": 0,
+   "explanation": "Candor — frank openness",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Cant\" mean?",
+   "choices": [
+    "insincere, conventional, or specialized group language",
+    "sudden disastrous failure",
+    "furiously angry",
+    "person or thing regarded as insignificant"
+   ],
+   "answer": 0,
+   "explanation": "Cant — insincere, conventional, or specialized group language",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"insincere, conventional, or specialized group language\"?",
+   "choices": [
+    "Monetize",
+    "Prioritize",
+    "Cant",
+    "Inviolable"
+   ],
+   "answer": 2,
+   "explanation": "Cant — insincere, conventional, or specialized group language",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Clique\" mean?",
+   "choices": [
+    "protected from violation",
+    "exclusive social group",
+    "able to recover after difficulty",
+    "friendly and nonhostile"
+   ],
+   "answer": 1,
+   "explanation": "Clique — exclusive social group",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"exclusive social group\"?",
+   "choices": [
+    "Overshadow",
+    "Clique",
+    "Inclement",
+    "Outmoded"
+   ],
+   "answer": 1,
+   "explanation": "Clique — exclusive social group",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Compound\" mean?",
+   "choices": [
+    "combine into a whole",
+    "miscellaneous mixture",
+    "impossible to avoid",
+    "think repeatedly and deeply about"
+   ],
+   "answer": 0,
+   "explanation": "Compound — combine into a whole",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"combine into a whole\"?",
+   "choices": [
+    "Frail",
+    "Saga",
+    "Livid",
+    "Compound"
+   ],
+   "answer": 3,
+   "explanation": "Compound — combine into a whole",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Condolence\" mean?",
+   "choices": [
+    "expression of sympathy after loss",
+    "departing from accepted practice",
+    "clothing or garments",
+    "exist in great quantity"
+   ],
+   "answer": 0,
+   "explanation": "Condolence — expression of sympathy after loss",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"expression of sympathy after loss\"?",
+   "choices": [
+    "Elusive",
+    "Delve",
+    "Mundane",
+    "Condolence"
+   ],
+   "answer": 3,
+   "explanation": "Condolence — expression of sympathy after loss",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Covert\" mean?",
+   "choices": [
+    "person or thing regarded as insignificant",
+    "performed without advance preparation",
+    "concealed or hidden",
+    "established residence"
+   ],
+   "answer": 2,
+   "explanation": "Covert — concealed or hidden",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"concealed or hidden\"?",
+   "choices": [
+    "Uncanny",
+    "Candor",
+    "Underscore",
+    "Covert"
+   ],
+   "answer": 3,
+   "explanation": "Covert — concealed or hidden",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Debacle\" mean?",
+   "choices": [
+    "follower or pupil",
+    "established range of works or skills",
+    "sudden disastrous failure",
+    "performed without advance preparation"
+   ],
+   "answer": 2,
+   "explanation": "Debacle — sudden disastrous failure",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"sudden disastrous failure\"?",
+   "choices": [
+    "Covert",
+    "Unattainable",
+    "Anathema",
+    "Debacle"
+   ],
+   "answer": 3,
+   "explanation": "Debacle — sudden disastrous failure",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Deluge\" mean?",
+   "choices": [
+    "overwhelm with a great quantity",
+    "harsh or severe, especially of weather",
+    "protected from violation",
+    "burden beyond normal capacity"
+   ],
+   "answer": 0,
+   "explanation": "Deluge — overwhelm with a great quantity",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"overwhelm with a great quantity\"?",
+   "choices": [
+    "Compound",
+    "Burgeoned",
+    "Resilient",
+    "Deluge"
+   ],
+   "answer": 3,
+   "explanation": "Deluge — overwhelm with a great quantity",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Delve\" mean?",
+   "choices": [
+    "dig deeply",
+    "noisy disturbance or fight",
+    "performed without advance preparation",
+    "inspiring awe; later, extremely impressive"
+   ],
+   "answer": 0,
+   "explanation": "Delve — dig deeply",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"dig deeply\"?",
+   "choices": [
+    "Tantalize",
+    "Delve",
+    "Afflict",
+    "Scrutinize"
+   ],
+   "answer": 1,
+   "explanation": "Delve — dig deeply",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Desist\" mean?",
+   "choices": [
+    "harshly loud",
+    "causing or determined by death",
+    "stop an action",
+    "act or system of placing something into operation"
+   ],
+   "answer": 2,
+   "explanation": "Desist — stop an action",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"stop an action\"?",
+   "choices": [
+    "Begrudge",
+    "Nonentity",
+    "Idiosyncratic",
+    "Desist"
+   ],
+   "answer": 3,
+   "explanation": "Desist — stop an action",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Discern\" mean?",
+   "choices": [
+    "perceive or distinguish clearly",
+    "establish as sound or acceptable",
+    "frank openness",
+    "distinctively peculiar to an individual"
+   ],
+   "answer": 0,
+   "explanation": "Discern — perceive or distinguish clearly",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"perceive or distinguish clearly\"?",
+   "choices": [
+    "Itinerant",
+    "Unclassifiable",
+    "Discern",
+    "Prioritize"
+   ],
+   "answer": 2,
+   "explanation": "Discern — perceive or distinguish clearly",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Disciple\" mean?",
+   "choices": [
+    "long narrative or extended sequence of events",
+    "follower or pupil",
+    "motivated primarily by financial gain",
+    "willing to help or accommodate"
+   ],
+   "answer": 1,
+   "explanation": "Disciple — follower or pupil",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"follower or pupil\"?",
+   "choices": [
+    "Desist",
+    "Uncanny",
+    "Clique",
+    "Disciple"
+   ],
+   "answer": 3,
+   "explanation": "Disciple — follower or pupil",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Domicile\" mean?",
+   "choices": [
+    "protected from violation",
+    "physically weak or delicate",
+    "concealed or hidden",
+    "established residence"
+   ],
+   "answer": 3,
+   "explanation": "Domicile — established residence",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"established residence\"?",
+   "choices": [
+    "Frail",
+    "Ruminate about",
+    "Domicile",
+    "Covert"
+   ],
+   "answer": 2,
+   "explanation": "Domicile — established residence",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Edifice\" mean?",
+   "choices": [
+    "burden beyond normal capacity",
+    "substantial building",
+    "no longer current or useful",
+    "insincere, conventional, or specialized group language"
+   ],
+   "answer": 1,
+   "explanation": "Edifice — substantial building",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"substantial building\"?",
+   "choices": [
+    "Discern",
+    "Rail",
+    "Elusive",
+    "Edifice"
+   ],
+   "answer": 3,
+   "explanation": "Edifice — substantial building",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Elusive\" mean?",
+   "choices": [
+    "involuntarily react to pain or embarrassment",
+    "official pardon",
+    "large and strongly built",
+    "difficult to grasp or obtain"
+   ],
+   "answer": 3,
+   "explanation": "Elusive — difficult to grasp or obtain",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"difficult to grasp or obtain\"?",
+   "choices": [
+    "Elusive",
+    "Pertinent",
+    "Desist",
+    "Watershed"
+   ],
+   "answer": 0,
+   "explanation": "Elusive — difficult to grasp or obtain",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Fatal\" mean?",
+   "choices": [
+    "renewed growth after decline",
+    "causing or determined by death",
+    "act or system of placing something into operation",
+    "clothing or garments"
+   ],
+   "answer": 1,
+   "explanation": "Fatal — causing or determined by death",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"causing or determined by death\"?",
+   "choices": [
+    "Fatal",
+    "Amnesty",
+    "Awesome",
+    "Malady"
+   ],
+   "answer": 0,
+   "explanation": "Fatal — causing or determined by death",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Felon\" mean?",
+   "choices": [
+    "person guilty of serious wrongdoing",
+    "convert into a source or form of monetary value",
+    "miscellaneous mixture",
+    "concealed or hidden"
+   ],
+   "answer": 0,
+   "explanation": "Felon — person guilty of serious wrongdoing",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"person guilty of serious wrongdoing\"?",
+   "choices": [
+    "Juxtaposition",
+    "Idiosyncratic",
+    "Unresolvable",
+    "Felon"
+   ],
+   "answer": 3,
+   "explanation": "Felon — person guilty of serious wrongdoing",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Fracas\" mean?",
+   "choices": [
+    "become tiresome or lose appeal",
+    "noisy disturbance or fight",
+    "substantial building",
+    "inspiring awe; later, extremely impressive"
+   ],
+   "answer": 1,
+   "explanation": "Fracas — noisy disturbance or fight",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"noisy disturbance or fight\"?",
+   "choices": [
+    "Discern",
+    "Succumb",
+    "Overload",
+    "Fracas"
+   ],
+   "answer": 3,
+   "explanation": "Fracas — noisy disturbance or fight",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Fractious\" mean?",
+   "choices": [
+    "earlier case guiding later action",
+    "irritable and difficult to control",
+    "impossible to avoid",
+    "strangely unsettling Scots/English *un- + canny*"
+   ],
+   "answer": 1,
+   "explanation": "Fractious — irritable and difficult to control",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"irritable and difficult to control\"?",
+   "choices": [
+    "Fractious",
+    "Pertinent",
+    "Livid",
+    "Saga"
+   ],
+   "answer": 0,
+   "explanation": "Fractious — irritable and difficult to control",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Frail\" mean?",
+   "choices": [
+    "incapable of being defended or maintained",
+    "emotionally insensitive",
+    "physically weak or delicate",
+    "lacking distinctive characteristics"
+   ],
+   "answer": 2,
+   "explanation": "Frail — physically weak or delicate",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"physically weak or delicate\"?",
+   "choices": [
+    "Compound",
+    "Potpourri",
+    "Fractious",
+    "Frail"
+   ],
+   "answer": 3,
+   "explanation": "Frail — physically weak or delicate",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Furtive\" mean?",
+   "choices": [
+    "friendly and nonhostile",
+    "secretive or attempting to avoid notice",
+    "decisive dividing point",
+    "stop an action"
+   ],
+   "answer": 1,
+   "explanation": "Furtive — secretive or attempting to avoid notice",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"secretive or attempting to avoid notice\"?",
+   "choices": [
+    "Abound",
+    "Covert",
+    "Array",
+    "Furtive"
+   ],
+   "answer": 3,
+   "explanation": "Furtive — secretive or attempting to avoid notice",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Grapple with\" mean?",
+   "choices": [
+    "convert into a source or form of monetary value",
+    "emphasize",
+    "struggle to understand or manage",
+    "mark with social disgrace"
+   ],
+   "answer": 2,
+   "explanation": "Grapple with — struggle to understand or manage",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"struggle to understand or manage\"?",
+   "choices": [
+    "Delve",
+    "Raucous",
+    "Grapple with",
+    "Adverse"
+   ],
+   "answer": 2,
+   "explanation": "Grapple with — struggle to understand or manage",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Grimace\" mean?",
+   "choices": [
+    "secretive or attempting to avoid notice",
+    "illness or disorder",
+    "distorted facial expression",
+    "exist in great quantity"
+   ],
+   "answer": 2,
+   "explanation": "Grimace — distorted facial expression",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"distorted facial expression\"?",
+   "choices": [
+    "Tantalize",
+    "Delve",
+    "Grimace",
+    "Impromptu"
+   ],
+   "answer": 2,
+   "explanation": "Grimace — distorted facial expression",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Idiosyncratic\" mean?",
+   "choices": [
+    "having many distinct aspects",
+    "person or thing regarded as insignificant",
+    "consuming both plant and animal food",
+    "distinctively peculiar to an individual"
+   ],
+   "answer": 3,
+   "explanation": "Idiosyncratic — distinctively peculiar to an individual",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"distinctively peculiar to an individual\"?",
+   "choices": [
+    "Nondescript",
+    "Juxtaposition",
+    "Fatal",
+    "Idiosyncratic"
+   ],
+   "answer": 3,
+   "explanation": "Idiosyncratic — distinctively peculiar to an individual",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Impromptu\" mean?",
+   "choices": [
+    "performed without advance preparation",
+    "ordinary or lacking exceptional interest",
+    "advance feeling or warning",
+    "cause severe suffering"
+   ],
+   "answer": 0,
+   "explanation": "Impromptu — performed without advance preparation",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"performed without advance preparation\"?",
+   "choices": [
+    "Impromptu",
+    "Domicile",
+    "Discern",
+    "Burly"
+   ],
+   "answer": 0,
+   "explanation": "Impromptu — performed without advance preparation",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Inclement\" mean?",
+   "choices": [
+    "expression of sympathy after loss",
+    "introducing new methods or ideas",
+    "ordinary or lacking exceptional interest",
+    "harsh or severe, especially of weather"
+   ],
+   "answer": 3,
+   "explanation": "Inclement — harsh or severe, especially of weather",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"harsh or severe, especially of weather\"?",
+   "choices": [
+    "Felon",
+    "Inclement",
+    "Omnivorous",
+    "Livid"
+   ],
+   "answer": 1,
+   "explanation": "Inclement — harsh or severe, especially of weather",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Ineffectual\" mean?",
+   "choices": [
+    "expression of sympathy after loss",
+    "failing to produce the intended result",
+    "renewed growth after decline",
+    "struggle to understand or manage"
+   ],
+   "answer": 1,
+   "explanation": "Ineffectual — failing to produce the intended result",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"failing to produce the intended result\"?",
+   "choices": [
+    "Nefarious",
+    "Ineffectual",
+    "Covert",
+    "Awesome"
+   ],
+   "answer": 1,
+   "explanation": "Ineffectual — failing to produce the intended result",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Ineluctable\" mean?",
+   "choices": [
+    "cause severe suffering",
+    "establish as sound or acceptable",
+    "impossible to avoid",
+    "decisive dividing point"
+   ],
+   "answer": 2,
+   "explanation": "Ineluctable — impossible to avoid",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"impossible to avoid\"?",
+   "choices": [
+    "Raiment",
+    "Ineluctable",
+    "Unclassifiable",
+    "Nefarious"
+   ],
+   "answer": 1,
+   "explanation": "Ineluctable — impossible to avoid",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Innovative\" mean?",
+   "choices": [
+    "lacking distinctive characteristics",
+    "overwhelm with a great quantity",
+    "excite desire while withholding satisfaction",
+    "introducing new methods or ideas"
+   ],
+   "answer": 3,
+   "explanation": "Innovative — introducing new methods or ideas",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"introducing new methods or ideas\"?",
+   "choices": [
+    "Innovative",
+    "Disciple",
+    "Unclassifiable",
+    "Rabid"
+   ],
+   "answer": 0,
+   "explanation": "Innovative — introducing new methods or ideas",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Insight\" mean?",
+   "choices": [
+    "mark with social disgrace",
+    "expression of sympathy after loss",
+    "protected from violation",
+    "penetrating understanding"
+   ],
+   "answer": 3,
+   "explanation": "Insight — penetrating understanding",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"penetrating understanding\"?",
+   "choices": [
+    "Tedious",
+    "Outmoded",
+    "Insight",
+    "Nonentity"
+   ],
+   "answer": 2,
+   "explanation": "Insight — penetrating understanding",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Installation\" mean?",
+   "choices": [
+    "frank openness",
+    "act or system of placing something into operation",
+    "large and strongly built",
+    "denounce bitterly"
+   ],
+   "answer": 1,
+   "explanation": "Installation — act or system of placing something into operation",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"act or system of placing something into operation\"?",
+   "choices": [
+    "Anathema",
+    "Candor",
+    "Installation",
+    "Mercenary"
+   ],
+   "answer": 2,
+   "explanation": "Installation — act or system of placing something into operation",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Interject\" mean?",
+   "choices": [
+    "insert abruptly into speech or discussion",
+    "long narrative or extended sequence of events",
+    "fanatically extreme",
+    "cause severe suffering"
+   ],
+   "answer": 0,
+   "explanation": "Interject — insert abruptly into speech or discussion",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"insert abruptly into speech or discussion\"?",
+   "choices": [
+    "Unconventional",
+    "Awesome",
+    "Unclassifiable",
+    "Interject"
+   ],
+   "answer": 3,
+   "explanation": "Interject — insert abruptly into speech or discussion",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Inviolable\" mean?",
+   "choices": [
+    "source pursued or extracted",
+    "large and strongly built",
+    "sudden disastrous failure",
+    "protected from violation"
+   ],
+   "answer": 3,
+   "explanation": "Inviolable — protected from violation",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"protected from violation\"?",
+   "choices": [
+    "Anathema",
+    "Innovative",
+    "Watershed",
+    "Inviolable"
+   ],
+   "answer": 3,
+   "explanation": "Inviolable — protected from violation",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Itinerant\" mean?",
+   "choices": [
+    "struggle to understand or manage",
+    "traveling from place to place",
+    "advance feeling or warning",
+    "stop an action"
+   ],
+   "answer": 1,
+   "explanation": "Itinerant — traveling from place to place",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"traveling from place to place\"?",
+   "choices": [
+    "Itinerant",
+    "Staunch",
+    "Grimace",
+    "Tantalize"
+   ],
+   "answer": 0,
+   "explanation": "Itinerant — traveling from place to place",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Juxtaposition\" mean?",
+   "choices": [
+    "advance feeling or warning",
+    "secretive or attempting to avoid notice",
+    "renewed growth after decline",
+    "placement side by side for comparison"
+   ],
+   "answer": 3,
+   "explanation": "Juxtaposition — placement side by side for comparison",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"placement side by side for comparison\"?",
+   "choices": [
+    "Nefarious",
+    "Juxtaposition",
+    "Innovative",
+    "Untenable"
+   ],
+   "answer": 1,
+   "explanation": "Juxtaposition — placement side by side for comparison",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Livid\" mean?",
+   "choices": [
+    "convert into a source or form of monetary value",
+    "struggle to understand or manage",
+    "think repeatedly and deeply about",
+    "furiously angry"
+   ],
+   "answer": 3,
+   "explanation": "Livid — furiously angry",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"furiously angry\"?",
+   "choices": [
+    "Afflict",
+    "Livid",
+    "Desist",
+    "Uncanny"
+   ],
+   "answer": 1,
+   "explanation": "Livid — furiously angry",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Malady\" mean?",
+   "choices": [
+    "make seem less important by comparison",
+    "illness or disorder",
+    "sudden disastrous failure",
+    "established range of works or skills"
+   ],
+   "answer": 1,
+   "explanation": "Malady — illness or disorder",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"illness or disorder\"?",
+   "choices": [
+    "Uncanny",
+    "Malady",
+    "Unobtrusive",
+    "Ineluctable"
+   ],
+   "answer": 1,
+   "explanation": "Malady — illness or disorder",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Martinet\" mean?",
+   "choices": [
+    "physically weak or delicate",
+    "make seem less important by comparison",
+    "excessively strict disciplinarian Derived from Jean Martinet",
+    "thing of little importance"
+   ],
+   "answer": 2,
+   "explanation": "Martinet — excessively strict disciplinarian Derived from Jean Martinet",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"excessively strict disciplinarian Derived from Jean Martinet\"?",
+   "choices": [
+    "Ineffectual",
+    "Martinet",
+    "Desist",
+    "Livid"
+   ],
+   "answer": 1,
+   "explanation": "Martinet — excessively strict disciplinarian Derived from Jean Martinet",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Mercenary\" mean?",
+   "choices": [
+    "involuntarily react to pain or embarrassment",
+    "large and strongly built",
+    "motivated primarily by financial gain",
+    "exclusive social group"
+   ],
+   "answer": 2,
+   "explanation": "Mercenary — motivated primarily by financial gain",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"motivated primarily by financial gain\"?",
+   "choices": [
+    "Underscore",
+    "Mercenary",
+    "Candor",
+    "Ineffectual"
+   ],
+   "answer": 1,
+   "explanation": "Mercenary — motivated primarily by financial gain",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Monetize\" mean?",
+   "choices": [
+    "mark with social disgrace",
+    "impossible to achieve",
+    "emphasize",
+    "convert into a source or form of monetary value"
+   ],
+   "answer": 3,
+   "explanation": "Monetize — convert into a source or form of monetary value",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"convert into a source or form of monetary value\"?",
+   "choices": [
+    "Overload",
+    "Inviolable",
+    "Monetize",
+    "Staunch"
+   ],
+   "answer": 2,
+   "explanation": "Monetize — convert into a source or form of monetary value",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Multifaceted\" mean?",
+   "choices": [
+    "illness or disorder",
+    "having many distinct aspects",
+    "secretive or attempting to avoid notice",
+    "willing to help or accommodate"
+   ],
+   "answer": 1,
+   "explanation": "Multifaceted — having many distinct aspects",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"having many distinct aspects\"?",
+   "choices": [
+    "Monetize",
+    "Deluge",
+    "Multifaceted",
+    "Itinerant"
+   ],
+   "answer": 2,
+   "explanation": "Multifaceted — having many distinct aspects",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Mundane\" mean?",
+   "choices": [
+    "think repeatedly and deeply about",
+    "exist in great quantity",
+    "harsh or severe, especially of weather",
+    "ordinary or lacking exceptional interest"
+   ],
+   "answer": 3,
+   "explanation": "Mundane — ordinary or lacking exceptional interest",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"ordinary or lacking exceptional interest\"?",
+   "choices": [
+    "Inclement",
+    "Amnesty",
+    "Deluge",
+    "Mundane"
+   ],
+   "answer": 3,
+   "explanation": "Mundane — ordinary or lacking exceptional interest",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Nefarious\" mean?",
+   "choices": [
+    "not attracting unnecessary attention",
+    "placement side by side for comparison",
+    "extremely wicked",
+    "impossible to avoid"
+   ],
+   "answer": 2,
+   "explanation": "Nefarious — extremely wicked",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"extremely wicked\"?",
+   "choices": [
+    "Ineffectual",
+    "Nefarious",
+    "Innovative",
+    "Fracas"
+   ],
+   "answer": 1,
+   "explanation": "Nefarious — extremely wicked",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Nondescript\" mean?",
+   "choices": [
+    "departing from accepted practice",
+    "lacking distinctive characteristics",
+    "ordinary or lacking exceptional interest",
+    "penetrating understanding"
+   ],
+   "answer": 1,
+   "explanation": "Nondescript — lacking distinctive characteristics",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"lacking distinctive characteristics\"?",
+   "choices": [
+    "Condolence",
+    "Livid",
+    "Nondescript",
+    "Multifaceted"
+   ],
+   "answer": 2,
+   "explanation": "Nondescript — lacking distinctive characteristics",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Nonentity\" mean?",
+   "choices": [
+    "denounce bitterly",
+    "person or thing regarded as insignificant",
+    "combine into a whole",
+    "performed without advance preparation"
+   ],
+   "answer": 1,
+   "explanation": "Nonentity — person or thing regarded as insignificant",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"person or thing regarded as insignificant\"?",
+   "choices": [
+    "Elusive",
+    "Nonentity",
+    "Burly",
+    "Adverse"
+   ],
+   "answer": 1,
+   "explanation": "Nonentity — person or thing regarded as insignificant",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Obliging\" mean?",
+   "choices": [
+    "emphasize",
+    "source pursued or extracted",
+    "willing to help or accommodate",
+    "act or system of placing something into operation"
+   ],
+   "answer": 2,
+   "explanation": "Obliging — willing to help or accommodate",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"willing to help or accommodate\"?",
+   "choices": [
+    "Obliging",
+    "Unobtrusive",
+    "Disciple",
+    "Grimace"
+   ],
+   "answer": 0,
+   "explanation": "Obliging — willing to help or accommodate",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Omnivorous\" mean?",
+   "choices": [
+    "consuming both plant and animal food",
+    "make seem less important by comparison",
+    "emotionally insensitive",
+    "directly relevant to the matter"
+   ],
+   "answer": 0,
+   "explanation": "Omnivorous — consuming both plant and animal food",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"consuming both plant and animal food\"?",
+   "choices": [
+    "Watershed",
+    "Delve",
+    "Premonition",
+    "Omnivorous"
+   ],
+   "answer": 3,
+   "explanation": "Omnivorous — consuming both plant and animal food",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Outmoded\" mean?",
+   "choices": [
+    "renewed growth after decline",
+    "no longer current or useful",
+    "cause severe suffering",
+    "involuntarily react to pain or embarrassment"
+   ],
+   "answer": 1,
+   "explanation": "Outmoded — no longer current or useful",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"no longer current or useful\"?",
+   "choices": [
+    "Innovative",
+    "Burly",
+    "Outmoded",
+    "Wince"
+   ],
+   "answer": 2,
+   "explanation": "Outmoded — no longer current or useful",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Overload\" mean?",
+   "choices": [
+    "large and strongly built",
+    "unable to be placed within an established category",
+    "penetrating understanding",
+    "burden beyond normal capacity"
+   ],
+   "answer": 3,
+   "explanation": "Overload — burden beyond normal capacity",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"burden beyond normal capacity\"?",
+   "choices": [
+    "Amnesty",
+    "Staunch",
+    "Whimsical",
+    "Overload"
+   ],
+   "answer": 3,
+   "explanation": "Overload — burden beyond normal capacity",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Overshadow\" mean?",
+   "choices": [
+    "large and strongly built",
+    "yield to superior force",
+    "emotionally insensitive",
+    "make seem less important by comparison"
+   ],
+   "answer": 3,
+   "explanation": "Overshadow — make seem less important by comparison",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"make seem less important by comparison\"?",
+   "choices": [
+    "Condolence",
+    "Inclement",
+    "Pertinent",
+    "Overshadow"
+   ],
+   "answer": 3,
+   "explanation": "Overshadow — make seem less important by comparison",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Pall\" mean?",
+   "choices": [
+    "unfavorable or opposed",
+    "become tiresome or lose appeal",
+    "lacking distinctive characteristics",
+    "willing to help or accommodate"
+   ],
+   "answer": 1,
+   "explanation": "Pall — become tiresome or lose appeal",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"become tiresome or lose appeal\"?",
+   "choices": [
+    "Malady",
+    "Pall",
+    "Disciple",
+    "Juxtaposition"
+   ],
+   "answer": 1,
+   "explanation": "Pall — become tiresome or lose appeal",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Pertinent\" mean?",
+   "choices": [
+    "irritable and difficult to control",
+    "illness or disorder",
+    "directly relevant to the matter",
+    "distinctively peculiar to an individual"
+   ],
+   "answer": 2,
+   "explanation": "Pertinent — directly relevant to the matter",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"directly relevant to the matter\"?",
+   "choices": [
+    "Unconventional",
+    "Pertinent",
+    "Repertoire",
+    "Martinet"
+   ],
+   "answer": 1,
+   "explanation": "Pertinent — directly relevant to the matter",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Potpourri\" mean?",
+   "choices": [
+    "fanatically extreme",
+    "miscellaneous mixture",
+    "exclusive social group",
+    "motivated primarily by financial gain"
+   ],
+   "answer": 1,
+   "explanation": "Potpourri — miscellaneous mixture",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"miscellaneous mixture\"?",
+   "choices": [
+    "Juxtaposition",
+    "Bagatelle",
+    "Potpourri",
+    "Fracas"
+   ],
+   "answer": 2,
+   "explanation": "Potpourri — miscellaneous mixture",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Precedent\" mean?",
+   "choices": [
+    "think repeatedly and deeply about",
+    "earlier case guiding later action",
+    "arrange in ordered formation",
+    "having many distinct aspects"
+   ],
+   "answer": 1,
+   "explanation": "Precedent — earlier case guiding later action",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"earlier case guiding later action\"?",
+   "choices": [
+    "Succumb",
+    "Afflict",
+    "Amicable",
+    "Precedent"
+   ],
+   "answer": 3,
+   "explanation": "Precedent — earlier case guiding later action",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Premonition\" mean?",
+   "choices": [
+    "advance feeling or warning",
+    "traveling from place to place",
+    "involuntarily react to pain or embarrassment",
+    "denounce bitterly"
+   ],
+   "answer": 0,
+   "explanation": "Premonition — advance feeling or warning",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"advance feeling or warning\"?",
+   "choices": [
+    "Desist",
+    "Outmoded",
+    "Premonition",
+    "Overshadow"
+   ],
+   "answer": 2,
+   "explanation": "Premonition — advance feeling or warning",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Prioritize\" mean?",
+   "choices": [
+    "arrange according to importance",
+    "decisive dividing point",
+    "exclusive social group",
+    "incapable of being satisfactorily solved"
+   ],
+   "answer": 0,
+   "explanation": "Prioritize — arrange according to importance",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"arrange according to importance\"?",
+   "choices": [
+    "Prioritize",
+    "Pall",
+    "Idiosyncratic",
+    "Compound"
+   ],
+   "answer": 0,
+   "explanation": "Prioritize — arrange according to importance",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Quarry\" mean?",
+   "choices": [
+    "incapable of being defended or maintained",
+    "protected from violation",
+    "source pursued or extracted",
+    "tiresomely long or repetitive"
+   ],
+   "answer": 2,
+   "explanation": "Quarry — source pursued or extracted",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"source pursued or extracted\"?",
+   "choices": [
+    "Nonentity",
+    "Quarry",
+    "Succumb",
+    "Deluge"
+   ],
+   "answer": 1,
+   "explanation": "Quarry — source pursued or extracted",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Rabid\" mean?",
+   "choices": [
+    "incapable of being satisfactorily solved",
+    "secretive or attempting to avoid notice",
+    "substantial building",
+    "fanatically extreme"
+   ],
+   "answer": 3,
+   "explanation": "Rabid — fanatically extreme",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"fanatically extreme\"?",
+   "choices": [
+    "Delve",
+    "Staunch",
+    "Resilient",
+    "Rabid"
+   ],
+   "answer": 3,
+   "explanation": "Rabid — fanatically extreme",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Rail\" mean?",
+   "choices": [
+    "decisive dividing point",
+    "harsh or severe, especially of weather",
+    "denounce bitterly",
+    "source pursued or extracted"
+   ],
+   "answer": 2,
+   "explanation": "Rail — denounce bitterly",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"denounce bitterly\"?",
+   "choices": [
+    "Burgeoned",
+    "Deluge",
+    "Rail",
+    "Elusive"
+   ],
+   "answer": 2,
+   "explanation": "Rail — denounce bitterly",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Raiment\" mean?",
+   "choices": [
+    "cause severe suffering",
+    "clothing or garments",
+    "stop an action",
+    "become tiresome or lose appeal"
+   ],
+   "answer": 1,
+   "explanation": "Raiment — clothing or garments",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"clothing or garments\"?",
+   "choices": [
+    "Raiment",
+    "Grapple with",
+    "Delve",
+    "Mercenary"
+   ],
+   "answer": 0,
+   "explanation": "Raiment — clothing or garments",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Raucous\" mean?",
+   "choices": [
+    "make seem less important by comparison",
+    "denounce bitterly",
+    "harshly loud",
+    "fanatically extreme"
+   ],
+   "answer": 2,
+   "explanation": "Raucous — harshly loud",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"harshly loud\"?",
+   "choices": [
+    "Tedious",
+    "Elusive",
+    "Raucous",
+    "Ineluctable"
+   ],
+   "answer": 2,
+   "explanation": "Raucous — harshly loud",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Repertoire\" mean?",
+   "choices": [
+    "established range of works or skills",
+    "traveling from place to place",
+    "no longer current or useful",
+    "overwhelm with a great quantity"
+   ],
+   "answer": 0,
+   "explanation": "Repertoire — established range of works or skills",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"established range of works or skills\"?",
+   "choices": [
+    "Unobtrusive",
+    "Omnivorous",
+    "Delve",
+    "Repertoire"
+   ],
+   "answer": 3,
+   "explanation": "Repertoire — established range of works or skills",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Resilient\" mean?",
+   "choices": [
+    "impossible to avoid",
+    "able to recover after difficulty",
+    "frank openness",
+    "object of extreme condemnation"
+   ],
+   "answer": 1,
+   "explanation": "Resilient — able to recover after difficulty",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"able to recover after difficulty\"?",
+   "choices": [
+    "Malady",
+    "Staunch",
+    "Resilient",
+    "Afflict"
+   ],
+   "answer": 2,
+   "explanation": "Resilient — able to recover after difficulty",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Resurgence\" mean?",
+   "choices": [
+    "strangely unsettling Scots/English *un- + canny*",
+    "arrange according to importance",
+    "renewed growth after decline",
+    "resent another's possession or advantage"
+   ],
+   "answer": 2,
+   "explanation": "Resurgence — renewed growth after decline",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"renewed growth after decline\"?",
+   "choices": [
+    "Raucous",
+    "Grimace",
+    "Tantalize",
+    "Resurgence"
+   ],
+   "answer": 3,
+   "explanation": "Resurgence — renewed growth after decline",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Ruminate about\" mean?",
+   "choices": [
+    "advance feeling or warning",
+    "not attracting unnecessary attention",
+    "think repeatedly and deeply about",
+    "tiresomely long or repetitive"
+   ],
+   "answer": 2,
+   "explanation": "Ruminate about — think repeatedly and deeply about",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"think repeatedly and deeply about\"?",
+   "choices": [
+    "Rail",
+    "Ruminate about",
+    "Covert",
+    "Martinet"
+   ],
+   "answer": 1,
+   "explanation": "Ruminate about — think repeatedly and deeply about",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Saga\" mean?",
+   "choices": [
+    "long narrative or extended sequence of events",
+    "overwhelm with a great quantity",
+    "unable to be placed within an established category",
+    "person guilty of serious wrongdoing"
+   ],
+   "answer": 0,
+   "explanation": "Saga — long narrative or extended sequence of events",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"long narrative or extended sequence of events\"?",
+   "choices": [
+    "Unattainable",
+    "Saga",
+    "Callous",
+    "Cant"
+   ],
+   "answer": 1,
+   "explanation": "Saga — long narrative or extended sequence of events",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Scrutinize\" mean?",
+   "choices": [
+    "expression of sympathy after loss",
+    "examine closely",
+    "thing of little importance",
+    "mark with social disgrace"
+   ],
+   "answer": 1,
+   "explanation": "Scrutinize — examine closely",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"examine closely\"?",
+   "choices": [
+    "Inviolable",
+    "Unattainable",
+    "Fracas",
+    "Scrutinize"
+   ],
+   "answer": 3,
+   "explanation": "Scrutinize — examine closely",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Staunch\" mean?",
+   "choices": [
+    "highest point of achievement",
+    "able to recover after difficulty",
+    "firm and loyal",
+    "mark with social disgrace"
+   ],
+   "answer": 2,
+   "explanation": "Staunch — firm and loyal",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"firm and loyal\"?",
+   "choices": [
+    "Mundane",
+    "Edifice",
+    "Ineluctable",
+    "Staunch"
+   ],
+   "answer": 3,
+   "explanation": "Staunch — firm and loyal",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Stigmatize\" mean?",
+   "choices": [
+    "irritable and difficult to control",
+    "mark with social disgrace",
+    "firm and loyal",
+    "sudden disastrous failure"
+   ],
+   "answer": 1,
+   "explanation": "Stigmatize — mark with social disgrace",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"mark with social disgrace\"?",
+   "choices": [
+    "Stigmatize",
+    "Compound",
+    "Insight",
+    "Burly"
+   ],
+   "answer": 0,
+   "explanation": "Stigmatize — mark with social disgrace",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Succumb\" mean?",
+   "choices": [
+    "involuntarily react to pain or embarrassment",
+    "yield to superior force",
+    "consuming both plant and animal food",
+    "protected from violation"
+   ],
+   "answer": 1,
+   "explanation": "Succumb — yield to superior force",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"yield to superior force\"?",
+   "choices": [
+    "Succumb",
+    "Prioritize",
+    "Saga",
+    "Edifice"
+   ],
+   "answer": 0,
+   "explanation": "Succumb — yield to superior force",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Tantalize\" mean?",
+   "choices": [
+    "clothing or garments",
+    "struggle to understand or manage",
+    "combine into a whole",
+    "excite desire while withholding satisfaction"
+   ],
+   "answer": 3,
+   "explanation": "Tantalize — excite desire while withholding satisfaction",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"excite desire while withholding satisfaction\"?",
+   "choices": [
+    "Awesome",
+    "Nondescript",
+    "Tantalize",
+    "Martinet"
+   ],
+   "answer": 2,
+   "explanation": "Tantalize — excite desire while withholding satisfaction",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Tedious\" mean?",
+   "choices": [
+    "motivated primarily by financial gain",
+    "excite desire while withholding satisfaction",
+    "tiresomely long or repetitive",
+    "arrange in ordered formation"
+   ],
+   "answer": 2,
+   "explanation": "Tedious — tiresomely long or repetitive",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"tiresomely long or repetitive\"?",
+   "choices": [
+    "Tedious",
+    "Watershed",
+    "Prioritize",
+    "Overshadow"
+   ],
+   "answer": 0,
+   "explanation": "Tedious — tiresomely long or repetitive",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Unattainable\" mean?",
+   "choices": [
+    "incapable of being defended or maintained",
+    "noisy disturbance or fight",
+    "lacking distinctive characteristics",
+    "impossible to achieve"
+   ],
+   "answer": 3,
+   "explanation": "Unattainable — impossible to achieve",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"impossible to achieve\"?",
+   "choices": [
+    "Grapple with",
+    "Abound",
+    "Itinerant",
+    "Unattainable"
+   ],
+   "answer": 3,
+   "explanation": "Unattainable — impossible to achieve",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Uncanny\" mean?",
+   "choices": [
+    "distorted facial expression",
+    "no longer current or useful",
+    "causing or determined by death",
+    "strangely unsettling Scots/English *un- + canny*"
+   ],
+   "answer": 3,
+   "explanation": "Uncanny — strangely unsettling Scots/English *un- + canny*",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"strangely unsettling Scots/English *un- + canny*\"?",
+   "choices": [
+    "Rail",
+    "Debacle",
+    "Uncanny",
+    "Cant"
+   ],
+   "answer": 2,
+   "explanation": "Uncanny — strangely unsettling Scots/English *un- + canny*",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Unclassifiable\" mean?",
+   "choices": [
+    "arrange according to importance",
+    "unable to be placed within an established category",
+    "mark with social disgrace",
+    "departing from accepted practice"
+   ],
+   "answer": 1,
+   "explanation": "Unclassifiable — unable to be placed within an established category",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"unable to be placed within an established category\"?",
+   "choices": [
+    "Nondescript",
+    "Overshadow",
+    "Raiment",
+    "Unclassifiable"
+   ],
+   "answer": 3,
+   "explanation": "Unclassifiable — unable to be placed within an established category",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Unconventional\" mean?",
+   "choices": [
+    "person or thing regarded as insignificant",
+    "able to recover after difficulty",
+    "illness or disorder",
+    "departing from accepted practice"
+   ],
+   "answer": 3,
+   "explanation": "Unconventional — departing from accepted practice",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"departing from accepted practice\"?",
+   "choices": [
+    "Unconventional",
+    "Insight",
+    "Nefarious",
+    "Overshadow"
+   ],
+   "answer": 0,
+   "explanation": "Unconventional — departing from accepted practice",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Underscore\" mean?",
+   "choices": [
+    "not attracting unnecessary attention",
+    "overwhelm with a great quantity",
+    "emphasize",
+    "difficult to grasp or obtain"
+   ],
+   "answer": 2,
+   "explanation": "Underscore — emphasize",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"emphasize\"?",
+   "choices": [
+    "Underscore",
+    "Multifaceted",
+    "Fatal",
+    "Omnivorous"
+   ],
+   "answer": 0,
+   "explanation": "Underscore — emphasize",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Unobtrusive\" mean?",
+   "choices": [
+    "furiously angry",
+    "failing to produce the intended result",
+    "consuming both plant and animal food",
+    "not attracting unnecessary attention"
+   ],
+   "answer": 3,
+   "explanation": "Unobtrusive — not attracting unnecessary attention",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"not attracting unnecessary attention\"?",
+   "choices": [
+    "Unobtrusive",
+    "Amicable",
+    "Candor",
+    "Awesome"
+   ],
+   "answer": 0,
+   "explanation": "Unobtrusive — not attracting unnecessary attention",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Unresolvable\" mean?",
+   "choices": [
+    "grew or expanded rapidly",
+    "incapable of being satisfactorily solved",
+    "able to recover after difficulty",
+    "miscellaneous mixture"
+   ],
+   "answer": 1,
+   "explanation": "Unresolvable — incapable of being satisfactorily solved",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"incapable of being satisfactorily solved\"?",
+   "choices": [
+    "Unresolvable",
+    "Clique",
+    "Inviolable",
+    "Amicable"
+   ],
+   "answer": 0,
+   "explanation": "Unresolvable — incapable of being satisfactorily solved",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Untenable\" mean?",
+   "choices": [
+    "impossible to achieve",
+    "incapable of being defended or maintained",
+    "traveling from place to place",
+    "incapable of being satisfactorily solved"
+   ],
+   "answer": 1,
+   "explanation": "Untenable — incapable of being defended or maintained",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"incapable of being defended or maintained\"?",
+   "choices": [
+    "Watershed",
+    "Disciple",
+    "Untenable",
+    "Whimsical"
+   ],
+   "answer": 2,
+   "explanation": "Untenable — incapable of being defended or maintained",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Validate\" mean?",
+   "choices": [
+    "resent another's possession or advantage",
+    "establish as sound or acceptable",
+    "examine closely",
+    "no longer current or useful"
+   ],
+   "answer": 1,
+   "explanation": "Validate — establish as sound or acceptable",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"establish as sound or acceptable\"?",
+   "choices": [
+    "Resurgence",
+    "Insight",
+    "Ineluctable",
+    "Validate"
+   ],
+   "answer": 3,
+   "explanation": "Validate — establish as sound or acceptable",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Watershed\" mean?",
+   "choices": [
+    "burden beyond normal capacity",
+    "impossible to achieve",
+    "causing or determined by death",
+    "decisive dividing point"
+   ],
+   "answer": 3,
+   "explanation": "Watershed — decisive dividing point",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"decisive dividing point\"?",
+   "choices": [
+    "Frail",
+    "Edifice",
+    "Watershed",
+    "Insight"
+   ],
+   "answer": 2,
+   "explanation": "Watershed — decisive dividing point",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Whimsical\" mean?",
+   "choices": [
+    "establish as sound or acceptable",
+    "playfully unusual or fanciful",
+    "involuntarily react to pain or embarrassment",
+    "official pardon"
+   ],
+   "answer": 1,
+   "explanation": "Whimsical — playfully unusual or fanciful",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"playfully unusual or fanciful\"?",
+   "choices": [
+    "Nondescript",
+    "Discern",
+    "Nonentity",
+    "Whimsical"
+   ],
+   "answer": 3,
+   "explanation": "Whimsical — playfully unusual or fanciful",
+   "source": "19th-Century"
+  },
+  {
+   "question": "What does \"Wince\" mean?",
+   "choices": [
+    "sudden disastrous failure",
+    "involuntarily react to pain or embarrassment",
+    "person or thing regarded as insignificant",
+    "clothing or garments"
+   ],
+   "answer": 1,
+   "explanation": "Wince — involuntarily react to pain or embarrassment",
+   "source": "19th-Century"
+  },
+  {
+   "question": "Which word means \"involuntarily react to pain or embarrassment\"?",
+   "choices": [
+    "Omnivorous",
+    "Obliging",
+    "Overshadow",
+    "Wince"
+   ],
+   "answer": 3,
+   "explanation": "Wince — involuntarily react to pain or embarrassment",
+   "source": "19th-Century"
+  }
+ ]
+}

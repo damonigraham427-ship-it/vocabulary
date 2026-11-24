@@ -1,0 +1,1300 @@
+{
+ "questions": [
+  {
+   "question": "What does \"Acrimonious\" mean?",
+   "choices": [
+    "allowing no refusal or debate",
+    "reduce anger or severity",
+    "bitter and hostile in manner or speech",
+    "gradually harmful while appearing harmless"
+   ],
+   "answer": 2,
+   "explanation": "Acrimonious — bitter and hostile in manner or speech",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"bitter and hostile in manner or speech\"?",
+   "choices": [
+    "Adherent",
+    "Acrimonious",
+    "Emaciated",
+    "Mollify"
+   ],
+   "answer": 1,
+   "explanation": "Acrimonious — bitter and hostile in manner or speech",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Adherent\" mean?",
+   "choices": [
+    "imposed as a duty or obligation",
+    "person attached to a cause or leader",
+    "gradually harmful while appearing harmless",
+    "state or process of active transformation"
+   ],
+   "answer": 1,
+   "explanation": "Adherent — person attached to a cause or leader",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"person attached to a cause or leader\"?",
+   "choices": [
+    "Expedite",
+    "Incumbent",
+    "Sedate",
+    "Adherent"
+   ],
+   "answer": 3,
+   "explanation": "Adherent — person attached to a cause or leader",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Adversary\" mean?",
+   "choices": [
+    "excessively ingratiating or insincerely flattering",
+    "twist out of natural shape",
+    "opponent or enemy",
+    "state or process of active transformation"
+   ],
+   "answer": 2,
+   "explanation": "Adversary — opponent or enemy",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"opponent or enemy\"?",
+   "choices": [
+    "Fervid",
+    "Anomaly",
+    "Mortify",
+    "Adversary"
+   ],
+   "answer": 3,
+   "explanation": "Adversary — opponent or enemy",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Anomaly\" mean?",
+   "choices": [
+    "deviation from an expected pattern",
+    "characteristic of rural or unsophisticated life",
+    "intoxicated by alcohol",
+    "move upward; rise"
+   ],
+   "answer": 0,
+   "explanation": "Anomaly — deviation from an expected pattern",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"deviation from an expected pattern\"?",
+   "choices": [
+    "Munificent",
+    "Strident",
+    "Anomaly",
+    "Dissent"
+   ],
+   "answer": 2,
+   "explanation": "Anomaly — deviation from an expected pattern",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Ascend\" mean?",
+   "choices": [
+    "deviation from an expected pattern",
+    "move upward; rise",
+    "excessively ingratiating or insincerely flattering",
+    "developed unusually early"
+   ],
+   "answer": 1,
+   "explanation": "Ascend — move upward; rise",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"move upward; rise\"?",
+   "choices": [
+    "Adherent",
+    "Ascend",
+    "Malign",
+    "Celerity"
+   ],
+   "answer": 1,
+   "explanation": "Ascend — move upward; rise",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Avid\" mean?",
+   "choices": [
+    "arousing pity",
+    "intensely eager or desirous",
+    "strive to equal or surpass",
+    "disagree with established opinion or authority"
+   ],
+   "answer": 1,
+   "explanation": "Avid — intensely eager or desirous",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"intensely eager or desirous\"?",
+   "choices": [
+    "Avid",
+    "Inebriated",
+    "Munificent",
+    "Decapitate"
+   ],
+   "answer": 0,
+   "explanation": "Avid — intensely eager or desirous",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Bigot\" mean?",
+   "choices": [
+    "disagree with established opinion or authority",
+    "expressing triumphant joy",
+    "person obstinately intolerant of differing people or beliefs",
+    "obtaining something through coercion or threats"
+   ],
+   "answer": 2,
+   "explanation": "Bigot — person obstinately intolerant of differing people or beliefs",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"person obstinately intolerant of differing people or beliefs\"?",
+   "choices": [
+    "Bigot",
+    "Extortion",
+    "Fervid",
+    "Celerity"
+   ],
+   "answer": 0,
+   "explanation": "Bigot — person obstinately intolerant of differing people or beliefs",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Celerity\" mean?",
+   "choices": [
+    "remove the head",
+    "exercising careful practical judgment",
+    "resolutely fearless",
+    "swiftness of action"
+   ],
+   "answer": 3,
+   "explanation": "Celerity — swiftness of action",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"swiftness of action\"?",
+   "choices": [
+    "Jubilant",
+    "Precocious",
+    "Intimidate",
+    "Celerity"
+   ],
+   "answer": 3,
+   "explanation": "Celerity — swiftness of action",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Contort\" mean?",
+   "choices": [
+    "twist out of natural shape",
+    "calm and composed",
+    "sweet or pleasing in sound",
+    "mutually destructive"
+   ],
+   "answer": 0,
+   "explanation": "Contort — twist out of natural shape",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"twist out of natural shape\"?",
+   "choices": [
+    "Rustic",
+    "Contort",
+    "Acrimonious",
+    "Dulcet"
+   ],
+   "answer": 1,
+   "explanation": "Contort — twist out of natural shape",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Decapitate\" mean?",
+   "choices": [
+    "immediately; without delay",
+    "resolutely fearless",
+    "gradually harmful while appearing harmless",
+    "remove the head"
+   ],
+   "answer": 3,
+   "explanation": "Decapitate — remove the head",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"remove the head\"?",
+   "choices": [
+    "Decapitate",
+    "Precocious",
+    "Peremptory",
+    "Ferment"
+   ],
+   "answer": 0,
+   "explanation": "Decapitate — remove the head",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Deprecate\" mean?",
+   "choices": [
+    "abnormally thin or wasted",
+    "express disapproval of",
+    "intensely passionate",
+    "praise very highly"
+   ],
+   "answer": 1,
+   "explanation": "Deprecate — express disapproval of",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"express disapproval of\"?",
+   "choices": [
+    "Vestige",
+    "Malign",
+    "Perfunctory",
+    "Deprecate"
+   ],
+   "answer": 3,
+   "explanation": "Deprecate — express disapproval of",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Deride\" mean?",
+   "choices": [
+    "reduce anger or severity",
+    "extremely deep or intellectually significant",
+    "intensely passionate",
+    "mock contemptuously"
+   ],
+   "answer": 3,
+   "explanation": "Deride — mock contemptuously",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"mock contemptuously\"?",
+   "choices": [
+    "Rustic",
+    "Strident",
+    "Vestige",
+    "Deride"
+   ],
+   "answer": 3,
+   "explanation": "Deride — mock contemptuously",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Dissent\" mean?",
+   "choices": [
+    "disagree with established opinion or authority",
+    "achieved too easily or superficially",
+    "calm and composed",
+    "surviving trace of something lost"
+   ],
+   "answer": 0,
+   "explanation": "Dissent — disagree with established opinion or authority",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"disagree with established opinion or authority\"?",
+   "choices": [
+    "Dissent",
+    "Surfeit",
+    "Intimidate",
+    "Internecine"
+   ],
+   "answer": 0,
+   "explanation": "Dissent — disagree with established opinion or authority",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Dulcet\" mean?",
+   "choices": [
+    "excessively ingratiating or insincerely flattering",
+    "arousing pity",
+    "person obstinately intolerant of differing people or beliefs",
+    "sweet or pleasing in sound"
+   ],
+   "answer": 3,
+   "explanation": "Dulcet — sweet or pleasing in sound",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"sweet or pleasing in sound\"?",
+   "choices": [
+    "Jocose",
+    "Avid",
+    "Fatuous",
+    "Dulcet"
+   ],
+   "answer": 3,
+   "explanation": "Dulcet — sweet or pleasing in sound",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Emaciated\" mean?",
+   "choices": [
+    "characteristic of rural or unsophisticated life",
+    "gradually harmful while appearing harmless",
+    "excessive amount or overconsumption",
+    "abnormally thin or wasted"
+   ],
+   "answer": 3,
+   "explanation": "Emaciated — abnormally thin or wasted",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"abnormally thin or wasted\"?",
+   "choices": [
+    "Mollify",
+    "Excruciating",
+    "Emaciated",
+    "Oust"
+   ],
+   "answer": 2,
+   "explanation": "Emaciated — abnormally thin or wasted",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Emulate\" mean?",
+   "choices": [
+    "mutually destructive",
+    "strive to equal or surpass",
+    "exercising careful practical judgment",
+    "opponent or enemy"
+   ],
+   "answer": 1,
+   "explanation": "Emulate — strive to equal or surpass",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"strive to equal or surpass\"?",
+   "choices": [
+    "Celerity",
+    "Emulate",
+    "Mortify",
+    "Precocious"
+   ],
+   "answer": 1,
+   "explanation": "Emulate — strive to equal or surpass",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Excoriate\" mean?",
+   "choices": [
+    "remove the head",
+    "allowing no refusal or debate",
+    "arousing pity",
+    "strip the surface; later criticize severely"
+   ],
+   "answer": 3,
+   "explanation": "Excoriate — strip the surface; later criticize severely",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"strip the surface; later criticize severely\"?",
+   "choices": [
+    "Expedite",
+    "Dulcet",
+    "Extortion",
+    "Excoriate"
+   ],
+   "answer": 3,
+   "explanation": "Excoriate — strip the surface; later criticize severely",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Excruciating\" mean?",
+   "choices": [
+    "express disapproval of",
+    "person obstinately intolerant of differing people or beliefs",
+    "mock contemptuously",
+    "agonizingly painful"
+   ],
+   "answer": 3,
+   "explanation": "Excruciating — agonizingly painful",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"agonizingly painful\"?",
+   "choices": [
+    "Jocose",
+    "Internecine",
+    "Excruciating",
+    "Anomaly"
+   ],
+   "answer": 2,
+   "explanation": "Excruciating — agonizingly painful",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Expedite\" mean?",
+   "choices": [
+    "health-promoting",
+    "person obstinately intolerant of differing people or beliefs",
+    "remove the head",
+    "cause to proceed more quickly"
+   ],
+   "answer": 3,
+   "explanation": "Expedite — cause to proceed more quickly",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"cause to proceed more quickly\"?",
+   "choices": [
+    "Adversary",
+    "Expedite",
+    "Fatuous",
+    "Contort"
+   ],
+   "answer": 1,
+   "explanation": "Expedite — cause to proceed more quickly",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Extol\" mean?",
+   "choices": [
+    "swiftness of action",
+    "calm and composed",
+    "praise very highly",
+    "opponent or enemy"
+   ],
+   "answer": 2,
+   "explanation": "Extol — praise very highly",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"praise very highly\"?",
+   "choices": [
+    "Celerity",
+    "Extol",
+    "Insidious",
+    "Excoriate"
+   ],
+   "answer": 1,
+   "explanation": "Extol — praise very highly",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Extortion\" mean?",
+   "choices": [
+    "cause to proceed more quickly",
+    "obtaining something through coercion or threats",
+    "characteristic of rural or unsophisticated life",
+    "person obstinately intolerant of differing people or beliefs"
+   ],
+   "answer": 1,
+   "explanation": "Extortion — obtaining something through coercion or threats",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"obtaining something through coercion or threats\"?",
+   "choices": [
+    "Mortify",
+    "Extortion",
+    "Profound",
+    "Decapitate"
+   ],
+   "answer": 1,
+   "explanation": "Extortion — obtaining something through coercion or threats",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Facile\" mean?",
+   "choices": [
+    "frighten into submission or altered conduct",
+    "calm and composed",
+    "achieved too easily or superficially",
+    "swiftness of action"
+   ],
+   "answer": 2,
+   "explanation": "Facile — achieved too easily or superficially",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"achieved too easily or superficially\"?",
+   "choices": [
+    "Excoriate",
+    "Facile",
+    "Mollify",
+    "Dissent"
+   ],
+   "answer": 1,
+   "explanation": "Facile — achieved too easily or superficially",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Fatuous\" mean?",
+   "choices": [
+    "extremely deep or intellectually significant",
+    "excessively ingratiating or insincerely flattering",
+    "foolishly lacking sound judgment",
+    "bitter and hostile in manner or speech"
+   ],
+   "answer": 2,
+   "explanation": "Fatuous — foolishly lacking sound judgment",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"foolishly lacking sound judgment\"?",
+   "choices": [
+    "Extortion",
+    "Unctuous",
+    "Surfeit",
+    "Fatuous"
+   ],
+   "answer": 3,
+   "explanation": "Fatuous — foolishly lacking sound judgment",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Ferment\" mean?",
+   "choices": [
+    "state or process of active transformation",
+    "intensely passionate",
+    "excessively ingratiating or insincerely flattering",
+    "speak damagingly about"
+   ],
+   "answer": 0,
+   "explanation": "Ferment — state or process of active transformation",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"state or process of active transformation\"?",
+   "choices": [
+    "Excruciating",
+    "Deride",
+    "Prudent",
+    "Ferment"
+   ],
+   "answer": 3,
+   "explanation": "Ferment — state or process of active transformation",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Fervid\" mean?",
+   "choices": [
+    "disagree with established opinion or authority",
+    "intensely passionate",
+    "gradually harmful while appearing harmless",
+    "mutually destructive"
+   ],
+   "answer": 1,
+   "explanation": "Fervid — intensely passionate",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"intensely passionate\"?",
+   "choices": [
+    "Avid",
+    "Fervid",
+    "Deprecate",
+    "Excoriate"
+   ],
+   "answer": 1,
+   "explanation": "Fervid — intensely passionate",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Forthwith\" mean?",
+   "choices": [
+    "allowing no refusal or debate",
+    "person obstinately intolerant of differing people or beliefs",
+    "move upward; rise",
+    "immediately; without delay"
+   ],
+   "answer": 3,
+   "explanation": "Forthwith — immediately; without delay",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"immediately; without delay\"?",
+   "choices": [
+    "Acrimonious",
+    "Intimidate",
+    "Deride",
+    "Forthwith"
+   ],
+   "answer": 3,
+   "explanation": "Forthwith — immediately; without delay",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Incumbent\" mean?",
+   "choices": [
+    "bitter and hostile in manner or speech",
+    "imposed as a duty or obligation",
+    "intensely eager or desirous",
+    "exercising careful practical judgment"
+   ],
+   "answer": 1,
+   "explanation": "Incumbent — imposed as a duty or obligation",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"imposed as a duty or obligation\"?",
+   "choices": [
+    "Incumbent",
+    "Ferment",
+    "Intrepid",
+    "Anomaly"
+   ],
+   "answer": 0,
+   "explanation": "Incumbent — imposed as a duty or obligation",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Inebriated\" mean?",
+   "choices": [
+    "excessively ingratiating or insincerely flattering",
+    "deviation from an expected pattern",
+    "intoxicated by alcohol",
+    "harshly forceful or grating"
+   ],
+   "answer": 2,
+   "explanation": "Inebriated — intoxicated by alcohol",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"intoxicated by alcohol\"?",
+   "choices": [
+    "Emulate",
+    "Inebriated",
+    "Precocious",
+    "Oust"
+   ],
+   "answer": 1,
+   "explanation": "Inebriated — intoxicated by alcohol",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Insidious\" mean?",
+   "choices": [
+    "frighten into submission or altered conduct",
+    "gradually harmful while appearing harmless",
+    "disagree with established opinion or authority",
+    "twist out of natural shape"
+   ],
+   "answer": 1,
+   "explanation": "Insidious — gradually harmful while appearing harmless",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"gradually harmful while appearing harmless\"?",
+   "choices": [
+    "Salubrious",
+    "Decapitate",
+    "Insidious",
+    "Fatuous"
+   ],
+   "answer": 2,
+   "explanation": "Insidious — gradually harmful while appearing harmless",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Internecine\" mean?",
+   "choices": [
+    "deviation from an expected pattern",
+    "mutually destructive",
+    "abnormally thin or wasted",
+    "resolutely fearless"
+   ],
+   "answer": 1,
+   "explanation": "Internecine — mutually destructive",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"mutually destructive\"?",
+   "choices": [
+    "Expedite",
+    "Internecine",
+    "Inebriated",
+    "Deride"
+   ],
+   "answer": 1,
+   "explanation": "Internecine — mutually destructive",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Intimidate\" mean?",
+   "choices": [
+    "person obstinately intolerant of differing people or beliefs",
+    "frighten into submission or altered conduct",
+    "cause to proceed more quickly",
+    "developed unusually early"
+   ],
+   "answer": 1,
+   "explanation": "Intimidate — frighten into submission or altered conduct",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"frighten into submission or altered conduct\"?",
+   "choices": [
+    "Deprecate",
+    "Intimidate",
+    "Pathetic",
+    "Prudent"
+   ],
+   "answer": 1,
+   "explanation": "Intimidate — frighten into submission or altered conduct",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Intrepid\" mean?",
+   "choices": [
+    "reproduce or spread widely",
+    "intensely passionate",
+    "resolutely fearless",
+    "disagree with established opinion or authority"
+   ],
+   "answer": 2,
+   "explanation": "Intrepid — resolutely fearless",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"resolutely fearless\"?",
+   "choices": [
+    "Intrepid",
+    "Bigot",
+    "Ascend",
+    "Precocious"
+   ],
+   "answer": 0,
+   "explanation": "Intrepid — resolutely fearless",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Jocose\" mean?",
+   "choices": [
+    "exceptionally generous",
+    "playfully humorous",
+    "foolishly lacking sound judgment",
+    "twist out of natural shape"
+   ],
+   "answer": 1,
+   "explanation": "Jocose — playfully humorous",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"playfully humorous\"?",
+   "choices": [
+    "Contort",
+    "Jocose",
+    "Bigot",
+    "Perfunctory"
+   ],
+   "answer": 1,
+   "explanation": "Jocose — playfully humorous",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Jubilant\" mean?",
+   "choices": [
+    "expressing triumphant joy",
+    "abnormally thin or wasted",
+    "excessively ingratiating or insincerely flattering",
+    "remove the head"
+   ],
+   "answer": 0,
+   "explanation": "Jubilant — expressing triumphant joy",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"expressing triumphant joy\"?",
+   "choices": [
+    "Jubilant",
+    "Unctuous",
+    "Adversary",
+    "Sedate"
+   ],
+   "answer": 0,
+   "explanation": "Jubilant — expressing triumphant joy",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Malign\" mean?",
+   "choices": [
+    "speak damagingly about",
+    "disagree with established opinion or authority",
+    "harshly forceful or grating",
+    "intensely eager or desirous"
+   ],
+   "answer": 0,
+   "explanation": "Malign — speak damagingly about",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"speak damagingly about\"?",
+   "choices": [
+    "Pathetic",
+    "Celerity",
+    "Sedate",
+    "Malign"
+   ],
+   "answer": 3,
+   "explanation": "Malign — speak damagingly about",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Mollify\" mean?",
+   "choices": [
+    "express disapproval of",
+    "frighten into submission or altered conduct",
+    "intoxicated by alcohol",
+    "reduce anger or severity"
+   ],
+   "answer": 3,
+   "explanation": "Mollify — reduce anger or severity",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"reduce anger or severity\"?",
+   "choices": [
+    "Munificent",
+    "Jubilant",
+    "Dulcet",
+    "Mollify"
+   ],
+   "answer": 3,
+   "explanation": "Mollify — reduce anger or severity",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Mortify\" mean?",
+   "choices": [
+    "of little importance",
+    "allowing no refusal or debate",
+    "humiliate or deeply embarrass",
+    "twist out of natural shape"
+   ],
+   "answer": 2,
+   "explanation": "Mortify — humiliate or deeply embarrass",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"humiliate or deeply embarrass\"?",
+   "choices": [
+    "Dissent",
+    "Mortify",
+    "Inebriated",
+    "Bigot"
+   ],
+   "answer": 1,
+   "explanation": "Mortify — humiliate or deeply embarrass",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Munificent\" mean?",
+   "choices": [
+    "cause to proceed more quickly",
+    "exceptionally generous",
+    "intoxicated by alcohol",
+    "agonizingly painful"
+   ],
+   "answer": 1,
+   "explanation": "Munificent — exceptionally generous",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"exceptionally generous\"?",
+   "choices": [
+    "Avid",
+    "Munificent",
+    "Pathetic",
+    "Perfunctory"
+   ],
+   "answer": 1,
+   "explanation": "Munificent — exceptionally generous",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Oust\" mean?",
+   "choices": [
+    "force out of a position or place",
+    "obtaining something through coercion or threats",
+    "person obstinately intolerant of differing people or beliefs",
+    "praise very highly"
+   ],
+   "answer": 0,
+   "explanation": "Oust — force out of a position or place",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"force out of a position or place\"?",
+   "choices": [
+    "Oust",
+    "Peremptory",
+    "Intimidate",
+    "Dissent"
+   ],
+   "answer": 0,
+   "explanation": "Oust — force out of a position or place",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Pathetic\" mean?",
+   "choices": [
+    "arousing pity",
+    "mutually destructive",
+    "reproduce or spread widely",
+    "performed with minimal effort or interest"
+   ],
+   "answer": 0,
+   "explanation": "Pathetic — arousing pity",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"arousing pity\"?",
+   "choices": [
+    "Unctuous",
+    "Sedate",
+    "Bigot",
+    "Pathetic"
+   ],
+   "answer": 3,
+   "explanation": "Pathetic — arousing pity",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Peremptory\" mean?",
+   "choices": [
+    "allowing no refusal or debate",
+    "of little importance",
+    "strip the surface; later criticize severely",
+    "excessively ingratiating or insincerely flattering"
+   ],
+   "answer": 0,
+   "explanation": "Peremptory — allowing no refusal or debate",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"allowing no refusal or debate\"?",
+   "choices": [
+    "Excoriate",
+    "Peremptory",
+    "Forthwith",
+    "Ferment"
+   ],
+   "answer": 1,
+   "explanation": "Peremptory — allowing no refusal or debate",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Perfunctory\" mean?",
+   "choices": [
+    "characteristic of rural or unsophisticated life",
+    "obtaining something through coercion or threats",
+    "harshly forceful or grating",
+    "performed with minimal effort or interest"
+   ],
+   "answer": 3,
+   "explanation": "Perfunctory — performed with minimal effort or interest",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"performed with minimal effort or interest\"?",
+   "choices": [
+    "Sedate",
+    "Excoriate",
+    "Perfunctory",
+    "Jocose"
+   ],
+   "answer": 2,
+   "explanation": "Perfunctory — performed with minimal effort or interest",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Precocious\" mean?",
+   "choices": [
+    "excessively ingratiating or insincerely flattering",
+    "developed unusually early",
+    "achieved too easily or superficially",
+    "reduce anger or severity"
+   ],
+   "answer": 1,
+   "explanation": "Precocious — developed unusually early",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"developed unusually early\"?",
+   "choices": [
+    "Precocious",
+    "Jubilant",
+    "Anomaly",
+    "Sedate"
+   ],
+   "answer": 0,
+   "explanation": "Precocious — developed unusually early",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Profound\" mean?",
+   "choices": [
+    "resolutely fearless",
+    "sweet or pleasing in sound",
+    "extremely deep or intellectually significant",
+    "arousing pity"
+   ],
+   "answer": 2,
+   "explanation": "Profound — extremely deep or intellectually significant",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"extremely deep or intellectually significant\"?",
+   "choices": [
+    "Fervid",
+    "Profound",
+    "Precocious",
+    "Inebriated"
+   ],
+   "answer": 1,
+   "explanation": "Profound — extremely deep or intellectually significant",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Propagate\" mean?",
+   "choices": [
+    "excessive amount or overconsumption",
+    "swiftness of action",
+    "reproduce or spread widely",
+    "surviving trace of something lost"
+   ],
+   "answer": 2,
+   "explanation": "Propagate — reproduce or spread widely",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"reproduce or spread widely\"?",
+   "choices": [
+    "Adherent",
+    "Propagate",
+    "Ferment",
+    "Fervid"
+   ],
+   "answer": 1,
+   "explanation": "Propagate — reproduce or spread widely",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Prudent\" mean?",
+   "choices": [
+    "person obstinately intolerant of differing people or beliefs",
+    "surviving trace of something lost",
+    "exercising careful practical judgment",
+    "excessive amount or overconsumption"
+   ],
+   "answer": 2,
+   "explanation": "Prudent — exercising careful practical judgment",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"exercising careful practical judgment\"?",
+   "choices": [
+    "Pathetic",
+    "Prudent",
+    "Adversary",
+    "Oust"
+   ],
+   "answer": 1,
+   "explanation": "Prudent — exercising careful practical judgment",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Rustic\" mean?",
+   "choices": [
+    "sweet or pleasing in sound",
+    "intoxicated by alcohol",
+    "characteristic of rural or unsophisticated life",
+    "cause to proceed more quickly"
+   ],
+   "answer": 2,
+   "explanation": "Rustic — characteristic of rural or unsophisticated life",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"characteristic of rural or unsophisticated life\"?",
+   "choices": [
+    "Incumbent",
+    "Adherent",
+    "Forthwith",
+    "Rustic"
+   ],
+   "answer": 3,
+   "explanation": "Rustic — characteristic of rural or unsophisticated life",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Salubrious\" mean?",
+   "choices": [
+    "cause to proceed more quickly",
+    "of little importance",
+    "health-promoting",
+    "allowing no refusal or debate"
+   ],
+   "answer": 2,
+   "explanation": "Salubrious — health-promoting",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"health-promoting\"?",
+   "choices": [
+    "Salubrious",
+    "Adherent",
+    "Deprecate",
+    "Prudent"
+   ],
+   "answer": 0,
+   "explanation": "Salubrious — health-promoting",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Sedate\" mean?",
+   "choices": [
+    "of little importance",
+    "calm and composed",
+    "opponent or enemy",
+    "characteristic of rural or unsophisticated life"
+   ],
+   "answer": 1,
+   "explanation": "Sedate — calm and composed",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"calm and composed\"?",
+   "choices": [
+    "Sedate",
+    "Deride",
+    "Extol",
+    "Vestige"
+   ],
+   "answer": 0,
+   "explanation": "Sedate — calm and composed",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Strident\" mean?",
+   "choices": [
+    "harshly forceful or grating",
+    "abnormally thin or wasted",
+    "speak damagingly about",
+    "mutually destructive"
+   ],
+   "answer": 0,
+   "explanation": "Strident — harshly forceful or grating",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"harshly forceful or grating\"?",
+   "choices": [
+    "Pathetic",
+    "Profound",
+    "Strident",
+    "Intimidate"
+   ],
+   "answer": 2,
+   "explanation": "Strident — harshly forceful or grating",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Surfeit\" mean?",
+   "choices": [
+    "exceptionally generous",
+    "foolishly lacking sound judgment",
+    "excessive amount or overconsumption",
+    "performed with minimal effort or interest"
+   ],
+   "answer": 2,
+   "explanation": "Surfeit — excessive amount or overconsumption",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"excessive amount or overconsumption\"?",
+   "choices": [
+    "Decapitate",
+    "Excoriate",
+    "Surfeit",
+    "Rustic"
+   ],
+   "answer": 2,
+   "explanation": "Surfeit — excessive amount or overconsumption",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Trivial\" mean?",
+   "choices": [
+    "remove the head",
+    "bitter and hostile in manner or speech",
+    "of little importance",
+    "intensely eager or desirous"
+   ],
+   "answer": 2,
+   "explanation": "Trivial — of little importance",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"of little importance\"?",
+   "choices": [
+    "Intimidate",
+    "Strident",
+    "Avid",
+    "Trivial"
+   ],
+   "answer": 3,
+   "explanation": "Trivial — of little importance",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Unctuous\" mean?",
+   "choices": [
+    "cause to proceed more quickly",
+    "characteristic of rural or unsophisticated life",
+    "developed unusually early",
+    "excessively ingratiating or insincerely flattering"
+   ],
+   "answer": 3,
+   "explanation": "Unctuous — excessively ingratiating or insincerely flattering",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"excessively ingratiating or insincerely flattering\"?",
+   "choices": [
+    "Intrepid",
+    "Deride",
+    "Expedite",
+    "Unctuous"
+   ],
+   "answer": 3,
+   "explanation": "Unctuous — excessively ingratiating or insincerely flattering",
+   "source": "17th-Century"
+  },
+  {
+   "question": "What does \"Vestige\" mean?",
+   "choices": [
+    "state or process of active transformation",
+    "reproduce or spread widely",
+    "surviving trace of something lost",
+    "resolutely fearless"
+   ],
+   "answer": 2,
+   "explanation": "Vestige — surviving trace of something lost",
+   "source": "17th-Century"
+  },
+  {
+   "question": "Which word means \"surviving trace of something lost\"?",
+   "choices": [
+    "Bigot",
+    "Fervid",
+    "Oust",
+    "Vestige"
+   ],
+   "answer": 3,
+   "explanation": "Vestige — surviving trace of something lost",
+   "source": "17th-Century"
+  }
+ ]
+}

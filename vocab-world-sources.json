@@ -1,0 +1,652 @@
+{
+ "questions": [
+  {
+   "question": "What does \"Activism\" mean?",
+   "choices": [
+    "nurture or encourage development",
+    "organizer or manager of performances",
+    "lowest point",
+    "organized action for social or political change"
+   ],
+   "answer": 3,
+   "explanation": "Activism — organized action for social or political change",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"organized action for social or political change\"?",
+   "choices": [
+    "Allay",
+    "Activism",
+    "Indiscriminate",
+    "Balk"
+   ],
+   "answer": 1,
+   "explanation": "Activism — organized action for social or political change",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Allay\" mean?",
+   "choices": [
+    "assume financial responsibility",
+    "repulsive or hateful",
+    "reduce fear or intensity",
+    "lowest point"
+   ],
+   "answer": 2,
+   "explanation": "Allay — reduce fear or intensity",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"reduce fear or intensity\"?",
+   "choices": [
+    "Allay",
+    "Hinder",
+    "Slovenly",
+    "Spew"
+   ],
+   "answer": 0,
+   "explanation": "Allay — reduce fear or intensity",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Balk\" mean?",
+   "choices": [
+    "highest point",
+    "assume financial responsibility",
+    "eject forcefully",
+    "hesitate or refuse to proceed"
+   ],
+   "answer": 3,
+   "explanation": "Balk — hesitate or refuse to proceed",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"hesitate or refuse to proceed\"?",
+   "choices": [
+    "Machiavellian",
+    "Balk",
+    "Underwrite",
+    "Nepotism"
+   ],
+   "answer": 1,
+   "explanation": "Balk — hesitate or refuse to proceed",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Blatant\" mean?",
+   "choices": [
+    "prevailing direction or tendency",
+    "offensively obvious",
+    "organized action for social or political change",
+    "amateur enthusiast in an art or field"
+   ],
+   "answer": 1,
+   "explanation": "Blatant — offensively obvious",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"offensively obvious\"?",
+   "choices": [
+    "Nepotism",
+    "Blatant",
+    "Dilettante",
+    "Trend"
+   ],
+   "answer": 1,
+   "explanation": "Blatant — offensively obvious",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Charlatan\" mean?",
+   "choices": [
+    "highest point",
+    "organizer or manager of performances",
+    "fraudulent pretender to expertise",
+    "complete humiliating failure"
+   ],
+   "answer": 2,
+   "explanation": "Charlatan — fraudulent pretender to expertise",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"fraudulent pretender to expertise\"?",
+   "choices": [
+    "Charlatan",
+    "Fiasco",
+    "Nirvana",
+    "Hinder"
+   ],
+   "answer": 0,
+   "explanation": "Charlatan — fraudulent pretender to expertise",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Dilettante\" mean?",
+   "choices": [
+    "favoritism toward relatives",
+    "habitually untidy or careless",
+    "poorly adapted to circumstances",
+    "amateur enthusiast in an art or field"
+   ],
+   "answer": 3,
+   "explanation": "Dilettante — amateur enthusiast in an art or field",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"amateur enthusiast in an art or field\"?",
+   "choices": [
+    "Squeamish",
+    "Foster",
+    "Allay",
+    "Dilettante"
+   ],
+   "answer": 3,
+   "explanation": "Dilettante — amateur enthusiast in an art or field",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Doleful\" mean?",
+   "choices": [
+    "hesitate or refuse to proceed",
+    "sorrowful",
+    "amateur enthusiast in an art or field",
+    "failing to distinguish carefully"
+   ],
+   "answer": 1,
+   "explanation": "Doleful — sorrowful",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"sorrowful\"?",
+   "choices": [
+    "Doleful",
+    "Fiasco",
+    "Gusto",
+    "Loathly"
+   ],
+   "answer": 0,
+   "explanation": "Doleful — sorrowful",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Fiasco\" mean?",
+   "choices": [
+    "obstruct progress",
+    "amateur enthusiast in an art or field",
+    "cunningly manipulative in pursuit of power",
+    "complete humiliating failure"
+   ],
+   "answer": 3,
+   "explanation": "Fiasco — complete humiliating failure",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"complete humiliating failure\"?",
+   "choices": [
+    "Fiasco",
+    "Nirvana",
+    "Impresario",
+    "Loathly"
+   ],
+   "answer": 0,
+   "explanation": "Fiasco — complete humiliating failure",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Foster\" mean?",
+   "choices": [
+    "habitually untidy or careless",
+    "amateur enthusiast in an art or field",
+    "assume financial responsibility",
+    "nurture or encourage development"
+   ],
+   "answer": 3,
+   "explanation": "Foster — nurture or encourage development",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"nurture or encourage development\"?",
+   "choices": [
+    "Hinder",
+    "Blatant",
+    "Zenith",
+    "Foster"
+   ],
+   "answer": 3,
+   "explanation": "Foster — nurture or encourage development",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Gusto\" mean?",
+   "choices": [
+    "liberation from suffering and rebirth",
+    "obstruct progress",
+    "vigorous enjoyment or distinctive enthusiasm",
+    "lowest point"
+   ],
+   "answer": 2,
+   "explanation": "Gusto — vigorous enjoyment or distinctive enthusiasm",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"vigorous enjoyment or distinctive enthusiasm\"?",
+   "choices": [
+    "Gusto",
+    "Slovenly",
+    "Dilettante",
+    "Zenith"
+   ],
+   "answer": 0,
+   "explanation": "Gusto — vigorous enjoyment or distinctive enthusiasm",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Hinder\" mean?",
+   "choices": [
+    "obstruct progress",
+    "habitually untidy or careless",
+    "nurture or encourage development",
+    "identifying word, custom, or belief distinguishing a group"
+   ],
+   "answer": 0,
+   "explanation": "Hinder — obstruct progress",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"obstruct progress\"?",
+   "choices": [
+    "Zenith",
+    "Spew",
+    "Blatant",
+    "Hinder"
+   ],
+   "answer": 3,
+   "explanation": "Hinder — obstruct progress",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Impresario\" mean?",
+   "choices": [
+    "offensively obvious",
+    "organizer or manager of performances",
+    "lowest point",
+    "fraudulent pretender to expertise"
+   ],
+   "answer": 1,
+   "explanation": "Impresario — organizer or manager of performances",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"organizer or manager of performances\"?",
+   "choices": [
+    "Underwrite",
+    "Maladjusted",
+    "Impresario",
+    "Nepotism"
+   ],
+   "answer": 2,
+   "explanation": "Impresario — organizer or manager of performances",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Indiscriminate\" mean?",
+   "choices": [
+    "amateur enthusiast in an art or field",
+    "favoritism toward relatives",
+    "identifying word, custom, or belief distinguishing a group",
+    "failing to distinguish carefully"
+   ],
+   "answer": 3,
+   "explanation": "Indiscriminate — failing to distinguish carefully",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"failing to distinguish carefully\"?",
+   "choices": [
+    "Doleful",
+    "Indiscriminate",
+    "Allay",
+    "Machiavellian"
+   ],
+   "answer": 1,
+   "explanation": "Indiscriminate — failing to distinguish carefully",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Loathly\" mean?",
+   "choices": [
+    "sorrowful",
+    "lowest point",
+    "repulsive or hateful",
+    "obstruct progress"
+   ],
+   "answer": 2,
+   "explanation": "Loathly — repulsive or hateful",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"repulsive or hateful\"?",
+   "choices": [
+    "Zenith",
+    "Gusto",
+    "Impresario",
+    "Loathly"
+   ],
+   "answer": 3,
+   "explanation": "Loathly — repulsive or hateful",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Machiavellian\" mean?",
+   "choices": [
+    "complete humiliating failure",
+    "eject forcefully",
+    "obstruct progress",
+    "cunningly manipulative in pursuit of power"
+   ],
+   "answer": 3,
+   "explanation": "Machiavellian — cunningly manipulative in pursuit of power",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"cunningly manipulative in pursuit of power\"?",
+   "choices": [
+    "Underwrite",
+    "Squeamish",
+    "Spew",
+    "Machiavellian"
+   ],
+   "answer": 3,
+   "explanation": "Machiavellian — cunningly manipulative in pursuit of power",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Maladjusted\" mean?",
+   "choices": [
+    "amateur enthusiast in an art or field",
+    "highest point",
+    "organizer or manager of performances",
+    "poorly adapted to circumstances"
+   ],
+   "answer": 3,
+   "explanation": "Maladjusted — poorly adapted to circumstances",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"poorly adapted to circumstances\"?",
+   "choices": [
+    "Maladjusted",
+    "Trend",
+    "Indiscriminate",
+    "Machiavellian"
+   ],
+   "answer": 0,
+   "explanation": "Maladjusted — poorly adapted to circumstances",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Nadir\" mean?",
+   "choices": [
+    "lowest point",
+    "organizer or manager of performances",
+    "highest point",
+    "obstruct progress"
+   ],
+   "answer": 0,
+   "explanation": "Nadir — lowest point",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"lowest point\"?",
+   "choices": [
+    "Nadir",
+    "Doleful",
+    "Activism",
+    "Shibboleth"
+   ],
+   "answer": 0,
+   "explanation": "Nadir — lowest point",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Nepotism\" mean?",
+   "choices": [
+    "favoritism toward relatives",
+    "offensively obvious",
+    "complete humiliating failure",
+    "repulsive or hateful"
+   ],
+   "answer": 0,
+   "explanation": "Nepotism — favoritism toward relatives",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"favoritism toward relatives\"?",
+   "choices": [
+    "Nepotism",
+    "Riff",
+    "Nadir",
+    "Loathly"
+   ],
+   "answer": 0,
+   "explanation": "Nepotism — favoritism toward relatives",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Nirvana\" mean?",
+   "choices": [
+    "liberation from suffering and rebirth",
+    "vigorous enjoyment or distinctive enthusiasm",
+    "fraudulent pretender to expertise",
+    "sorrowful"
+   ],
+   "answer": 0,
+   "explanation": "Nirvana — liberation from suffering and rebirth",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"liberation from suffering and rebirth\"?",
+   "choices": [
+    "Nepotism",
+    "Riff",
+    "Allay",
+    "Nirvana"
+   ],
+   "answer": 3,
+   "explanation": "Nirvana — liberation from suffering and rebirth",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Riff\" mean?",
+   "choices": [
+    "highest point",
+    "short musical figure or improvised variation",
+    "habitually untidy or careless",
+    "amateur enthusiast in an art or field"
+   ],
+   "answer": 1,
+   "explanation": "Riff — short musical figure or improvised variation",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"short musical figure or improvised variation\"?",
+   "choices": [
+    "Riff",
+    "Blatant",
+    "Fiasco",
+    "Dilettante"
+   ],
+   "answer": 0,
+   "explanation": "Riff — short musical figure or improvised variation",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Shibboleth\" mean?",
+   "choices": [
+    "identifying word, custom, or belief distinguishing a group",
+    "nurture or encourage development",
+    "habitually untidy or careless",
+    "lowest point"
+   ],
+   "answer": 0,
+   "explanation": "Shibboleth — identifying word, custom, or belief distinguishing a group",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"identifying word, custom, or belief distinguishing a group\"?",
+   "choices": [
+    "Shibboleth",
+    "Riff",
+    "Doleful",
+    "Nirvana"
+   ],
+   "answer": 0,
+   "explanation": "Shibboleth — identifying word, custom, or belief distinguishing a group",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Slovenly\" mean?",
+   "choices": [
+    "habitually untidy or careless",
+    "vigorous enjoyment or distinctive enthusiasm",
+    "assume financial responsibility",
+    "liberation from suffering and rebirth"
+   ],
+   "answer": 0,
+   "explanation": "Slovenly — habitually untidy or careless",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"habitually untidy or careless\"?",
+   "choices": [
+    "Nirvana",
+    "Loathly",
+    "Underwrite",
+    "Slovenly"
+   ],
+   "answer": 3,
+   "explanation": "Slovenly — habitually untidy or careless",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Spew\" mean?",
+   "choices": [
+    "eject forcefully",
+    "assume financial responsibility",
+    "prevailing direction or tendency",
+    "failing to distinguish carefully"
+   ],
+   "answer": 0,
+   "explanation": "Spew — eject forcefully",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"eject forcefully\"?",
+   "choices": [
+    "Spew",
+    "Balk",
+    "Riff",
+    "Allay"
+   ],
+   "answer": 0,
+   "explanation": "Spew — eject forcefully",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Squeamish\" mean?",
+   "choices": [
+    "complete humiliating failure",
+    "eject forcefully",
+    "identifying word, custom, or belief distinguishing a group",
+    "easily disgusted or disturbed"
+   ],
+   "answer": 3,
+   "explanation": "Squeamish — easily disgusted or disturbed",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"easily disgusted or disturbed\"?",
+   "choices": [
+    "Allay",
+    "Spew",
+    "Balk",
+    "Squeamish"
+   ],
+   "answer": 3,
+   "explanation": "Squeamish — easily disgusted or disturbed",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Trend\" mean?",
+   "choices": [
+    "prevailing direction or tendency",
+    "vigorous enjoyment or distinctive enthusiasm",
+    "fraudulent pretender to expertise",
+    "identifying word, custom, or belief distinguishing a group"
+   ],
+   "answer": 0,
+   "explanation": "Trend — prevailing direction or tendency",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"prevailing direction or tendency\"?",
+   "choices": [
+    "Trend",
+    "Maladjusted",
+    "Hinder",
+    "Fiasco"
+   ],
+   "answer": 0,
+   "explanation": "Trend — prevailing direction or tendency",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Underwrite\" mean?",
+   "choices": [
+    "vigorous enjoyment or distinctive enthusiasm",
+    "lowest point",
+    "sorrowful",
+    "assume financial responsibility"
+   ],
+   "answer": 3,
+   "explanation": "Underwrite — assume financial responsibility",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"assume financial responsibility\"?",
+   "choices": [
+    "Slovenly",
+    "Machiavellian",
+    "Underwrite",
+    "Allay"
+   ],
+   "answer": 2,
+   "explanation": "Underwrite — assume financial responsibility",
+   "source": "World Sources"
+  },
+  {
+   "question": "What does \"Zenith\" mean?",
+   "choices": [
+    "poorly adapted to circumstances",
+    "highest point",
+    "vigorous enjoyment or distinctive enthusiasm",
+    "fraudulent pretender to expertise"
+   ],
+   "answer": 1,
+   "explanation": "Zenith — highest point",
+   "source": "World Sources"
+  },
+  {
+   "question": "Which word means \"highest point\"?",
+   "choices": [
+    "Balk",
+    "Zenith",
+    "Blatant",
+    "Machiavellian"
+   ],
+   "answer": 1,
+   "explanation": "Zenith — highest point",
+   "source": "World Sources"
+  }
+ ]
+}

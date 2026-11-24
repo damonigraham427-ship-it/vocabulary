@@ -1,0 +1,556 @@
+{
+ "questions": [
+  {
+   "question": "What does \"Acclaim\" mean?",
+   "choices": [
+    "praise publicly",
+    "deeply thoughtful",
+    "inexperienced beginner",
+    "dull through overfamiliarity"
+   ],
+   "answer": 0,
+   "explanation": "Acclaim — praise publicly",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"praise publicly\"?",
+   "choices": [
+    "Acclaim",
+    "Spontaneous",
+    "Deplete",
+    "Surge"
+   ],
+   "answer": 0,
+   "explanation": "Acclaim — praise publicly",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Artifact\" mean?",
+   "choices": [
+    "manufacture or construct; also invent falsely",
+    "wild disorder",
+    "object produced by human activity",
+    "deeply thoughtful"
+   ],
+   "answer": 2,
+   "explanation": "Artifact — object produced by human activity",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"object produced by human activity\"?",
+   "choices": [
+    "Spontaneous",
+    "Artifact",
+    "Promulgate",
+    "Egotist"
+   ],
+   "answer": 1,
+   "explanation": "Artifact — object produced by human activity",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Aspirant\" mean?",
+   "choices": [
+    "arising without external prompting",
+    "person seeking advancement",
+    "object produced by human activity",
+    "inexperienced beginner"
+   ],
+   "answer": 1,
+   "explanation": "Aspirant — person seeking advancement",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"person seeking advancement\"?",
+   "choices": [
+    "Pedagogue",
+    "Pensive",
+    "Inhibition",
+    "Aspirant"
+   ],
+   "answer": 3,
+   "explanation": "Aspirant — person seeking advancement",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Banal\" mean?",
+   "choices": [
+    "greatly reduce a supply",
+    "arising without external prompting",
+    "dull through overfamiliarity",
+    "scattered remains"
+   ],
+   "answer": 2,
+   "explanation": "Banal — dull through overfamiliarity",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"dull through overfamiliarity\"?",
+   "choices": [
+    "Engrossed",
+    "Tyro",
+    "Escalation",
+    "Banal"
+   ],
+   "answer": 3,
+   "explanation": "Banal — dull through overfamiliarity",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Debris\" mean?",
+   "choices": [
+    "deeply thoughtful",
+    "scattered remains",
+    "arising without external prompting",
+    "person seeking advancement"
+   ],
+   "answer": 1,
+   "explanation": "Debris — scattered remains",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"scattered remains\"?",
+   "choices": [
+    "Pensive",
+    "Artifact",
+    "Reputed",
+    "Debris"
+   ],
+   "answer": 3,
+   "explanation": "Debris — scattered remains",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Deplete\" mean?",
+   "choices": [
+    "praise publicly",
+    "replace by taking a position",
+    "greatly reduce a supply",
+    "excessively self-centered person"
+   ],
+   "answer": 2,
+   "explanation": "Deplete — greatly reduce a supply",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"greatly reduce a supply\"?",
+   "choices": [
+    "Reputed",
+    "Artifact",
+    "Pensive",
+    "Deplete"
+   ],
+   "answer": 3,
+   "explanation": "Deplete — greatly reduce a supply",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Destitution\" mean?",
+   "choices": [
+    "officially make widely known",
+    "teacher or educational theorist",
+    "extreme material deprivation",
+    "internal restraint on action"
+   ],
+   "answer": 2,
+   "explanation": "Destitution — extreme material deprivation",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"extreme material deprivation\"?",
+   "choices": [
+    "Destitution",
+    "Artifact",
+    "Escalation",
+    "Engrossed"
+   ],
+   "answer": 0,
+   "explanation": "Destitution — extreme material deprivation",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Detriment\" mean?",
+   "choices": [
+    "praise publicly",
+    "excessively self-centered person",
+    "inexperienced beginner",
+    "damage or disadvantage"
+   ],
+   "answer": 3,
+   "explanation": "Detriment — damage or disadvantage",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"damage or disadvantage\"?",
+   "choices": [
+    "Supplant",
+    "Escalation",
+    "Detriment",
+    "Egotist"
+   ],
+   "answer": 2,
+   "explanation": "Detriment — damage or disadvantage",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Distraught\" mean?",
+   "choices": [
+    "generally believed or regarded",
+    "deeply distressed",
+    "replace by taking a position",
+    "manufacture or construct; also invent falsely"
+   ],
+   "answer": 1,
+   "explanation": "Distraught — deeply distressed",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"deeply distressed\"?",
+   "choices": [
+    "Escalation",
+    "Detriment",
+    "Fabricate",
+    "Distraught"
+   ],
+   "answer": 3,
+   "explanation": "Distraught — deeply distressed",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Egotist\" mean?",
+   "choices": [
+    "excessively self-centered person",
+    "replace by taking a position",
+    "inexperienced beginner",
+    "manufacture or construct; also invent falsely"
+   ],
+   "answer": 0,
+   "explanation": "Egotist — excessively self-centered person",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"excessively self-centered person\"?",
+   "choices": [
+    "Engrossed",
+    "Egotist",
+    "Deplete",
+    "Pandemonium"
+   ],
+   "answer": 1,
+   "explanation": "Egotist — excessively self-centered person",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Engrossed\" mean?",
+   "choices": [
+    "fully absorbed in thought or activity",
+    "damage or disadvantage",
+    "generally believed or regarded",
+    "internal restraint on action"
+   ],
+   "answer": 0,
+   "explanation": "Engrossed — fully absorbed in thought or activity",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"fully absorbed in thought or activity\"?",
+   "choices": [
+    "Destitution",
+    "Engrossed",
+    "Inhibition",
+    "Acclaim"
+   ],
+   "answer": 1,
+   "explanation": "Engrossed — fully absorbed in thought or activity",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Escalation\" mean?",
+   "choices": [
+    "person seeking advancement",
+    "damage or disadvantage",
+    "deeply distressed",
+    "increase in intensity or scale"
+   ],
+   "answer": 3,
+   "explanation": "Escalation — increase in intensity or scale",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"increase in intensity or scale\"?",
+   "choices": [
+    "Acclaim",
+    "Distraught",
+    "Deplete",
+    "Escalation"
+   ],
+   "answer": 3,
+   "explanation": "Escalation — increase in intensity or scale",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Fabricate\" mean?",
+   "choices": [
+    "manufacture or construct; also invent falsely",
+    "wild disorder",
+    "praise publicly",
+    "extreme material deprivation"
+   ],
+   "answer": 0,
+   "explanation": "Fabricate — manufacture or construct; also invent falsely",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"manufacture or construct; also invent falsely\"?",
+   "choices": [
+    "Distraught",
+    "Banal",
+    "Fabricate",
+    "Supplant"
+   ],
+   "answer": 2,
+   "explanation": "Fabricate — manufacture or construct; also invent falsely",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Inhibition\" mean?",
+   "choices": [
+    "excessively self-centered person",
+    "damage or disadvantage",
+    "officially make widely known",
+    "internal restraint on action"
+   ],
+   "answer": 3,
+   "explanation": "Inhibition — internal restraint on action",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"internal restraint on action\"?",
+   "choices": [
+    "Tyro",
+    "Inhibition",
+    "Fabricate",
+    "Egotist"
+   ],
+   "answer": 1,
+   "explanation": "Inhibition — internal restraint on action",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Pandemonium\" mean?",
+   "choices": [
+    "greatly reduce a supply",
+    "wild disorder",
+    "deeply thoughtful",
+    "manufacture or construct; also invent falsely"
+   ],
+   "answer": 1,
+   "explanation": "Pandemonium — wild disorder",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"wild disorder\"?",
+   "choices": [
+    "Escalation",
+    "Pandemonium",
+    "Tyro",
+    "Distraught"
+   ],
+   "answer": 1,
+   "explanation": "Pandemonium — wild disorder",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Pedagogue\" mean?",
+   "choices": [
+    "dull through overfamiliarity",
+    "excessively self-centered person",
+    "greatly reduce a supply",
+    "teacher or educational theorist"
+   ],
+   "answer": 3,
+   "explanation": "Pedagogue — teacher or educational theorist",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"teacher or educational theorist\"?",
+   "choices": [
+    "Reputed",
+    "Pedagogue",
+    "Tyro",
+    "Debris"
+   ],
+   "answer": 1,
+   "explanation": "Pedagogue — teacher or educational theorist",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Pensive\" mean?",
+   "choices": [
+    "excessively self-centered person",
+    "object produced by human activity",
+    "scattered remains",
+    "deeply thoughtful"
+   ],
+   "answer": 3,
+   "explanation": "Pensive — deeply thoughtful",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"deeply thoughtful\"?",
+   "choices": [
+    "Aspirant",
+    "Pensive",
+    "Inhibition",
+    "Destitution"
+   ],
+   "answer": 1,
+   "explanation": "Pensive — deeply thoughtful",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Promulgate\" mean?",
+   "choices": [
+    "generally believed or regarded",
+    "praise publicly",
+    "officially make widely known",
+    "sudden powerful increase"
+   ],
+   "answer": 2,
+   "explanation": "Promulgate — officially make widely known",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"officially make widely known\"?",
+   "choices": [
+    "Artifact",
+    "Pedagogue",
+    "Debris",
+    "Promulgate"
+   ],
+   "answer": 3,
+   "explanation": "Promulgate — officially make widely known",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Reputed\" mean?",
+   "choices": [
+    "arising without external prompting",
+    "generally believed or regarded",
+    "extreme material deprivation",
+    "sudden powerful increase"
+   ],
+   "answer": 1,
+   "explanation": "Reputed — generally believed or regarded",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"generally believed or regarded\"?",
+   "choices": [
+    "Destitution",
+    "Reputed",
+    "Banal",
+    "Tyro"
+   ],
+   "answer": 1,
+   "explanation": "Reputed — generally believed or regarded",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Spontaneous\" mean?",
+   "choices": [
+    "arising without external prompting",
+    "teacher or educational theorist",
+    "excessively self-centered person",
+    "object produced by human activity"
+   ],
+   "answer": 0,
+   "explanation": "Spontaneous — arising without external prompting",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"arising without external prompting\"?",
+   "choices": [
+    "Supplant",
+    "Reputed",
+    "Spontaneous",
+    "Fabricate"
+   ],
+   "answer": 2,
+   "explanation": "Spontaneous — arising without external prompting",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Supplant\" mean?",
+   "choices": [
+    "inexperienced beginner",
+    "wild disorder",
+    "officially make widely known",
+    "replace by taking a position"
+   ],
+   "answer": 3,
+   "explanation": "Supplant — replace by taking a position",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"replace by taking a position\"?",
+   "choices": [
+    "Pandemonium",
+    "Supplant",
+    "Banal",
+    "Destitution"
+   ],
+   "answer": 1,
+   "explanation": "Supplant — replace by taking a position",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Surge\" mean?",
+   "choices": [
+    "officially make widely known",
+    "sudden powerful increase",
+    "deeply distressed",
+    "fully absorbed in thought or activity"
+   ],
+   "answer": 1,
+   "explanation": "Surge — sudden powerful increase",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"sudden powerful increase\"?",
+   "choices": [
+    "Deplete",
+    "Detriment",
+    "Surge",
+    "Escalation"
+   ],
+   "answer": 2,
+   "explanation": "Surge — sudden powerful increase",
+   "source": "Modern"
+  },
+  {
+   "question": "What does \"Tyro\" mean?",
+   "choices": [
+    "dull through overfamiliarity",
+    "person seeking advancement",
+    "object produced by human activity",
+    "inexperienced beginner"
+   ],
+   "answer": 3,
+   "explanation": "Tyro — inexperienced beginner",
+   "source": "Modern"
+  },
+  {
+   "question": "Which word means \"inexperienced beginner\"?",
+   "choices": [
+    "Distraught",
+    "Tyro",
+    "Fabricate",
+    "Promulgate"
+   ],
+   "answer": 1,
+   "explanation": "Tyro — inexperienced beginner",
+   "source": "Modern"
+  }
+ ]
+}

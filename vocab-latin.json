@@ -1,0 +1,3076 @@
+{
+ "questions": [
+  {
+   "question": "What does \"Abhorrent\" mean?",
+   "choices": [
+    "inspiring intense aversion",
+    "deliberate exercise of will",
+    "strongly objectionable",
+    "person empowered to decide"
+   ],
+   "answer": 0,
+   "explanation": "Abhorrent — inspiring intense aversion",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"inspiring intense aversion\"?",
+   "choices": [
+    "Fluctuate",
+    "Abhorrent",
+    "Equanimity",
+    "Augment"
+   ],
+   "answer": 1,
+   "explanation": "Abhorrent — inspiring intense aversion",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Abjure\" mean?",
+   "choices": [
+    "briefly and clearly expressed",
+    "natural inclination",
+    "formally renounce",
+    "powerful ruler"
+   ],
+   "answer": 2,
+   "explanation": "Abjure — formally renounce",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"formally renounce\"?",
+   "choices": [
+    "Atrophy",
+    "Sanction",
+    "Emissary",
+    "Abjure"
+   ],
+   "answer": 3,
+   "explanation": "Abjure — formally renounce",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Advent\" mean?",
+   "choices": [
+    "public disgrace or condemnation",
+    "arrival or beginning",
+    "inspiring intense aversion",
+    "uniform in kind"
+   ],
+   "answer": 1,
+   "explanation": "Advent — arrival or beginning",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"arrival or beginning\"?",
+   "choices": [
+    "Effigy",
+    "Neutralize",
+    "Succinct",
+    "Advent"
+   ],
+   "answer": 3,
+   "explanation": "Advent — arrival or beginning",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Affluent\" mean?",
+   "choices": [
+    "abundantly supplied",
+    "rich in moisture",
+    "uselessness of effort",
+    "persistent in holding on"
+   ],
+   "answer": 0,
+   "explanation": "Affluent — abundantly supplied",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"abundantly supplied\"?",
+   "choices": [
+    "Proximity",
+    "Affluent",
+    "Tenable",
+    "Vertigo"
+   ],
+   "answer": 1,
+   "explanation": "Affluent — abundantly supplied",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Ambiguous\" mean?",
+   "choices": [
+    "remarkably great",
+    "permitting multiple interpretations",
+    "deliberately treacherous",
+    "consideration of the past"
+   ],
+   "answer": 1,
+   "explanation": "Ambiguous — permitting multiple interpretations",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"permitting multiple interpretations\"?",
+   "choices": [
+    "Subservient",
+    "Magnanimous",
+    "Manifest",
+    "Ambiguous"
+   ],
+   "answer": 3,
+   "explanation": "Ambiguous — permitting multiple interpretations",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Ameliorate\" mean?",
+   "choices": [
+    "accept or overlook wrongdoing",
+    "improve",
+    "acting with sudden force",
+    "harmless"
+   ],
+   "answer": 1,
+   "explanation": "Ameliorate — improve",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"improve\"?",
+   "choices": [
+    "Obsolescence",
+    "Malnutrition",
+    "Ameliorate",
+    "Germane"
+   ],
+   "answer": 2,
+   "explanation": "Ameliorate — improve",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Antiquated\" mean?",
+   "choices": [
+    "particularly well suited",
+    "obsolete through age",
+    "false or illegitimate",
+    "formally renounce"
+   ],
+   "answer": 1,
+   "explanation": "Antiquated — obsolete through age",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"obsolete through age\"?",
+   "choices": [
+    "Antiquated",
+    "Lurid",
+    "Criterion",
+    "Tenable"
+   ],
+   "answer": 0,
+   "explanation": "Antiquated — obsolete through age",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Arbiter\" mean?",
+   "choices": [
+    "official representative",
+    "signify explicitly",
+    "long duration of life",
+    "person empowered to decide"
+   ],
+   "answer": 3,
+   "explanation": "Arbiter — person empowered to decide",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"person empowered to decide\"?",
+   "choices": [
+    "Impetuous",
+    "Arbiter",
+    "Profuse",
+    "Irrelevant"
+   ],
+   "answer": 1,
+   "explanation": "Arbiter — person empowered to decide",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Ascertain\" mean?",
+   "choices": [
+    "briefly and clearly expressed",
+    "alternate indecisively",
+    "excessively willing to obey",
+    "establish with certainty"
+   ],
+   "answer": 3,
+   "explanation": "Ascertain — establish with certainty",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"establish with certainty\"?",
+   "choices": [
+    "Ascertain",
+    "Sanctimonious",
+    "Debilitate",
+    "Futility"
+   ],
+   "answer": 0,
+   "explanation": "Ascertain — establish with certainty",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Atrophy\" mean?",
+   "choices": [
+    "false or illegitimate",
+    "waste away through degeneration",
+    "habitually inactive",
+    "belonging inherently"
+   ],
+   "answer": 1,
+   "explanation": "Atrophy — waste away through degeneration",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"waste away through degeneration\"?",
+   "choices": [
+    "Benevolent",
+    "Depict",
+    "Atrophy",
+    "Succinct"
+   ],
+   "answer": 2,
+   "explanation": "Atrophy — waste away through degeneration",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Attenuated\" mean?",
+   "choices": [
+    "reduced in strength or intensity",
+    "providing nourishment",
+    "excessively talkative",
+    "existing chiefly in name"
+   ],
+   "answer": 0,
+   "explanation": "Attenuated — reduced in strength or intensity",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"reduced in strength or intensity\"?",
+   "choices": [
+    "Potentate",
+    "Imprudent",
+    "Attenuated",
+    "Imperceptible"
+   ],
+   "answer": 2,
+   "explanation": "Attenuated — reduced in strength or intensity",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Audacity\" mean?",
+   "choices": [
+    "malicious false accusation",
+    "natural inclination",
+    "remove objectionable material",
+    "bold or presumptuous daring"
+   ],
+   "answer": 3,
+   "explanation": "Audacity — bold or presumptuous daring",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"bold or presumptuous daring\"?",
+   "choices": [
+    "Audacity",
+    "Futility",
+    "Calumny",
+    "Stagnant"
+   ],
+   "answer": 0,
+   "explanation": "Audacity — bold or presumptuous daring",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Augment\" mean?",
+   "choices": [
+    "natural inclination",
+    "sensation of spinning",
+    "concerned with practical consequences",
+    "increase in amount"
+   ],
+   "answer": 3,
+   "explanation": "Augment — increase in amount",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"increase in amount\"?",
+   "choices": [
+    "Debilitate",
+    "Augment",
+    "Felicitous",
+    "Homogeneous"
+   ],
+   "answer": 1,
+   "explanation": "Augment — increase in amount",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Benevolent\" mean?",
+   "choices": [
+    "remove objectionable material",
+    "disposed toward doing good",
+    "counterbalancing a deficiency",
+    "beyond what is needed"
+   ],
+   "answer": 1,
+   "explanation": "Benevolent — disposed toward doing good",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"disposed toward doing good\"?",
+   "choices": [
+    "Tenacious",
+    "Advent",
+    "Affluent",
+    "Benevolent"
+   ],
+   "answer": 3,
+   "explanation": "Benevolent — disposed toward doing good",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Calumny\" mean?",
+   "choices": [
+    "briefly and clearly expressed",
+    "inadequate nutrition",
+    "improve",
+    "malicious false accusation"
+   ],
+   "answer": 3,
+   "explanation": "Calumny — malicious false accusation",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"malicious false accusation\"?",
+   "choices": [
+    "Tenable",
+    "Imperceptible",
+    "Complacent",
+    "Calumny"
+   ],
+   "answer": 3,
+   "explanation": "Calumny — malicious false accusation",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Candid\" mean?",
+   "choices": [
+    "frank and undisguised",
+    "formally renounce",
+    "signify explicitly",
+    "briefly and clearly expressed"
+   ],
+   "answer": 0,
+   "explanation": "Candid — frank and undisguised",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"frank and undisguised\"?",
+   "choices": [
+    "Candid",
+    "Equanimity",
+    "Arbiter",
+    "Derived"
+   ],
+   "answer": 0,
+   "explanation": "Candid — frank and undisguised",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Capitulate\" mean?",
+   "choices": [
+    "bitterly hostile",
+    "moving or differing apart",
+    "surrender under agreed terms",
+    "make clear"
+   ],
+   "answer": 2,
+   "explanation": "Capitulate — surrender under agreed terms",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"surrender under agreed terms\"?",
+   "choices": [
+    "Substantiate",
+    "Stagnant",
+    "Homogeneous",
+    "Capitulate"
+   ],
+   "answer": 3,
+   "explanation": "Capitulate — surrender under agreed terms",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Coalesce\" mean?",
+   "choices": [
+    "unite into one whole",
+    "too slight to perceive",
+    "extremely numerous",
+    "state of variety"
+   ],
+   "answer": 0,
+   "explanation": "Coalesce — unite into one whole",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"unite into one whole\"?",
+   "choices": [
+    "Coalesce",
+    "Stagnant",
+    "Complacent",
+    "Opprobrium"
+   ],
+   "answer": 0,
+   "explanation": "Coalesce — unite into one whole",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Compensatory\" mean?",
+   "choices": [
+    "official authorization or penalty",
+    "vary irregularly",
+    "counterbalancing a deficiency",
+    "stimulate into action"
+   ],
+   "answer": 2,
+   "explanation": "Compensatory — counterbalancing a deficiency",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"counterbalancing a deficiency\"?",
+   "choices": [
+    "Tenacious",
+    "Compensatory",
+    "Diminutive",
+    "Malevolent"
+   ],
+   "answer": 1,
+   "explanation": "Compensatory — counterbalancing a deficiency",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Complacent\" mean?",
+   "choices": [
+    "false or illegitimate",
+    "vague or indistinct",
+    "overly satisfied with oneself",
+    "official authorization or penalty"
+   ],
+   "answer": 2,
+   "explanation": "Complacent — overly satisfied with oneself",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"overly satisfied with oneself\"?",
+   "choices": [
+    "Complacent",
+    "Fortuitous",
+    "Advent",
+    "Debilitate"
+   ],
+   "answer": 0,
+   "explanation": "Complacent — overly satisfied with oneself",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Concomitant\" mean?",
+   "choices": [
+    "naturally accompanying",
+    "make clear",
+    "lacking movement or development",
+    "uselessness of effort"
+   ],
+   "answer": 0,
+   "explanation": "Concomitant — naturally accompanying",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"naturally accompanying\"?",
+   "choices": [
+    "Lurid",
+    "Vituperation",
+    "Concomitant",
+    "Diminutive"
+   ],
+   "answer": 2,
+   "explanation": "Concomitant — naturally accompanying",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Condone\" mean?",
+   "choices": [
+    "shockingly vivid or sensational",
+    "frank and undisguised",
+    "accept or overlook wrongdoing",
+    "formally renounce"
+   ],
+   "answer": 2,
+   "explanation": "Condone — accept or overlook wrongdoing",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"accept or overlook wrongdoing\"?",
+   "choices": [
+    "Condone",
+    "Refute",
+    "Copious",
+    "Originate"
+   ],
+   "answer": 0,
+   "explanation": "Condone — accept or overlook wrongdoing",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Copious\" mean?",
+   "choices": [
+    "uselessness of effort",
+    "quickly fading",
+    "abundant in quantity",
+    "beyond what is needed"
+   ],
+   "answer": 2,
+   "explanation": "Copious — abundant in quantity",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"abundant in quantity\"?",
+   "choices": [
+    "Copious",
+    "Motivate",
+    "Garrulous",
+    "Proximity"
+   ],
+   "answer": 0,
+   "explanation": "Copious — abundant in quantity",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Criterion\" mean?",
+   "choices": [
+    "lacking movement or development",
+    "public disgrace or condemnation",
+    "vague or indistinct",
+    "standard for judgment"
+   ],
+   "answer": 3,
+   "explanation": "Criterion — standard for judgment",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"standard for judgment\"?",
+   "choices": [
+    "Criterion",
+    "Homogeneous",
+    "Imperceptible",
+    "Heterogeneous"
+   ],
+   "answer": 0,
+   "explanation": "Criterion — standard for judgment",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Debilitate\" mean?",
+   "choices": [
+    "hypocritically self-righteous",
+    "weaken",
+    "make clear",
+    "authoritative command"
+   ],
+   "answer": 1,
+   "explanation": "Debilitate — weaken",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"weaken\"?",
+   "choices": [
+    "Vituperation",
+    "Debilitate",
+    "Abjure",
+    "Opprobrium"
+   ],
+   "answer": 1,
+   "explanation": "Debilitate — weaken",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Deleterious\" mean?",
+   "choices": [
+    "obsolete through age",
+    "causing harm",
+    "persistent in holding on",
+    "useful for an immediate purpose"
+   ],
+   "answer": 1,
+   "explanation": "Deleterious — causing harm",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"causing harm\"?",
+   "choices": [
+    "Facetious",
+    "Deleterious",
+    "Magnanimous",
+    "Diversity"
+   ],
+   "answer": 1,
+   "explanation": "Deleterious — causing harm",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Delineation\" mean?",
+   "choices": [
+    "briefly and clearly expressed",
+    "precise description or outline",
+    "produced in great abundance",
+    "false or illegitimate"
+   ],
+   "answer": 1,
+   "explanation": "Delineation — precise description or outline",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"precise description or outline\"?",
+   "choices": [
+    "Vitiate",
+    "Subservient",
+    "Obsolescence",
+    "Delineation"
+   ],
+   "answer": 3,
+   "explanation": "Delineation — precise description or outline",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Denote\" mean?",
+   "choices": [
+    "obsolete through age",
+    "remove objectionable material",
+    "signify explicitly",
+    "belonging inherently"
+   ],
+   "answer": 2,
+   "explanation": "Denote — signify explicitly",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"signify explicitly\"?",
+   "choices": [
+    "Denote",
+    "Vertigo",
+    "Obsolescence",
+    "Longevity"
+   ],
+   "answer": 0,
+   "explanation": "Denote — signify explicitly",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Depict\" mean?",
+   "choices": [
+    "reduced in strength or intensity",
+    "official representative",
+    "represent visually or verbally",
+    "remove objectionable material"
+   ],
+   "answer": 2,
+   "explanation": "Depict — represent visually or verbally",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"represent visually or verbally\"?",
+   "choices": [
+    "Depict",
+    "Tenacious",
+    "Malevolent",
+    "Originate"
+   ],
+   "answer": 0,
+   "explanation": "Depict — represent visually or verbally",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Derived\" mean?",
+   "choices": [
+    "reduced in strength or intensity",
+    "obtained from another source",
+    "directly relevant",
+    "beyond what is needed"
+   ],
+   "answer": 1,
+   "explanation": "Derived — obtained from another source",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"obtained from another source\"?",
+   "choices": [
+    "Vindicate",
+    "Mandate",
+    "Refute",
+    "Derived"
+   ],
+   "answer": 3,
+   "explanation": "Derived — obtained from another source",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Diminutive\" mean?",
+   "choices": [
+    "temporarily inactive",
+    "particularly well suited",
+    "spread widely",
+    "unusually small"
+   ],
+   "answer": 3,
+   "explanation": "Diminutive — unusually small",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"unusually small\"?",
+   "choices": [
+    "Nutritive",
+    "Diminutive",
+    "Evanescent",
+    "Proximity"
+   ],
+   "answer": 1,
+   "explanation": "Diminutive — unusually small",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Disseminate\" mean?",
+   "choices": [
+    "indicating a condition through symptoms",
+    "unite into one whole",
+    "strongly objectionable",
+    "spread widely"
+   ],
+   "answer": 3,
+   "explanation": "Disseminate — spread widely",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"spread widely\"?",
+   "choices": [
+    "Diversity",
+    "Disseminate",
+    "Impetuous",
+    "Imperceptible"
+   ],
+   "answer": 1,
+   "explanation": "Disseminate — spread widely",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Divergent\" mean?",
+   "choices": [
+    "uselessness of effort",
+    "belonging inherently",
+    "moving or differing apart",
+    "unusually small"
+   ],
+   "answer": 2,
+   "explanation": "Divergent — moving or differing apart",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"moving or differing apart\"?",
+   "choices": [
+    "Divergent",
+    "Refute",
+    "Repugnant",
+    "Diversity"
+   ],
+   "answer": 0,
+   "explanation": "Divergent — moving or differing apart",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Diversity\" mean?",
+   "choices": [
+    "temporarily inactive",
+    "briefly and clearly expressed",
+    "belonging inherently",
+    "state of variety"
+   ],
+   "answer": 3,
+   "explanation": "Diversity — state of variety",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"state of variety\"?",
+   "choices": [
+    "Antiquated",
+    "Diversity",
+    "Ostensible",
+    "Augment"
+   ],
+   "answer": 1,
+   "explanation": "Diversity — state of variety",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Dormant\" mean?",
+   "choices": [
+    "provide reason for action",
+    "arrival or beginning",
+    "temporarily inactive",
+    "counterbalancing a deficiency"
+   ],
+   "answer": 2,
+   "explanation": "Dormant — temporarily inactive",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"temporarily inactive\"?",
+   "choices": [
+    "Audacity",
+    "Dormant",
+    "Affluent",
+    "Copious"
+   ],
+   "answer": 1,
+   "explanation": "Dormant — temporarily inactive",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Efficacy\" mean?",
+   "choices": [
+    "render ineffective",
+    "capacity to produce an effect",
+    "consideration of the past",
+    "person empowered to decide"
+   ],
+   "answer": 1,
+   "explanation": "Efficacy — capacity to produce an effect",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"capacity to produce an effect\"?",
+   "choices": [
+    "Galvanize",
+    "Elucidate",
+    "Efficacy",
+    "Irrelevant"
+   ],
+   "answer": 2,
+   "explanation": "Efficacy — capacity to produce an effect",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Effigy\" mean?",
+   "choices": [
+    "uselessness of effort",
+    "alternate indecisively",
+    "malicious false accusation",
+    "representation of a person"
+   ],
+   "answer": 3,
+   "explanation": "Effigy — representation of a person",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"representation of a person\"?",
+   "choices": [
+    "Retrospect",
+    "Effigy",
+    "Tenable",
+    "Abhorrent"
+   ],
+   "answer": 1,
+   "explanation": "Effigy — representation of a person",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Egregious\" mean?",
+   "choices": [
+    "exceptionally bad",
+    "abundantly supplied",
+    "signify explicitly",
+    "authoritative command"
+   ],
+   "answer": 0,
+   "explanation": "Egregious — exceptionally bad",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"exceptionally bad\"?",
+   "choices": [
+    "Egregious",
+    "Nullify",
+    "Rationalize",
+    "Copious"
+   ],
+   "answer": 0,
+   "explanation": "Egregious — exceptionally bad",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Elapse\" mean?",
+   "choices": [
+    "too slight to perceive",
+    "person empowered to decide",
+    "pass with time",
+    "bring into existence"
+   ],
+   "answer": 2,
+   "explanation": "Elapse — pass with time",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"pass with time\"?",
+   "choices": [
+    "Extraneous",
+    "Concomitant",
+    "Elapse",
+    "Imperceptible"
+   ],
+   "answer": 2,
+   "explanation": "Elapse — pass with time",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Elucidate\" mean?",
+   "choices": [
+    "acting with sudden force",
+    "make clear",
+    "natural inclination",
+    "lacking liveliness or substance"
+   ],
+   "answer": 1,
+   "explanation": "Elucidate — make clear",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"make clear\"?",
+   "choices": [
+    "Nebulous",
+    "Abhorrent",
+    "Vindicate",
+    "Elucidate"
+   ],
+   "answer": 3,
+   "explanation": "Elucidate — make clear",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Emissary\" mean?",
+   "choices": [
+    "weaken",
+    "clear from accusation or justify",
+    "official representative",
+    "moving or differing apart"
+   ],
+   "answer": 2,
+   "explanation": "Emissary — official representative",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"official representative\"?",
+   "choices": [
+    "Pragmatic",
+    "Nominal",
+    "Nullify",
+    "Emissary"
+   ],
+   "answer": 3,
+   "explanation": "Emissary — official representative",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Encomium\" mean?",
+   "choices": [
+    "official representative",
+    "belonging inherently",
+    "formal expression of praise",
+    "occurring by chance"
+   ],
+   "answer": 2,
+   "explanation": "Encomium — formal expression of praise",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"formal expression of praise\"?",
+   "choices": [
+    "Originate",
+    "Stagnant",
+    "Calumny",
+    "Encomium"
+   ],
+   "answer": 3,
+   "explanation": "Encomium — formal expression of praise",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Equanimity\" mean?",
+   "choices": [
+    "moral depravity",
+    "emotional steadiness",
+    "permitting multiple interpretations",
+    "harmless"
+   ],
+   "answer": 1,
+   "explanation": "Equanimity — emotional steadiness",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"emotional steadiness\"?",
+   "choices": [
+    "Lassitude",
+    "Equanimity",
+    "Perfidious",
+    "Coalesce"
+   ],
+   "answer": 1,
+   "explanation": "Equanimity — emotional steadiness",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Evanescent\" mean?",
+   "choices": [
+    "limiting freedom or scope",
+    "quickly fading",
+    "too slight to perceive",
+    "state of variety"
+   ],
+   "answer": 1,
+   "explanation": "Evanescent — quickly fading",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"quickly fading\"?",
+   "choices": [
+    "Emissary",
+    "Evanescent",
+    "Retrospect",
+    "Affluent"
+   ],
+   "answer": 1,
+   "explanation": "Evanescent — quickly fading",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Exhort\" mean?",
+   "choices": [
+    "produced in great abundance",
+    "strongly urge",
+    "useful for an immediate purpose",
+    "pass with time"
+   ],
+   "answer": 1,
+   "explanation": "Exhort — strongly urge",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"strongly urge\"?",
+   "choices": [
+    "Diversity",
+    "Arbiter",
+    "Ostensible",
+    "Exhort"
+   ],
+   "answer": 3,
+   "explanation": "Exhort — strongly urge",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Expedient\" mean?",
+   "choices": [
+    "accept or overlook wrongdoing",
+    "stimulate into action",
+    "useful for an immediate purpose",
+    "emotional steadiness"
+   ],
+   "answer": 2,
+   "explanation": "Expedient — useful for an immediate purpose",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"useful for an immediate purpose\"?",
+   "choices": [
+    "Magnanimous",
+    "Capitulate",
+    "Egregious",
+    "Expedient"
+   ],
+   "answer": 3,
+   "explanation": "Expedient — useful for an immediate purpose",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Expurgate\" mean?",
+   "choices": [
+    "deliberately treacherous",
+    "sensation of spinning",
+    "remove objectionable material",
+    "providing nourishment"
+   ],
+   "answer": 2,
+   "explanation": "Expurgate — remove objectionable material",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"remove objectionable material\"?",
+   "choices": [
+    "Restrictive",
+    "Facetious",
+    "Compensatory",
+    "Expurgate"
+   ],
+   "answer": 3,
+   "explanation": "Expurgate — remove objectionable material",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Extraneous\" mean?",
+   "choices": [
+    "originating outside or irrelevant",
+    "formally renounce",
+    "surrender under agreed terms",
+    "overly satisfied with oneself"
+   ],
+   "answer": 0,
+   "explanation": "Extraneous — originating outside or irrelevant",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"originating outside or irrelevant\"?",
+   "choices": [
+    "Extraneous",
+    "Propensity",
+    "Iniquity",
+    "Spurious"
+   ],
+   "answer": 0,
+   "explanation": "Extraneous — originating outside or irrelevant",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Facetious\" mean?",
+   "choices": [
+    "treating serious matters humorously",
+    "standard for judgment",
+    "public disgrace or condemnation",
+    "uselessness of effort"
+   ],
+   "answer": 0,
+   "explanation": "Facetious — treating serious matters humorously",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"treating serious matters humorously\"?",
+   "choices": [
+    "Perfidious",
+    "Facetious",
+    "Turpitude",
+    "Vapid"
+   ],
+   "answer": 1,
+   "explanation": "Facetious — treating serious matters humorously",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Fastidious\" mean?",
+   "choices": [
+    "precise description or outline",
+    "exceptionally bad",
+    "clear from accusation or justify",
+    "extremely attentive or difficult to please"
+   ],
+   "answer": 3,
+   "explanation": "Fastidious — extremely attentive or difficult to please",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"extremely attentive or difficult to please\"?",
+   "choices": [
+    "Succinct",
+    "Spurious",
+    "Fastidious",
+    "Penury"
+   ],
+   "answer": 2,
+   "explanation": "Fastidious — extremely attentive or difficult to please",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Felicitous\" mean?",
+   "choices": [
+    "gross injustice or wickedness",
+    "particularly well suited",
+    "lacking liveliness or substance",
+    "uniform in kind"
+   ],
+   "answer": 1,
+   "explanation": "Felicitous — particularly well suited",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"particularly well suited\"?",
+   "choices": [
+    "Complacent",
+    "Refute",
+    "Calumny",
+    "Felicitous"
+   ],
+   "answer": 3,
+   "explanation": "Felicitous — particularly well suited",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Fluctuate\" mean?",
+   "choices": [
+    "originating outside or irrelevant",
+    "vary irregularly",
+    "natural inclination",
+    "limiting freedom or scope"
+   ],
+   "answer": 1,
+   "explanation": "Fluctuate — vary irregularly",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"vary irregularly\"?",
+   "choices": [
+    "Turpitude",
+    "Stagnant",
+    "Fluctuate",
+    "Intrinsic"
+   ],
+   "answer": 2,
+   "explanation": "Fluctuate — vary irregularly",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Fortuitous\" mean?",
+   "choices": [
+    "existing chiefly in name",
+    "wishing harm",
+    "emotional steadiness",
+    "occurring by chance"
+   ],
+   "answer": 3,
+   "explanation": "Fortuitous — occurring by chance",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"occurring by chance\"?",
+   "choices": [
+    "Perfidious",
+    "Fortuitous",
+    "Nutritive",
+    "Ambiguous"
+   ],
+   "answer": 1,
+   "explanation": "Fortuitous — occurring by chance",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Futility\" mean?",
+   "choices": [
+    "indicating a condition through symptoms",
+    "overly satisfied with oneself",
+    "uselessness of effort",
+    "natural inclination"
+   ],
+   "answer": 2,
+   "explanation": "Futility — uselessness of effort",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"uselessness of effort\"?",
+   "choices": [
+    "Volition",
+    "Benevolent",
+    "Futility",
+    "Opprobrium"
+   ],
+   "answer": 2,
+   "explanation": "Futility — uselessness of effort",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Galvanize\" mean?",
+   "choices": [
+    "persistent in holding on",
+    "providing nourishment",
+    "stimulate into action",
+    "shockingly vivid or sensational"
+   ],
+   "answer": 2,
+   "explanation": "Galvanize — stimulate into action",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"stimulate into action\"?",
+   "choices": [
+    "Galvanize",
+    "Homogeneous",
+    "Imprudent",
+    "Felicitous"
+   ],
+   "answer": 0,
+   "explanation": "Galvanize — stimulate into action",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Garrulous\" mean?",
+   "choices": [
+    "consideration of the past",
+    "excessively talkative",
+    "lacking religious reverence",
+    "directly relevant"
+   ],
+   "answer": 1,
+   "explanation": "Garrulous — excessively talkative",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"excessively talkative\"?",
+   "choices": [
+    "Abjure",
+    "Garrulous",
+    "Lassitude",
+    "Imprudent"
+   ],
+   "answer": 1,
+   "explanation": "Garrulous — excessively talkative",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Germane\" mean?",
+   "choices": [
+    "directly relevant",
+    "vary irregularly",
+    "provide reason for action",
+    "representation of a person"
+   ],
+   "answer": 0,
+   "explanation": "Germane — directly relevant",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"directly relevant\"?",
+   "choices": [
+    "Germane",
+    "Sanction",
+    "Perfidious",
+    "Capitulate"
+   ],
+   "answer": 0,
+   "explanation": "Germane — directly relevant",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Heterogeneous\" mean?",
+   "choices": [
+    "too slight to perceive",
+    "physical or mental weariness",
+    "represent visually or verbally",
+    "composed of different kinds"
+   ],
+   "answer": 3,
+   "explanation": "Heterogeneous — composed of different kinds",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"composed of different kinds\"?",
+   "choices": [
+    "Heterogeneous",
+    "Impious",
+    "Rationalize",
+    "Refute"
+   ],
+   "answer": 0,
+   "explanation": "Heterogeneous — composed of different kinds",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Homogeneous\" mean?",
+   "choices": [
+    "uniform in kind",
+    "waste away through degeneration",
+    "increase in amount",
+    "reduced in strength or intensity"
+   ],
+   "answer": 0,
+   "explanation": "Homogeneous — uniform in kind",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"uniform in kind\"?",
+   "choices": [
+    "Fortuitous",
+    "Egregious",
+    "Iniquity",
+    "Homogeneous"
+   ],
+   "answer": 3,
+   "explanation": "Homogeneous — uniform in kind",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Imperceptible\" mean?",
+   "choices": [
+    "spread widely",
+    "too slight to perceive",
+    "natural inclination",
+    "directly relevant"
+   ],
+   "answer": 1,
+   "explanation": "Imperceptible — too slight to perceive",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"too slight to perceive\"?",
+   "choices": [
+    "Debilitate",
+    "Imperceptible",
+    "Coalesce",
+    "Attenuated"
+   ],
+   "answer": 1,
+   "explanation": "Imperceptible — too slight to perceive",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Impetuous\" mean?",
+   "choices": [
+    "condition of complete satisfaction",
+    "establish with certainty",
+    "emotional steadiness",
+    "acting with sudden force"
+   ],
+   "answer": 3,
+   "explanation": "Impetuous — acting with sudden force",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"acting with sudden force\"?",
+   "choices": [
+    "Vapid",
+    "Impetuous",
+    "Attenuated",
+    "Calumny"
+   ],
+   "answer": 1,
+   "explanation": "Impetuous — acting with sudden force",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Impious\" mean?",
+   "choices": [
+    "support with evidence",
+    "lacking religious reverence",
+    "indicating a condition through symptoms",
+    "authoritative command"
+   ],
+   "answer": 1,
+   "explanation": "Impious — lacking religious reverence",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"lacking religious reverence\"?",
+   "choices": [
+    "Augment",
+    "Impious",
+    "Diminutive",
+    "Longevity"
+   ],
+   "answer": 1,
+   "explanation": "Impious — lacking religious reverence",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Imprudent\" mean?",
+   "choices": [
+    "stimulate into action",
+    "deliberately treacherous",
+    "originating outside or irrelevant",
+    "lacking sound judgment"
+   ],
+   "answer": 3,
+   "explanation": "Imprudent — lacking sound judgment",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"lacking sound judgment\"?",
+   "choices": [
+    "Venial",
+    "Audacity",
+    "Imprudent",
+    "Expedient"
+   ],
+   "answer": 2,
+   "explanation": "Imprudent — lacking sound judgment",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Indolent\" mean?",
+   "choices": [
+    "habitually inactive",
+    "lacking religious reverence",
+    "long duration of life",
+    "temporarily inactive"
+   ],
+   "answer": 0,
+   "explanation": "Indolent — habitually inactive",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"habitually inactive\"?",
+   "choices": [
+    "Venial",
+    "Benevolent",
+    "Abhorrent",
+    "Indolent"
+   ],
+   "answer": 3,
+   "explanation": "Indolent — habitually inactive",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Iniquity\" mean?",
+   "choices": [
+    "pass with time",
+    "shockingly unjust",
+    "gross injustice or wickedness",
+    "strongly urge"
+   ],
+   "answer": 2,
+   "explanation": "Iniquity — gross injustice or wickedness",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"gross injustice or wickedness\"?",
+   "choices": [
+    "Extraneous",
+    "Iniquity",
+    "Abjure",
+    "Malnutrition"
+   ],
+   "answer": 1,
+   "explanation": "Iniquity — gross injustice or wickedness",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Innocuous\" mean?",
+   "choices": [
+    "belonging inherently",
+    "formal expression of praise",
+    "harmless",
+    "spread widely"
+   ],
+   "answer": 2,
+   "explanation": "Innocuous — harmless",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"harmless\"?",
+   "choices": [
+    "Arbiter",
+    "Symptomatic",
+    "Delineation",
+    "Innocuous"
+   ],
+   "answer": 3,
+   "explanation": "Innocuous — harmless",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Insubordinate\" mean?",
+   "choices": [
+    "refusing proper authority",
+    "habitually inactive",
+    "spread widely",
+    "person empowered to decide"
+   ],
+   "answer": 0,
+   "explanation": "Insubordinate — refusing proper authority",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"refusing proper authority\"?",
+   "choices": [
+    "Intrinsic",
+    "Sanction",
+    "Prevarication",
+    "Insubordinate"
+   ],
+   "answer": 3,
+   "explanation": "Insubordinate — refusing proper authority",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Intrinsic\" mean?",
+   "choices": [
+    "remarkably great",
+    "lacking sound judgment",
+    "bitterly hostile",
+    "belonging inherently"
+   ],
+   "answer": 3,
+   "explanation": "Intrinsic — belonging inherently",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"belonging inherently\"?",
+   "choices": [
+    "Intrinsic",
+    "Sanction",
+    "Ameliorate",
+    "Tenable"
+   ],
+   "answer": 0,
+   "explanation": "Intrinsic — belonging inherently",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Irrelevant\" mean?",
+   "choices": [
+    "unusually small",
+    "hypocritically self-righteous",
+    "reduced in strength or intensity",
+    "unrelated to the matter"
+   ],
+   "answer": 3,
+   "explanation": "Irrelevant — unrelated to the matter",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"unrelated to the matter\"?",
+   "choices": [
+    "Retrospect",
+    "Irrelevant",
+    "Indolent",
+    "Encomium"
+   ],
+   "answer": 1,
+   "explanation": "Irrelevant — unrelated to the matter",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Lassitude\" mean?",
+   "choices": [
+    "uniform in kind",
+    "relatively pardonable",
+    "lacking sound judgment",
+    "physical or mental weariness"
+   ],
+   "answer": 3,
+   "explanation": "Lassitude — physical or mental weariness",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"physical or mental weariness\"?",
+   "choices": [
+    "Futility",
+    "Imperceptible",
+    "Lurid",
+    "Lassitude"
+   ],
+   "answer": 3,
+   "explanation": "Lassitude — physical or mental weariness",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Legion\" mean?",
+   "choices": [
+    "extremely numerous",
+    "consideration of the past",
+    "harmless",
+    "make rational or provide justification"
+   ],
+   "answer": 0,
+   "explanation": "Legion — extremely numerous",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"extremely numerous\"?",
+   "choices": [
+    "Legion",
+    "Complacent",
+    "Affluent",
+    "Profuse"
+   ],
+   "answer": 0,
+   "explanation": "Legion — extremely numerous",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Longevity\" mean?",
+   "choices": [
+    "shockingly unjust",
+    "persistent in holding on",
+    "formally renounce",
+    "long duration of life"
+   ],
+   "answer": 3,
+   "explanation": "Longevity — long duration of life",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"long duration of life\"?",
+   "choices": [
+    "Longevity",
+    "Homogeneous",
+    "Impious",
+    "Proximity"
+   ],
+   "answer": 0,
+   "explanation": "Longevity — long duration of life",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Lurid\" mean?",
+   "choices": [
+    "lacking sound judgment",
+    "accept or overlook wrongdoing",
+    "beyond what is needed",
+    "shockingly vivid or sensational"
+   ],
+   "answer": 3,
+   "explanation": "Lurid — shockingly vivid or sensational",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"shockingly vivid or sensational\"?",
+   "choices": [
+    "Lurid",
+    "Rationalize",
+    "Exhort",
+    "Abjure"
+   ],
+   "answer": 0,
+   "explanation": "Lurid — shockingly vivid or sensational",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Magnanimous\" mean?",
+   "choices": [
+    "rich in moisture",
+    "nobly generous",
+    "originating outside or irrelevant",
+    "bold or presumptuous daring"
+   ],
+   "answer": 1,
+   "explanation": "Magnanimous — nobly generous",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"nobly generous\"?",
+   "choices": [
+    "Magnanimous",
+    "Originate",
+    "Volition",
+    "Manifest"
+   ],
+   "answer": 0,
+   "explanation": "Magnanimous — nobly generous",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Malevolent\" mean?",
+   "choices": [
+    "long duration of life",
+    "wishing harm",
+    "habitually inactive",
+    "state of impaired responsiveness"
+   ],
+   "answer": 1,
+   "explanation": "Malevolent — wishing harm",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"wishing harm\"?",
+   "choices": [
+    "Affluent",
+    "Divergent",
+    "Malevolent",
+    "Penury"
+   ],
+   "answer": 2,
+   "explanation": "Malevolent — wishing harm",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Malnutrition\" mean?",
+   "choices": [
+    "pass with time",
+    "inadequate nutrition",
+    "extremely numerous",
+    "stimulate into action"
+   ],
+   "answer": 1,
+   "explanation": "Malnutrition — inadequate nutrition",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"inadequate nutrition\"?",
+   "choices": [
+    "Malnutrition",
+    "Capitulate",
+    "Innocuous",
+    "Copious"
+   ],
+   "answer": 0,
+   "explanation": "Malnutrition — inadequate nutrition",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Mandate\" mean?",
+   "choices": [
+    "composed of different kinds",
+    "shockingly vivid or sensational",
+    "precise description or outline",
+    "authoritative command"
+   ],
+   "answer": 3,
+   "explanation": "Mandate — authoritative command",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"authoritative command\"?",
+   "choices": [
+    "Attenuated",
+    "Mandate",
+    "Malnutrition",
+    "Obsolescence"
+   ],
+   "answer": 1,
+   "explanation": "Mandate — authoritative command",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Manifest\" mean?",
+   "choices": [
+    "formal expression of praise",
+    "causing harm",
+    "readily apparent",
+    "nearness"
+   ],
+   "answer": 2,
+   "explanation": "Manifest — readily apparent",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"readily apparent\"?",
+   "choices": [
+    "Tenable",
+    "Abjure",
+    "Antiquated",
+    "Manifest"
+   ],
+   "answer": 3,
+   "explanation": "Manifest — readily apparent",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Motivate\" mean?",
+   "choices": [
+    "provide reason for action",
+    "beyond what is needed",
+    "useful for an immediate purpose",
+    "produced in great abundance"
+   ],
+   "answer": 0,
+   "explanation": "Motivate — provide reason for action",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"provide reason for action\"?",
+   "choices": [
+    "Magnanimous",
+    "Condone",
+    "Imperceptible",
+    "Motivate"
+   ],
+   "answer": 3,
+   "explanation": "Motivate — provide reason for action",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Nebulous\" mean?",
+   "choices": [
+    "vague or indistinct",
+    "nearness",
+    "harmless",
+    "long duration of life"
+   ],
+   "answer": 0,
+   "explanation": "Nebulous — vague or indistinct",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"vague or indistinct\"?",
+   "choices": [
+    "Nebulous",
+    "Vindicate",
+    "Prevarication",
+    "Neutralize"
+   ],
+   "answer": 0,
+   "explanation": "Nebulous — vague or indistinct",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Negligible\" mean?",
+   "choices": [
+    "vague or indistinct",
+    "impair or corrupt",
+    "inadequate nutrition",
+    "too slight to matter"
+   ],
+   "answer": 3,
+   "explanation": "Negligible — too slight to matter",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"too slight to matter\"?",
+   "choices": [
+    "Perfidious",
+    "Pragmatic",
+    "Felicitous",
+    "Negligible"
+   ],
+   "answer": 3,
+   "explanation": "Negligible — too slight to matter",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Neutralize\" mean?",
+   "choices": [
+    "make ineffective or neutral",
+    "extremely attentive or difficult to please",
+    "unite into one whole",
+    "waste away through degeneration"
+   ],
+   "answer": 0,
+   "explanation": "Neutralize — make ineffective or neutral",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"make ineffective or neutral\"?",
+   "choices": [
+    "Emissary",
+    "Neutralize",
+    "Stagnant",
+    "Arbiter"
+   ],
+   "answer": 1,
+   "explanation": "Neutralize — make ineffective or neutral",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Nominal\" mean?",
+   "choices": [
+    "originating outside or irrelevant",
+    "harmless",
+    "existing chiefly in name",
+    "rich in moisture"
+   ],
+   "answer": 2,
+   "explanation": "Nominal — existing chiefly in name",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"existing chiefly in name\"?",
+   "choices": [
+    "Irrelevant",
+    "Nominal",
+    "Malevolent",
+    "Diversity"
+   ],
+   "answer": 1,
+   "explanation": "Nominal — existing chiefly in name",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Nullify\" mean?",
+   "choices": [
+    "render ineffective",
+    "providing nourishment",
+    "originating outside or irrelevant",
+    "overly satisfied with oneself"
+   ],
+   "answer": 0,
+   "explanation": "Nullify — render ineffective",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"render ineffective\"?",
+   "choices": [
+    "Tenacious",
+    "Exhort",
+    "Neutralize",
+    "Nullify"
+   ],
+   "answer": 3,
+   "explanation": "Nullify — render ineffective",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Nutritive\" mean?",
+   "choices": [
+    "providing nourishment",
+    "make rational or provide justification",
+    "long duration of life",
+    "composed of different kinds"
+   ],
+   "answer": 0,
+   "explanation": "Nutritive — providing nourishment",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"providing nourishment\"?",
+   "choices": [
+    "Tenacious",
+    "Concomitant",
+    "Nutritive",
+    "Rationalize"
+   ],
+   "answer": 2,
+   "explanation": "Nutritive — providing nourishment",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Obsolescence\" mean?",
+   "choices": [
+    "naturally accompanying",
+    "shockingly unjust",
+    "acting with sudden force",
+    "process of becoming outdated"
+   ],
+   "answer": 3,
+   "explanation": "Obsolescence — process of becoming outdated",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"process of becoming outdated\"?",
+   "choices": [
+    "Longevity",
+    "Lassitude",
+    "Obsolescence",
+    "Advent"
+   ],
+   "answer": 2,
+   "explanation": "Obsolescence — process of becoming outdated",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Opprobrium\" mean?",
+   "choices": [
+    "public disgrace or condemnation",
+    "condition of complete satisfaction",
+    "existing chiefly in name",
+    "capable of being defended"
+   ],
+   "answer": 0,
+   "explanation": "Opprobrium — public disgrace or condemnation",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"public disgrace or condemnation\"?",
+   "choices": [
+    "Iniquity",
+    "Opprobrium",
+    "Insubordinate",
+    "Homogeneous"
+   ],
+   "answer": 1,
+   "explanation": "Opprobrium — public disgrace or condemnation",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Originate\" mean?",
+   "choices": [
+    "impair or corrupt",
+    "bring into existence",
+    "clear from accusation or justify",
+    "excessively talkative"
+   ],
+   "answer": 1,
+   "explanation": "Originate — bring into existence",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"bring into existence\"?",
+   "choices": [
+    "Denote",
+    "Insubordinate",
+    "Originate",
+    "Penury"
+   ],
+   "answer": 2,
+   "explanation": "Originate — bring into existence",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Ostensible\" mean?",
+   "choices": [
+    "inadequate nutrition",
+    "pass with time",
+    "apparently true or stated",
+    "false or illegitimate"
+   ],
+   "answer": 2,
+   "explanation": "Ostensible — apparently true or stated",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"apparently true or stated\"?",
+   "choices": [
+    "Elucidate",
+    "Ostensible",
+    "Nominal",
+    "Impious"
+   ],
+   "answer": 1,
+   "explanation": "Ostensible — apparently true or stated",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Penury\" mean?",
+   "choices": [
+    "temporarily inactive",
+    "nearness",
+    "state of impaired responsiveness",
+    "extreme poverty"
+   ],
+   "answer": 3,
+   "explanation": "Penury — extreme poverty",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"extreme poverty\"?",
+   "choices": [
+    "Prodigious",
+    "Calumny",
+    "Penury",
+    "Facetious"
+   ],
+   "answer": 2,
+   "explanation": "Penury — extreme poverty",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Perfidious\" mean?",
+   "choices": [
+    "uselessness of effort",
+    "deliberately treacherous",
+    "public disgrace or condemnation",
+    "evasive or deceptive speech"
+   ],
+   "answer": 1,
+   "explanation": "Perfidious — deliberately treacherous",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"deliberately treacherous\"?",
+   "choices": [
+    "Ostensible",
+    "Felicitous",
+    "Perfidious",
+    "Succulent"
+   ],
+   "answer": 2,
+   "explanation": "Perfidious — deliberately treacherous",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Potentate\" mean?",
+   "choices": [
+    "powerful ruler",
+    "capable of being defended",
+    "capacity to produce an effect",
+    "useful for an immediate purpose"
+   ],
+   "answer": 0,
+   "explanation": "Potentate — powerful ruler",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"powerful ruler\"?",
+   "choices": [
+    "Magnanimous",
+    "Advent",
+    "Abhorrent",
+    "Potentate"
+   ],
+   "answer": 3,
+   "explanation": "Potentate — powerful ruler",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Pragmatic\" mean?",
+   "choices": [
+    "habitually inactive",
+    "establish with certainty",
+    "pass with time",
+    "concerned with practical consequences"
+   ],
+   "answer": 3,
+   "explanation": "Pragmatic — concerned with practical consequences",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"concerned with practical consequences\"?",
+   "choices": [
+    "Imprudent",
+    "Pragmatic",
+    "Magnanimous",
+    "Audacity"
+   ],
+   "answer": 1,
+   "explanation": "Pragmatic — concerned with practical consequences",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Prevarication\" mean?",
+   "choices": [
+    "belonging inherently",
+    "quickly fading",
+    "evasive or deceptive speech",
+    "beyond what is needed"
+   ],
+   "answer": 2,
+   "explanation": "Prevarication — evasive or deceptive speech",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"evasive or deceptive speech\"?",
+   "choices": [
+    "Stagnant",
+    "Prevarication",
+    "Malnutrition",
+    "Succulent"
+   ],
+   "answer": 1,
+   "explanation": "Prevarication — evasive or deceptive speech",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Prodigious\" mean?",
+   "choices": [
+    "alternate indecisively",
+    "rich in moisture",
+    "obtained from another source",
+    "remarkably great"
+   ],
+   "answer": 3,
+   "explanation": "Prodigious — remarkably great",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"remarkably great\"?",
+   "choices": [
+    "Extraneous",
+    "Disseminate",
+    "Prodigious",
+    "Affluent"
+   ],
+   "answer": 2,
+   "explanation": "Prodigious — remarkably great",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Profuse\" mean?",
+   "choices": [
+    "state of impaired responsiveness",
+    "physical or mental weariness",
+    "refusing proper authority",
+    "produced in great abundance"
+   ],
+   "answer": 3,
+   "explanation": "Profuse — produced in great abundance",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"produced in great abundance\"?",
+   "choices": [
+    "Nebulous",
+    "Deleterious",
+    "Profuse",
+    "Subservient"
+   ],
+   "answer": 2,
+   "explanation": "Profuse — produced in great abundance",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Propensity\" mean?",
+   "choices": [
+    "capacity to produce an effect",
+    "reduced in strength or intensity",
+    "natural inclination",
+    "increase in amount"
+   ],
+   "answer": 2,
+   "explanation": "Propensity — natural inclination",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"natural inclination\"?",
+   "choices": [
+    "Negligible",
+    "Propensity",
+    "Vindicate",
+    "Potentate"
+   ],
+   "answer": 1,
+   "explanation": "Propensity — natural inclination",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Proximity\" mean?",
+   "choices": [
+    "nearness",
+    "moral depravity",
+    "arrival or beginning",
+    "bold or presumptuous daring"
+   ],
+   "answer": 0,
+   "explanation": "Proximity — nearness",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"nearness\"?",
+   "choices": [
+    "Negligible",
+    "Proximity",
+    "Subservient",
+    "Diversity"
+   ],
+   "answer": 1,
+   "explanation": "Proximity — nearness",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Rationalize\" mean?",
+   "choices": [
+    "too slight to perceive",
+    "impair or corrupt",
+    "make rational or provide justification",
+    "state of impaired responsiveness"
+   ],
+   "answer": 2,
+   "explanation": "Rationalize — make rational or provide justification",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"make rational or provide justification\"?",
+   "choices": [
+    "Nebulous",
+    "Effigy",
+    "Fluctuate",
+    "Rationalize"
+   ],
+   "answer": 3,
+   "explanation": "Rationalize — make rational or provide justification",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Refute\" mean?",
+   "choices": [
+    "concerned with practical consequences",
+    "naturally accompanying",
+    "malicious false accusation",
+    "demonstrate to be false"
+   ],
+   "answer": 3,
+   "explanation": "Refute — demonstrate to be false",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"demonstrate to be false\"?",
+   "choices": [
+    "Elapse",
+    "Propensity",
+    "Refute",
+    "Expurgate"
+   ],
+   "answer": 2,
+   "explanation": "Refute — demonstrate to be false",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Repugnant\" mean?",
+   "choices": [
+    "strongly objectionable",
+    "remove objectionable material",
+    "excessively willing to obey",
+    "nobly generous"
+   ],
+   "answer": 0,
+   "explanation": "Repugnant — strongly objectionable",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"strongly objectionable\"?",
+   "choices": [
+    "Futility",
+    "Ameliorate",
+    "Repugnant",
+    "Penury"
+   ],
+   "answer": 2,
+   "explanation": "Repugnant — strongly objectionable",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Restrictive\" mean?",
+   "choices": [
+    "natural inclination",
+    "directly relevant",
+    "limiting freedom or scope",
+    "weaken"
+   ],
+   "answer": 2,
+   "explanation": "Restrictive — limiting freedom or scope",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"limiting freedom or scope\"?",
+   "choices": [
+    "Effigy",
+    "Derived",
+    "Magnanimous",
+    "Restrictive"
+   ],
+   "answer": 3,
+   "explanation": "Restrictive — limiting freedom or scope",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Retrospect\" mean?",
+   "choices": [
+    "alternate indecisively",
+    "improve",
+    "consideration of the past",
+    "bitterly hostile"
+   ],
+   "answer": 2,
+   "explanation": "Retrospect — consideration of the past",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"consideration of the past\"?",
+   "choices": [
+    "Originate",
+    "Neutralize",
+    "Retrospect",
+    "Spurious"
+   ],
+   "answer": 2,
+   "explanation": "Retrospect — consideration of the past",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Sanctimonious\" mean?",
+   "choices": [
+    "spread widely",
+    "useful for an immediate purpose",
+    "hypocritically self-righteous",
+    "limiting freedom or scope"
+   ],
+   "answer": 2,
+   "explanation": "Sanctimonious — hypocritically self-righteous",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"hypocritically self-righteous\"?",
+   "choices": [
+    "Vertigo",
+    "Sanctimonious",
+    "Antiquated",
+    "Germane"
+   ],
+   "answer": 1,
+   "explanation": "Sanctimonious — hypocritically self-righteous",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Sanction\" mean?",
+   "choices": [
+    "moving or differing apart",
+    "official authorization or penalty",
+    "permitting multiple interpretations",
+    "signify explicitly"
+   ],
+   "answer": 1,
+   "explanation": "Sanction — official authorization or penalty",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"official authorization or penalty\"?",
+   "choices": [
+    "Impious",
+    "Sanction",
+    "Garrulous",
+    "Indolent"
+   ],
+   "answer": 1,
+   "explanation": "Sanction — official authorization or penalty",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Satiety\" mean?",
+   "choices": [
+    "extreme poverty",
+    "arrival or beginning",
+    "inadequate nutrition",
+    "condition of complete satisfaction"
+   ],
+   "answer": 3,
+   "explanation": "Satiety — condition of complete satisfaction",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"condition of complete satisfaction\"?",
+   "choices": [
+    "Satiety",
+    "Vitiate",
+    "Spurious",
+    "Venial"
+   ],
+   "answer": 0,
+   "explanation": "Satiety — condition of complete satisfaction",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Spurious\" mean?",
+   "choices": [
+    "false or illegitimate",
+    "inadequate nutrition",
+    "obtained from another source",
+    "arrival or beginning"
+   ],
+   "answer": 0,
+   "explanation": "Spurious — false or illegitimate",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"false or illegitimate\"?",
+   "choices": [
+    "Spurious",
+    "Opprobrium",
+    "Satiety",
+    "Legion"
+   ],
+   "answer": 0,
+   "explanation": "Spurious — false or illegitimate",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Stagnant\" mean?",
+   "choices": [
+    "accept or overlook wrongdoing",
+    "lacking movement or development",
+    "treating serious matters humorously",
+    "state of impaired responsiveness"
+   ],
+   "answer": 1,
+   "explanation": "Stagnant — lacking movement or development",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"lacking movement or development\"?",
+   "choices": [
+    "Stagnant",
+    "Indolent",
+    "Neutralize",
+    "Vitriolic"
+   ],
+   "answer": 0,
+   "explanation": "Stagnant — lacking movement or development",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Stupor\" mean?",
+   "choices": [
+    "authoritative command",
+    "natural inclination",
+    "state of impaired responsiveness",
+    "render ineffective"
+   ],
+   "answer": 2,
+   "explanation": "Stupor — state of impaired responsiveness",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"state of impaired responsiveness\"?",
+   "choices": [
+    "Arbiter",
+    "Vapid",
+    "Stupor",
+    "Efficacy"
+   ],
+   "answer": 2,
+   "explanation": "Stupor — state of impaired responsiveness",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Subservient\" mean?",
+   "choices": [
+    "occurring by chance",
+    "weaken",
+    "excessively willing to obey",
+    "overly satisfied with oneself"
+   ],
+   "answer": 2,
+   "explanation": "Subservient — excessively willing to obey",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"excessively willing to obey\"?",
+   "choices": [
+    "Extraneous",
+    "Subservient",
+    "Effigy",
+    "Nullify"
+   ],
+   "answer": 1,
+   "explanation": "Subservient — excessively willing to obey",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Substantiate\" mean?",
+   "choices": [
+    "support with evidence",
+    "clear from accusation or justify",
+    "too slight to matter",
+    "limiting freedom or scope"
+   ],
+   "answer": 0,
+   "explanation": "Substantiate — support with evidence",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"support with evidence\"?",
+   "choices": [
+    "Vertigo",
+    "Effigy",
+    "Substantiate",
+    "Vitiate"
+   ],
+   "answer": 2,
+   "explanation": "Substantiate — support with evidence",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Succinct\" mean?",
+   "choices": [
+    "briefly and clearly expressed",
+    "nearness",
+    "exceptionally bad",
+    "moving or differing apart"
+   ],
+   "answer": 0,
+   "explanation": "Succinct — briefly and clearly expressed",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"briefly and clearly expressed\"?",
+   "choices": [
+    "Succinct",
+    "Criterion",
+    "Disseminate",
+    "Deleterious"
+   ],
+   "answer": 0,
+   "explanation": "Succinct — briefly and clearly expressed",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Succulent\" mean?",
+   "choices": [
+    "wishing harm",
+    "rich in moisture",
+    "remarkably great",
+    "extremely numerous"
+   ],
+   "answer": 1,
+   "explanation": "Succulent — rich in moisture",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"rich in moisture\"?",
+   "choices": [
+    "Succulent",
+    "Fastidious",
+    "Proximity",
+    "Denote"
+   ],
+   "answer": 0,
+   "explanation": "Succulent — rich in moisture",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Superfluous\" mean?",
+   "choices": [
+    "bitter verbal abuse",
+    "beyond what is needed",
+    "weaken",
+    "provide reason for action"
+   ],
+   "answer": 1,
+   "explanation": "Superfluous — beyond what is needed",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"beyond what is needed\"?",
+   "choices": [
+    "Ascertain",
+    "Superfluous",
+    "Abjure",
+    "Divergent"
+   ],
+   "answer": 1,
+   "explanation": "Superfluous — beyond what is needed",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Symptomatic\" mean?",
+   "choices": [
+    "too slight to perceive",
+    "indicating a condition through symptoms",
+    "public disgrace or condemnation",
+    "obsolete through age"
+   ],
+   "answer": 1,
+   "explanation": "Symptomatic — indicating a condition through symptoms",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"indicating a condition through symptoms\"?",
+   "choices": [
+    "Disseminate",
+    "Fastidious",
+    "Symptomatic",
+    "Benevolent"
+   ],
+   "answer": 2,
+   "explanation": "Symptomatic — indicating a condition through symptoms",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Tenable\" mean?",
+   "choices": [
+    "precise description or outline",
+    "temporarily inactive",
+    "capable of being defended",
+    "reduced in strength or intensity"
+   ],
+   "answer": 2,
+   "explanation": "Tenable — capable of being defended",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"capable of being defended\"?",
+   "choices": [
+    "Vertigo",
+    "Concomitant",
+    "Subservient",
+    "Tenable"
+   ],
+   "answer": 3,
+   "explanation": "Tenable — capable of being defended",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Tenacious\" mean?",
+   "choices": [
+    "bitter verbal abuse",
+    "powerful ruler",
+    "persistent in holding on",
+    "hypocritically self-righteous"
+   ],
+   "answer": 2,
+   "explanation": "Tenacious — persistent in holding on",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"persistent in holding on\"?",
+   "choices": [
+    "Tenacious",
+    "Repugnant",
+    "Vitriolic",
+    "Stupor"
+   ],
+   "answer": 0,
+   "explanation": "Tenacious — persistent in holding on",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Turpitude\" mean?",
+   "choices": [
+    "impair or corrupt",
+    "gross injustice or wickedness",
+    "moral depravity",
+    "abundant in quantity"
+   ],
+   "answer": 2,
+   "explanation": "Turpitude — moral depravity",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"moral depravity\"?",
+   "choices": [
+    "Vindicate",
+    "Turpitude",
+    "Antiquated",
+    "Equanimity"
+   ],
+   "answer": 1,
+   "explanation": "Turpitude — moral depravity",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Unconscionable\" mean?",
+   "choices": [
+    "unrelated to the matter",
+    "precise description or outline",
+    "causing harm",
+    "shockingly unjust"
+   ],
+   "answer": 3,
+   "explanation": "Unconscionable — shockingly unjust",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"shockingly unjust\"?",
+   "choices": [
+    "Unconscionable",
+    "Profuse",
+    "Retrospect",
+    "Restrictive"
+   ],
+   "answer": 0,
+   "explanation": "Unconscionable — shockingly unjust",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Vacillate\" mean?",
+   "choices": [
+    "refusing proper authority",
+    "existing chiefly in name",
+    "alternate indecisively",
+    "bold or presumptuous daring"
+   ],
+   "answer": 2,
+   "explanation": "Vacillate — alternate indecisively",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"alternate indecisively\"?",
+   "choices": [
+    "Potentate",
+    "Restrictive",
+    "Vacillate",
+    "Expurgate"
+   ],
+   "answer": 2,
+   "explanation": "Vacillate — alternate indecisively",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Vapid\" mean?",
+   "choices": [
+    "obsolete through age",
+    "remarkably great",
+    "lacking liveliness or substance",
+    "physical or mental weariness"
+   ],
+   "answer": 2,
+   "explanation": "Vapid — lacking liveliness or substance",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"lacking liveliness or substance\"?",
+   "choices": [
+    "Stagnant",
+    "Fortuitous",
+    "Disseminate",
+    "Vapid"
+   ],
+   "answer": 3,
+   "explanation": "Vapid — lacking liveliness or substance",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Venial\" mean?",
+   "choices": [
+    "accept or overlook wrongdoing",
+    "relatively pardonable",
+    "bitterly hostile",
+    "counterbalancing a deficiency"
+   ],
+   "answer": 1,
+   "explanation": "Venial — relatively pardonable",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"relatively pardonable\"?",
+   "choices": [
+    "Venial",
+    "Complacent",
+    "Irrelevant",
+    "Penury"
+   ],
+   "answer": 0,
+   "explanation": "Venial — relatively pardonable",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Vertigo\" mean?",
+   "choices": [
+    "sensation of spinning",
+    "bitterly hostile",
+    "reduced in strength or intensity",
+    "unrelated to the matter"
+   ],
+   "answer": 0,
+   "explanation": "Vertigo — sensation of spinning",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"sensation of spinning\"?",
+   "choices": [
+    "Antiquated",
+    "Deleterious",
+    "Venial",
+    "Vertigo"
+   ],
+   "answer": 3,
+   "explanation": "Vertigo — sensation of spinning",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Vindicate\" mean?",
+   "choices": [
+    "briefly and clearly expressed",
+    "nobly generous",
+    "clear from accusation or justify",
+    "impair or corrupt"
+   ],
+   "answer": 2,
+   "explanation": "Vindicate — clear from accusation or justify",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"clear from accusation or justify\"?",
+   "choices": [
+    "Vindicate",
+    "Imperceptible",
+    "Augment",
+    "Malevolent"
+   ],
+   "answer": 0,
+   "explanation": "Vindicate — clear from accusation or justify",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Vitiate\" mean?",
+   "choices": [
+    "uniform in kind",
+    "refusing proper authority",
+    "impair or corrupt",
+    "represent visually or verbally"
+   ],
+   "answer": 2,
+   "explanation": "Vitiate — impair or corrupt",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"impair or corrupt\"?",
+   "choices": [
+    "Egregious",
+    "Refute",
+    "Exhort",
+    "Vitiate"
+   ],
+   "answer": 3,
+   "explanation": "Vitiate — impair or corrupt",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Vitriolic\" mean?",
+   "choices": [
+    "impair or corrupt",
+    "bitterly hostile",
+    "shockingly unjust",
+    "unusually small"
+   ],
+   "answer": 1,
+   "explanation": "Vitriolic — bitterly hostile",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"bitterly hostile\"?",
+   "choices": [
+    "Effigy",
+    "Rationalize",
+    "Ascertain",
+    "Vitriolic"
+   ],
+   "answer": 3,
+   "explanation": "Vitriolic — bitterly hostile",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Vituperation\" mean?",
+   "choices": [
+    "treating serious matters humorously",
+    "bitter verbal abuse",
+    "exceptionally bad",
+    "increase in amount"
+   ],
+   "answer": 1,
+   "explanation": "Vituperation — bitter verbal abuse",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"bitter verbal abuse\"?",
+   "choices": [
+    "Vituperation",
+    "Attenuated",
+    "Vindicate",
+    "Advent"
+   ],
+   "answer": 0,
+   "explanation": "Vituperation — bitter verbal abuse",
+   "source": "Latin"
+  },
+  {
+   "question": "What does \"Volition\" mean?",
+   "choices": [
+    "deliberate exercise of will",
+    "natural inclination",
+    "provide reason for action",
+    "uselessness of effort"
+   ],
+   "answer": 0,
+   "explanation": "Volition — deliberate exercise of will",
+   "source": "Latin"
+  },
+  {
+   "question": "Which word means \"deliberate exercise of will\"?",
+   "choices": [
+    "Vacillate",
+    "Vapid",
+    "Vindicate",
+    "Volition"
+   ],
+   "answer": 3,
+   "explanation": "Volition — deliberate exercise of will",
+   "source": "Latin"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "exams": [
+  {
+   "category": "Vocabulary",
+   "chapter": "Vocabulary",
+   "file": "vocab-germanic.json",
+   "title": "Vocabulary — Germanic",
+   "note": "60 terms · asked both ways",
+   "draw": 20
+  },
+  {
+   "category": "Vocabulary",
+   "chapter": "Vocabulary",
+   "file": "vocab-french.json",
+   "title": "Vocabulary — French",
+   "note": "114 terms · asked both ways",
+   "draw": 20
+  },
+  {
+   "category": "Vocabulary",
+   "chapter": "Vocabulary",
+   "file": "vocab-latin.json",
+   "title": "Vocabulary — Latin",
+   "note": "128 terms · asked both ways",
+   "draw": 20
+  },
+  {
+   "category": "Vocabulary",
+   "chapter": "Vocabulary",
+   "file": "vocab-greek.json",
+   "title": "Vocabulary — Greek",
+   "note": "73 terms · asked both ways",
+   "draw": 20
+  },
+  {
+   "category": "Vocabulary",
+   "chapter": "Vocabulary",
+   "file": "vocab-world-sources.json",
+   "title": "Vocabulary — World Sources",
+   "note": "27 terms · asked both ways",
+   "draw": 20
+  },
+  {
+   "category": "Vocabulary",
+   "chapter": "Vocabulary",
+   "file": "vocab-early-modern.json",
+   "title": "Vocabulary — Early-Modern",
+   "note": "41 terms · asked both ways",
+   "draw": 20
+  },
+  {
+   "category": "Vocabulary",
+   "chapter": "Vocabulary",
+   "file": "vocab-17th.json",
+   "title": "Vocabulary — 17th Century",
+   "note": "54 terms · asked both ways",
+   "draw": 20
+  },
+  {
+   "category": "Vocabulary",
+   "chapter": "Vocabulary",
+   "file": "vocab-18th.json",
+   "title": "Vocabulary — 18th Century",
+   "note": "28 terms · asked both ways",
+   "draw": 20
+  },
+  {
+   "category": "Vocabulary",
+   "chapter": "Vocabulary",
+   "file": "vocab-19th.json",
+   "title": "Vocabulary — 19th Century",
+   "note": "98 terms · asked both ways",
+   "draw": 20
+  },
+  {
+   "category": "Vocabulary",
+   "chapter": "Vocabulary",
+   "file": "vocab-modern.json",
+   "title": "Vocabulary — Modern",
+   "note": "23 terms · asked both ways",
+   "draw": 20
+  },
+  {
+   "category": "Vocabulary",
+   "chapter": "Vocabulary",
+   "file": "vocab-all.json",
+   "title": "Vocabulary — All Terms",
+   "note": "646 terms · asked both ways",
+   "draw": 20
+  }
+ ]
+}
